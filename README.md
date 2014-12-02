@@ -9,4 +9,4 @@ Github allows all collaborators to change rules and policies for the MPC. It all
 ##All changes should be justified by the author using the commit changes option at the bottom of each document.
 
 ##Table of Contents
-* [Student Handbook](/MPC/student-handbook/tableofcontents.md)
+* [Student Handbook](https://github.com/zcaceres/MPC/blob/master/Student-Handbook/TableOfContents.md)
