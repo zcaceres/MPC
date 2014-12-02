@@ -26,3 +26,5 @@ Coaches should not judge the student's work. They should encourage the student w
 
 It's best not to interrupt students who are reading, look deep in thought (for example, with headphones on), or have gone off to a quiet space by themselves. Look for students in the shared spaces.
 
+Coaches and students will eventually have a more neatly established schedule 
+
