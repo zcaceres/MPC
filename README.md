@@ -7,3 +7,6 @@ The purpose of this repo is to collect all major components of the MPC model. Fi
 Github allows all collaborators to change rules and policies for the MPC. It allows for an on-going conversation and evolution of the model. 
 
 ##All changes should be justified by the author using the commit changes option at the bottom of each document.
+
+##Table of Contents
+* [Student Handbook](student-handbook/table-of-contents.md)
