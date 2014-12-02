@@ -9,9 +9,12 @@ During contract week, students will need lots of one-on-one attention to set the
 During portfolio week, students meet with coaches and peers to share and evaluate their portfolios and progress toward their Great Work.
 
 ##Role
-The role of coaches is to help students 
+The role of coaches is to help students develop as creative individuals. Coaches are there to coach, not to command, nor to mold students in a predefined image. Coaches encourage students. This encouragement is focused on helping students reach their goals and develop the good habits of a growth mindset.
 
 ##Attitudes
+Coaches are at the MPC to help students develop a growth mindset.
+
+Coaches should never praise students for being "smart" or "talented". These traits suggest to the student (and any nearby students) that their abilities are fixed by genetics or luck. Coaches should praise the students "hard-work", "discpline" or "focus" instead. These traits are choices and habits that students can develop.
 
 ##Software
 Coaches will be trained in the use of MPC software when they are hired.
