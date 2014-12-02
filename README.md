@@ -15,4 +15,6 @@ Github allows all collaborators to change rules and policies for the MPC. It all
 * [Bootcamp Handbook](https://github.com/zcaceres/MPC/blob/master/Bootcamp)
 
 ##Resources: 
-* [Basic HTML Commands](http://www.webmonkey.com/2010/02/html_cheatsheet/)
+Text documents are made with Markdown (that's why everything has .md at the end!)
+Here's a cheat-sheet for formatting:
+* [Basic Commands For Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
