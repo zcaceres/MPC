@@ -1,4 +1,4 @@
-#MPC-handbook
+#MPC Policies and Handbooks
 ============
 Policies, protocols, and organization for the Michael Polanyi College at Universidad Francisco Marroquín.
 
@@ -8,7 +8,7 @@ Github allows all collaborators to change rules and policies for the MPC. It all
 
 <b>All changes should be justified by the author using the commit changes option at the bottom of each document.</b>
 
-##Table of Contents
+##Contents
 * [Student Handbook](https://github.com/zcaceres/MPC/blob/master/Student-Handbook/TableOfContents.md)
 * [Staff Policies](https://github.com/zcaceres/MPC/blob/master/Staff-Policies/)
 * [Coaches Handbook](https://github.com/zcaceres/MPC/blob/master/Coaches/Handbook.md)
