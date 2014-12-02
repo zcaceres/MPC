@@ -14,7 +14,7 @@ The role of coaches is to help students
 ##Attitudes
 
 ##Software
-
+Coaches will be trained in the use of MPC software when they are hired.
 
 ##Techniques
 <b>The 'Grandmother Method'</b>
@@ -25,3 +25,4 @@ Coaches should listen attentively as the student explains. Then they should ask 
 Coaches should not judge the student's work. They should encourage the student with positive remarks like, "That's really interesting!" and "Wow! What will you do next?" It's called the Grandma method because you grandmother never judges you. She just looks over your shoulder, sounds impressed, and encourages.
 
 It's best not to interrupt students who are reading, look deep in thought (for example, with headphones on), or have gone off to a quiet space by themselves. Look for students in the shared spaces.
+
