@@ -10,3 +10,9 @@ Github allows all collaborators to change rules and policies for the MPC. It all
 
 ##Table of Contents
 * [Student Handbook](https://github.com/zcaceres/MPC/blob/master/Student-Handbook/TableOfContents.md)
+* [Staff Policies](https://github.com/zcaceres/MPC/blob/master/Staff-Policies/)
+* [Coaches Handbook](https://github.com/zcaceres/MPC/blob/master/Coaches)
+* [Bootcamp Handbook](https://github.com/zcaceres/MPC/blob/master/Bootcamp)
+
+##Resources: 
+* [Basic HTML Commands](http://www.webmonkey.com/2010/02/html_cheatsheet/)
