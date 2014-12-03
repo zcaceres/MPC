@@ -32,13 +32,13 @@ The Writer's Clinic is a regular meeting for Bootcampers to improve their writin
 
 There's an important checkpoint each week.
 
-####Week 1: Pre-Reading and Introduction
+#####Week 1: Pre-Reading and Introduction
 
-####Week 2: Outline and Chapters
+#####Week 2: Outline and Chapters
 
-####Week 3: Closing, First Draft and Peer Review
+#####Week 3: Closing, First Draft and Peer Review
 
-####Week 4: Writing Tutor Consult and Final Draft
+#####Week 4: Writing Tutor Consult and Final Draft
 
 ###Bootcamp Learning Contracts
 We encourage you to test our Learning Contract software. Practice makes perfect! Bootcampers will not be held accountable for their learning contracts. Instead, they are encouraged to drop in on open courses led by other students, seminars led by coaches, and to focus on their Bootcamp work.
