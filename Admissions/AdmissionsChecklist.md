@@ -14,10 +14,11 @@
 4. Gather all portfolios of finalists with rubrics
 5. Student arrives and gives Carmen full student data
 6. Panelists look at portfolio before student enters
-7. Interview begins with top rubric question
-8. Continue conversation until timer goes off at 25 minute mark
-9. Five minutes of deliberation
-10. Write final verdict on bottom of voting sheet
+7. Panelists sign interview agreement.
+8. Interview begins with top rubric question
+9. Continue conversation until timer goes off at 25 minute mark
+10. Five minutes of deliberation
+11. Write final verdict on bottom of voting sheet
 
 ##Post-Interview
 1. Assemble list of accepted students
