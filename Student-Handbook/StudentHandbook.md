@@ -89,7 +89,7 @@ Whatever path you take, you need to write well. The MPC Writer's Clinic is a reg
 #####Book Reviews
 Students are responsible for producing a high-quality 1000-2000 word review of their book each subject cycle. 
 
-[Here's the rubric for book reviews and some samples of good work.](PUTLINKHERE)
+[Here's the rubric for book reviews and some samples of good work.](https://drive.google.com/file/d/0BwTbZzlJYPL2NUlYSUVQYl9oaEU/view?usp=sharing)
 
 #####Essay
 Essays follow a similar format to book reviews. But essays offer greater freedom than the review. There is no page limit to the essay. It is expected to be as concise as possible while still conveying the most important information on their topic. You can include references to other readings and your own opinions. Think of it as an engaging chapter in a book. Make it clear. Make it entertaining. Make it professional.
