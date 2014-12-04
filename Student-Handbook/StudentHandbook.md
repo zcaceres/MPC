@@ -136,16 +136,17 @@ Bring this to the workshop:
 #####Week 3: Closing, First Draft and Peer Review
 Time for some serious editing. We'll break up into groups of 2-3 for peer review. Read your work out loud to the reviewers, who take notes and give feedback. Listen to how your writing sounds as you speak it. If it sounds confusing or dumb when it's said – it's bad writing.
 
-Bring this to the workshop:
+Bring this to the peer review workshop:
 1. Your complete first draft
 
-[Here's a checklist for peer-review](LINK HERE)
+[Here's a checklist for peer review](LINK HERE)
 
+Finish your second draft this week and polish it.
 <b>You must schedule a consultation with an MPC writing tutor for the next week</b>
 
 #####Week 4: Writing Tutor Consult and Final Draft
 
-[Here's a checklist of all the steps presented here, week-by-week.](linkhere)
+[Here's a checklist of all the steps presented here, week-by-week.](https://docs.google.com/document/d/1-hR9BH3zlUSN8mUYpFovp9n8UW7i5afjCumm3paaYN0/edit?usp=sharing)
 
 ###ExpoDay
 On ExpoDay, we open the program to the public. Students give their presentations in a rapid-fire TED-style event. Students are expected to demonstrate their mastery of their chosen area. Essays or book reviews are also due on ExpoDay. These essays are bound into a Bootcamp Book and given to the students at the end of the first year. Your essay or review becomes a chapter in this student-produced textbook of all ten subjects.
