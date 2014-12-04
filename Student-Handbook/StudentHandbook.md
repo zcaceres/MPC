@@ -2,9 +2,11 @@
 Hi! Welcome to the handbook of the MPC Creative Learning Community at Universidad Francisco Marroquín. This will help you get started.
 
 ##Table of Contents
+History of the MPC
+The MPCer
+Values and Philosophy
 Bootcamp
 How to Make a Learning Contract
-Values and Philosophy
 The People You'll Meet
 
 
@@ -23,21 +25,49 @@ Insatiable curiosity
 
 
 ##Bootcamp
-Year one is the bootcamp 
+Year one is the bootcamp.
 
 The Bootcamp focuses on three main skills: 
 1. Reading and Discussing
 2. Public Speaking
-3. Writing.
+3. Writing
+
+As you master these skills, you'll learn the core ideas of ten subjects.
+
+Those subjects are:
+Philosophy
+Biology and Evolution
+Psychology
+Economics, Finance and Money
+Political Science, Law and Sociology
+Physics, Statistics and Probability
+History and Literature
+Art, Design, and Cultural Evolution
+Technology
+Entrepreneurship and Innovation
+
+Why did we choose these subjects? Because they're the most important fields for the development of creative individuals. After Bootcamp, you should understand the main ideas of each field. You won't yet be an expert. But you'll be ready to decide which areas you want to study more deeply.
+
+How will you learn the subjects? We bring in an expert in each subject to lead discussions on core ideas and to help you with your independent reading. On day one of each Bootcamp, you'll choose independent reading in the subject. This reading, selected from a curated list, will inform your talk on ExpoDay and your work in the Writer's Clinic. If you really don't like any of the books on the list, you can suggest a book of comparable quality in the subject. But it will have to be approved by the mentor.
+
+The main componenets of the Bootcamp are:
+Core Dialogues
+Experiential Learning Days
+Creative Development Seminars
+Writer's Clinic
+Bootcamp Learning Contracts
+ExpoDay
 
 ###Core Dialogues
-
+Core dialogues meet on Days 1, 4, 6, 9, and 11. Occasionally there will be other days devoted to core ideas.
 
 ###Creative Development Seminars
 Growing as a creator is difficult. During the Bootcamp, we also have activities and discussions about creative development. 
 
 ###Experiential Learning
-The MPC isn't just reading and 
+The MPC isn't just reading and writing. In between core dialogues, the subject expert will assign you other activities to learn the ideas. For example, in psychology you may have to go out and sell products using persuasion techniques. Or perhaps we'll visit real biologist's lab during biology.
+
+Experiential learning will take you outside the MPC.
 
 ###Writer's Clinic
 The Writer's Clinic is a regular meeting for Bootcampers to improve their writing. Re
