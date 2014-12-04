@@ -13,16 +13,6 @@ The People You'll Meet
 
 ##History of the MPC
 Noncoercive education essay. Giancarlo. Late-2012. Brand new model in late 2014.
-
-##The MPCer
-As an MPCer, you were chosen as members of a rare breed. MPCers show a rare combination of maturity, focus, and creative talent.
-
-####Creative Professionalism
-MPCers train to be pros. 
-
-####Lifelong Learner
-Insatiable curiosity
-
 ##What do you need for the MPC?
 
 <b>A well-functioning modern laptop</b>
@@ -92,38 +82,37 @@ Students learn writing in a clinical environment throughout the Bootcamp. The fi
 
 
 ###Writer's Clinic
-The Writer's Clinic is a regular meeting for Bootcampers to improve their writing. In the first half of Bootcamp, you write book reviews. In the second half, you write essays.
+Good writing is clear thinking made visible. Written communication is especially key to the digital age.
+
+Whatever path you take, you need to write well. The MPC Writer's Clinic is a regular meeting for Bootcampers to improve their writing. In the first half of Bootcamp, you write book reviews. In the second half, you write essays. Book reviews are less critical and more structured. Essays are freer and include more of your voice. You graduate to the freedom of the essay through rigorous practice of the review.
 
 #####Book Reviews
 Students are responsible for producing a high-quality 1000-2000 word review of their book each subject cycle. 
 
-During week one, students pre-read and write their introduction. The MPC Writer’s Clinic meets and we review. 
-
-During week two, students should reach the end of their book. Students produce an outline and write sections to summarize each chapter. 
-
-During week three, students produce a first draft of the entire piece. The writer’s clinic meets for peer review in groups of 2-3 students. 
-
-During week four, students schedule a one-on-one consultation with a writing tutor. During the final days students prepare to publish their review, share it with their subject mentor, and to participate in ExpoDay.
-
-[Here's the rubric for book reviews](PUTLINKHERE)
+[Here's the rubric for book reviews and some samples of good work.](PUTLINKHERE)
 
 #####Essay
-Essays follow a similar format to book reviews. But essays offer greater freedom than the review. There is no page limit to the essay. It is expected to be as concise as possible while still conveying the most important information on their topic. Think of it as a chapter in a textbook. Make it clear and entertaining. On the first day of Prep Week, students exchange their essays with each other. On the fourth day, students receive their drafts with feedback from their reviewer(s).
+Essays follow a similar format to book reviews. But essays offer greater freedom than the review. There is no page limit to the essay. It is expected to be as concise as possible while still conveying the most important information on their topic. You can include references to other readings and your own opinions. Think of it as an engaging chapter in a book. Make it clear. Make it entertaining. Make it professional.
 
-
-
-####Checkpoints
+####Writing Checkpoints
 Each week there's an important event in the Writer's Clinic.
+
+During week one, students pre-read and write their introduction. The MPC Writer’s Clinic meets and we review. 
+During week two, students should reach the end of their book. Students produce an outline and write sections to summarize each chapter. 
+During week three, students produce a first draft of the entire piece. The writer’s clinic meets for peer review in groups of 2-3 students. 
+During week four, students schedule a one-on-one consultation with a writing tutor. During the final days students prepare to publish their review, share it with their subject mentor, and to participate in ExpoDay.
 
 #####Week 1: Pre-Reading and Introduction
 Read preface, introduction, and at least the first chapter of the book. 
 Read liner notes and any commentary on the back cover. 
 Scan or speed-read the final chapter or conclusion. 
 
+Look for material to include in your intro. Around the middle of the first week, write your introduction—i.e., your first paragraph — focusing on the overarching importance or uniqueness of the book, any controversy it might stir, the author’s reputation, etc.
+
 You need to bring this to the workshop:
 1. Your introduction (a strong first paragraph)
 
-During pre-reading, you want to look for material to include in your intro. Around the middle of the first week, write your introduction—i.e., your first paragraph—focusing on the overarching importance or uniqueness of the book, any controversy it might stir, the author’s reputation, etc. Bring a draft of your opening paragraph to the first one-hour session that we have scheduled in order to discuss this step.
+Now get reading! You probably should schedule clear reading goals so you finish on-time. Talk to a coach or co-learner if you need help with this.
 
 #####Week 2: Outline and Chapters
 Finish your book this week. Coordinate your notes and start to synthesize them into paragraph-length summaries of each chapter. Don't just regurgitate. Have some style. Remember that one short, powerful quote is worth more than ten huge block quotes. 
@@ -139,14 +128,19 @@ Time for some serious editing. We'll break up into groups of 2-3 for peer review
 Bring this to the peer review workshop:
 1. Your complete first draft
 
-[Here's a checklist for peer review](LINK HERE)
+[Here's a checklist for peer review](https://docs.google.com/document/d/1InB9QeJ0qQxazB9ND8TT6mXFqtKxAoMmcnUwBKAMCRo/edit?usp=sharing)
 
-Finish your second draft this week and polish it.
-<b>You must schedule a consultation with an MPC writing tutor for the next week</b>
+<b>You must schedule a consultation with an MPC writing tutor for the next week</b> You should have revised your draft based on the peer review. Bring a polished second draft to your consultation.
 
 #####Week 4: Writing Tutor Consult and Final Draft
 
-[Here's a checklist of all the steps presented here, week-by-week.](https://docs.google.com/document/d/1-hR9BH3zlUSN8mUYpFovp9n8UW7i5afjCumm3paaYN0/edit?usp=sharing)
+Bring this to your consult with a Writing Tutor:
+1. Your second draft (which must include feedback from peer review)
+
+[Here's a checklist for final draft review](https://docs.google.com/document/d/1do1op-_3iTYL1FXMEXacLEHzs77webrJmNp7RRZn5Tw/edit?usp=sharing)
+
+We'll do this same process for every subject. 
+In case you need a reminder, [here's a checklist of all the steps presented here, week-by-week.](https://docs.google.com/document/d/1-hR9BH3zlUSN8mUYpFovp9n8UW7i5afjCumm3paaYN0/edit?usp=sharing)
 
 ###ExpoDay
 On ExpoDay, we open the program to the public. Students give their presentations in a rapid-fire TED-style event. Students are expected to demonstrate their mastery of their chosen area. Essays or book reviews are also due on ExpoDay. These essays are bound into a Bootcamp Book and given to the students at the end of the first year. Your essay or review becomes a chapter in this student-produced textbook of all ten subjects.
@@ -183,29 +177,26 @@ Check out our Learning Contract step-by-step for more details.
 
 
 
-##Values and Philosophy
-At the MPC we value hard work, authenticity, professionalism, and creative individuality.
-
-Hard work means that students are expected to stay in the driver's seat of their education. 
-
-Professionalism means that expect each other to avoid excuses. Any work worth doing is worth doing well. From mentorships to internships to leading an experience in the MPC, we expect everyone to do the best work possible.
-
-Authenticity means that the MPC is a safe place to be yourself. We may disagree, but we don't take it personally. You're free to 
-Creative individuality means that everything we do is meant to make you a more confident, skilled, and disciplined creator. Creativity is the ultimate resource. But, sadly, it's rarely cultivated in traditional schools.
-
-
 ##The People You'll Meet
 Because of the MPC's unique model, we do not have permanent faculty. Here are the people you'll encounter during your time in the MPC.
 
 Personal Coaches: We keep coaches on hand to help students create courses, and structure their goals and Learning Contracts. Coaches give regular seminars about areas that they're experts in. Coaches hang out in the MPC space. Most are professionals with businesses or other work outside the MPC. We did this deliberately. Keeping active professionals in the space allows students to network for opportunities and to learn from the real experience of others.
 
+[Here's a link to our Coach's Handbook]()
+
 Subject Experts: During the first year, we hire experts in individual subjects to lead month-long Bootcamps in 10 different fields. These are professional scholars from UFM and elsewhere. You will work closely with these experts in a group of about 16-18. But there will be plenty of opportunity for one-on-one attention during the courses as well.
+
+[Here's a link to our Subject Expert Handbook]()
 
  We bring in an expert for each subject to lead discussions on core ideas and to help you with your independent reading. These experts take you through the main ideas and are available to answer questions during unstructured time at the MPC. It's your responsibility to talk to them if you're confused.
 
 Mentors: The Learning Contracts that you design with the help of the MPC uses a system of paid mentorship to create grades and connect you with internships and other experiences. For example, a student this semester is studying programming and we have a professional programmer who is evaluating their final web design project for a grade. The MPC pays these mentors and helps you find them.
 
+[Here's a link to our Mentor Handbook]()
+
 Visiting Professors: We bring in speakers and other professors for discussions, debates, and other activities.
 
-##Advice
-The MPC is not easy. With freedom comes responsibility. You should take your goal-setting seriously. Set goals that challenge you, but that you can achieve each term. Coaches are here to help. All courses must be rigorous, or we won't approve them.
+[Here's a link to our resources for Visiting Professors]()
+
+Writing Tutors:
+
