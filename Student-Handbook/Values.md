@@ -13,3 +13,4 @@ MPCers train to be pros.
 Lifelong Learner
 
 Insatiable curiosity
+####Sixteen Habits of Mind
