@@ -7,8 +7,20 @@ How to Make a Learning Contract
 Values and Philosophy
 The People You'll Meet
 
+
+##History of the MPC
+Noncoercive education essay. Giancarlo. Late-2012. Brand new model in late 2014.
+
 ##The MPCer
 As an MPCer, you were chosen as members of a rare breed. MPCers show a rare combination of maturity, focus, and creative talent.
+
+####Creative Professionalism
+MPCers train to be pros. 
+
+####Lifelong Learner
+Insatiable curiosity
+
+
 
 ##Bootcamp
 Year one is the bootcamp 
