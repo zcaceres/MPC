@@ -11,7 +11,7 @@ The People You'll Meet
 As an MPCer, you were chosen as members of a rare breed. MPCers show a rare combination of maturity, focus, and creative talent.
 
 ##Bootcamp
-Year one is the bootcamp
+Year one is the bootcamp 
 
 The Bootcamp focuses on three main skills: 
 1. Reading and Discussing
