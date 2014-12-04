@@ -125,6 +125,10 @@ There's an important checkpoint each week.
 ###Creative Development Seminars
 Growing as a creator is difficult. During the Bootcamp, we also have activities and discussions specifically about creative development. These discussions have a philosophical and a practical side. Sometimes we'll focus on themes like integrity, honesty and authenticity, or creative courage. Other times we'll learn about project management, how to deal with difficult people, or organizational skills.
 
+Starting in the Bootcamp, students are asked to examine questions of their own personal philosophy. Students read, participate in discussions, attend workshops, and have experiences meant to encourage them to become more authentic, to give and receive honest feedback, and to become courageous and creative non-conformists.
+
+Students are asked to look deep within themselves to find their Inner Calling. As students learn more about the world and understand themselves better, they prepare to enter their second year of apprenticeship and to explore their creative medium.
+
 
 
 ###Experiential Learning
