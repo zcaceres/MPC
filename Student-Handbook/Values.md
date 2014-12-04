@@ -16,6 +16,7 @@ Insatiable curiosity
 ####Sixteen Habits of Mind
 A "Habit of Mind" means having a disposition toward behaving intelligently when confronted with problems, the answers to which are not immediately known.
 [Click to be driven towards the sixteen habits of mind](http://www.chsvt.org/wdp/Habits_of_Mind.pdf) 
+For additional reference here are also [seven good thinking dispositions](https://learnweb.harvard.edu/alps/thinking/docs/Magnificent7.pdf) that play well along with the 16 habits of mind.
 
 
 
