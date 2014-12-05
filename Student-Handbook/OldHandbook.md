@@ -1,3 +1,3 @@
 ###Put the rest here
 
-##Graduation Requirements
+#Graduation Requirements
