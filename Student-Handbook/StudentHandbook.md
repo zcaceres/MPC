@@ -78,7 +78,7 @@ Here are the main components of the Bootcamp:
 1. Core Dialogues
 2. Experiential Learning Days
 3. Creative Development Seminars
-4. Writer's Clinic
+4. Writer's Studio
 5. Bootcamp Learning Contracts
 6. ExpoDay
 
@@ -88,10 +88,10 @@ The first step to success is showing up. <b>All components are mandatory for Boo
 Students have focused dialogues about the main ideas of the subject. <b>You must do your reading before these dialogues begin or you will be lost.</b> Core dialogues meet on Days 1, 4, 6, 9, and 11 of each subject cycle. Occasionally there will be other days devoted to core ideas. These conversations are intense and cover a lot of material, so get a good night's sleep the day before.
 
 ####Independent reading?
-On Day One of each Bootcamp, you'll choose independent reading in the subject. This reading, selected from a curated list, will inform your talk on ExpoDay and your work in the Writer's Clinic. Choose something that interests you, because you're going to write and speak about the book. If you really don't like any of the books on the list, you can suggest a book of comparable quality in the subject. But it will have to be approved by the MPC. Talk to the subject expert if you're confused about your book.
+On Day One of each Bootcamp, you'll choose independent reading in the subject. This reading, selected from a curated list, will inform your talk on ExpoDay and your work in the Writer's Studio. Choose something that interests you, because you're going to write and speak about the book. If you really don't like any of the books on the list, you can suggest a book of comparable quality in the subject. But it will have to be approved by the MPC. Talk to the subject expert if you're confused about your book.
 
 
-Students learn writing in a clinical environment throughout the Bootcamp. The first half of the year, students produce book reviews based on their reading. During the second half, students are expected to become more critical and write lengthier, more personal essay on their reading.
+Students learn writing in a workshop environment throughout the Bootcamp. The first half of the year, students produce book reviews based on their reading. During the second half, students are expected to become more critical and write lengthier, more personal essay on their reading.
 
 
 
@@ -101,10 +101,10 @@ Students learn writing in a clinical environment throughout the Bootcamp. The fi
 
 
 
-###Writer's Clinic
+###Writer's Studio
 Good writing is clear thinking made visible. Written communication is especially key to the digital age.
 
-Whatever path you take, you need to write well. The MPC Writer's Clinic is a regular meeting for Bootcampers to improve their writing. In the first half of Bootcamp, you write book reviews. In the second half, you write essays. Book reviews are less critical and more structured. Essays are freer and include more of your voice. You graduate to the freedom of the essay through rigorous practice of the review.
+Whatever path you take, you need to write well. The MPC Writer's Studio is a regular meeting for Bootcampers to improve their writing. In the first half of Bootcamp, you write book reviews. In the second half, you write essays. Book reviews are less critical and more structured. Essays are freer and include more of your voice. You graduate to the freedom of the essay through rigorous practice of the review.
 
 #####Book Reviews
 Students are responsible for producing a high-quality 1000-2000 word review of their book each subject cycle. 
@@ -115,11 +115,11 @@ Students are responsible for producing a high-quality 1000-2000 word review of t
 Essays follow a similar format to book reviews. But essays offer greater freedom than the review. There is no page limit to the essay. It is expected to be as concise as possible while still conveying the most important information on their topic. You can include references to other readings and your own opinions. Think of it as an engaging chapter in a book. Make it clear. Make it entertaining. Make it professional.
 
 ####Writing Checkpoints
-Each week there's an important event in the Writer's Clinic.
+Each week there's an important event in the Writer's Studio.
 
-During week one, students pre-read and write their introduction. The MPC Writer’s Clinic meets and we review. 
+During week one, students pre-read and write their introduction. The MPC Writer’s Studio meets and we review. 
 During week two, students should reach the end of their book. Students produce an outline and write sections to summarize each chapter. 
-During week three, students produce a first draft of the entire piece. The writer’s clinic meets for peer review in groups of 2-3 students. 
+During week three, students produce a first draft of the entire piece. The Writer’s Studio meets for peer review in groups of 2-3 students. 
 During week four, students schedule a one-on-one consultation with a writing tutor. During the final days students prepare to publish their review, share it with their subject mentor, and to participate in ExpoDay.
 
 #####Week 1: Pre-Reading and Introduction
