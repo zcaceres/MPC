@@ -4,6 +4,7 @@ Hi! Welcome to the handbook of the MPC Creative Learning Community at Universida
 ##Table of Contents
 History of the MPC
 The MPCer
+Hours and the MPC Space
 What do you need for the MPC?
 Values and Philosophy
 Bootcamp
@@ -13,6 +14,7 @@ The People You'll Meet
 
 ##History of the MPC
 Noncoercive education essay. Giancarlo. Late-2012. Brand new model in late 2014.
+
 ##What do you need for the MPC?
 
 <b>A well-functioning modern laptop</b>
@@ -26,6 +28,24 @@ We recommend Microsoft Office and design programs like Adobe Photoshop or Illust
 
 Creative materials?
 If you want to spend your time working on a craft that requires lots of materials such as painting, you are responsible for those materials. The MPC does have some materials available. These are shared and you can't always count on their availability. Bring what you need. <b>If you don't want people to use your stuff, make sure you CLEARLY label what's yours.</b> Better yet, bring a box or other container where you can store creative materials. For the most part, we're a trustworthy bunch!
+
+##MPChat with Slack
+When you enroll in the MPC, we'll invite you to our private online chatroom. We use a platform called Slack.
+
+Slack is divided into independent chat rooms called channels. Most of the channels should be pretty obvious. Put cool stuff for others in "#share", put experiences in "#experiences", and put lolcats in "#random". Please be respectful of others on Slack.
+
+<b>It is your responsibility to check Slack regularly so that you don't miss important announcements.</b>
+
+##Hours and the MPC Space
+The MPC space at UFM is open from XX:XX to 9:00pm, Monday through Friday. 
+
+As a student of the MPC, you have exclusive access to this space. You are always welcome. Please be respectful of others and the resources of the MPC.
+
+Bootcamp courses are scheduled for each subject cycle. We don't schedule things into the evening because we believe you need time with friends, family, loved ones, and to do other activities. 
+
+Aside from Bootcamp, the MPC does not have an official daily schedule. The schedule emerges from the courses and experiences designed by MPCers. Consult the MPC calendar to find regular seminars, experiences, student-led courses, dialogues with visitors, and other events. 
+
+<b>It's important to check your calendar regularly.</b>
 
 ##Bootcamp
 Year one is Learning Bootcamp. The theme of the first year is "Explore Your Calling".
