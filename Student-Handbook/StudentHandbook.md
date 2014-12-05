@@ -71,6 +71,29 @@ As you master these skills, you'll learn the core ideas of ten subjects.
 Why did we choose these subjects? 
 Because they're the most important fields for the development of creative individuals. After Bootcamp, you should understand the main ideas of each field. You won't yet be an expert. But you'll be ready to decide which areas you want to study more deeply.
 
+What are the "course texts"?
+Each subject has texts defined by the subject tutor. The MPC will provide you with digital copies.
+
+Here's important texts for understanding Bootcamp in general.
+
+Dialogue:
+[On Dialogue by David Bohm](http://sprott.physics.wisc.edu/Chaos-Complexity/dialogue.pdf)
+
+Writing and Public Speaking
+1. [Writing and Speaking by Paul Graham](http://paulgraham.com/speak.html)
+2. [Writing, Briefly by Paul Graham](http://paulgraham.com/writing44.html)
+
+Creative Development
+[Corn-Pone Opinions by Mark Twain](http://englishbusselman.weebly.com/uploads/1/3/8/2/13827069/corn-pone_opinions_-_twain.pdf)
+[Self-Reliance by Ralph Waldo Emerson](http://www.emersoncentral.com/selfreliance.htm)
+[The War of Art by Steven Pressfield](LINK HERE)
+
+Independent Learning
+[Selection from Peak Learning: Skills for Today and Tomorrow by Ronald Gross](LINKHERE)
+[You Weren't Meant to Have a Boss by Paul Graham](http://www.paulgraham.com/boss.html)
+[Book: The Rise of the Creative Class by Richard Florida](http://smile.amazon.com/Rise-Creative-Class--Revisited-Revised-Expanded/dp/0465042481/ref=sr_1_1?ie=UTF8&qid=1417806981&sr=8-1&keywords=rise+of+the+creative+class)
+[The Long Game by Zachary Caceres](LINKHERE)
+
 How will you learn the subjects? 
 Dialogues with experts, experiential learning, and independent reading and writing.
 
@@ -164,6 +187,12 @@ In case you need a reminder, [here's a checklist of all the steps presented here
 
 ###ExpoDay
 On ExpoDay, we open the program to the public. Students give their presentations in a rapid-fire TED-style event. Students are expected to demonstrate their mastery of their chosen area. Essays or book reviews are also due on ExpoDay. These essays are bound into a Bootcamp Book and given to the students at the end of the first year. Your essay or review becomes a chapter in this student-produced textbook of all ten subjects.
+
+ExpoDay is a chance to practice public speaking. You'll be tasks
+
+Writing and public speaking serve different purposes. Read this essay on public speaking versus writing.
+
+Your book review or essay should be a clean and accurate exposition of the book. Your ExpoDay talk is your chance to engage more creatively 
 
 ###Creative Development Seminars
 Growing as a creator is difficult. During the Bootcamp, we also have activities and discussions specifically about creative development. These discussions have a philosophical and a practical side. Sometimes we'll focus on themes like integrity, honesty and authenticity, or creative courage. Other times we'll learn about project management, how to deal with difficult people, or organizational skills.
