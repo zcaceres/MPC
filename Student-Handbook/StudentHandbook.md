@@ -78,21 +78,25 @@ Here's important texts for understanding Bootcamp in general.
 
 Dialogue:
 [On Dialogue by David Bohm](http://sprott.physics.wisc.edu/Chaos-Complexity/dialogue.pdf)
+[How to Disagree by Paul Graham](http://paulgraham.com/disagree.html)
 
 Writing and Public Speaking
 1. [Writing and Speaking by Paul Graham](http://paulgraham.com/speak.html)
 2. [Writing, Briefly by Paul Graham](http://paulgraham.com/writing44.html)
+3. [Book: A Sense of Style by Steven Pinker](http://smile.amazon.com/Sense-Style-Thinking-Persons-Writing-ebook/dp/B00INIYG74/ref=sr_1_1?ie=UTF8&qid=1417809539&sr=8-1&keywords=sense+of+style+pinker)
 
 Creative Development
 [Corn-Pone Opinions by Mark Twain](http://englishbusselman.weebly.com/uploads/1/3/8/2/13827069/corn-pone_opinions_-_twain.pdf)
 [Self-Reliance by Ralph Waldo Emerson](http://www.emersoncentral.com/selfreliance.htm)
 [The War of Art by Steven Pressfield](LINK HERE)
+[Turning Pro by Steven Pressfield]()
 
 Independent Learning
 [Selection from Peak Learning: Skills for Today and Tomorrow by Ronald Gross](LINKHERE)
-[You Weren't Meant to Have a Boss by Paul Graham](http://www.paulgraham.com/boss.html)
-[Book: The Rise of the Creative Class by Richard Florida](http://smile.amazon.com/Rise-Creative-Class--Revisited-Revised-Expanded/dp/0465042481/ref=sr_1_1?ie=UTF8&qid=1417806981&sr=8-1&keywords=rise+of+the+creative+class)
-[The Long Game by Zachary Caceres](LINKHERE)
+
+The Creative Economy
+1.[Book: The Rise of the Creative Class by Richard Florida](http://smile.amazon.com/Rise-Creative-Class--Revisited-Revised-Expanded/dp/0465042481/ref=sr_1_1?ie=UTF8&qid=1417806981&sr=8-1&keywords=rise+of+the+creative+class)
+2. [You Weren't Meant to Have a Boss by Paul Graham](http://www.paulgraham.com/boss.html)
 
 How will you learn the subjects? 
 Dialogues with experts, experiential learning, and independent reading and writing.
@@ -186,43 +190,59 @@ We'll do this same process for every subject.
 In case you need a reminder, [here's a checklist of all the steps presented here, week-by-week.](https://docs.google.com/document/d/1-hR9BH3zlUSN8mUYpFovp9n8UW7i5afjCumm3paaYN0/edit?usp=sharing)
 
 ###ExpoDay
-On ExpoDay, we open the program to the public. Students give their presentations in a rapid-fire TED-style event. Students are expected to demonstrate their mastery of their chosen area. Essays or book reviews are also due on ExpoDay. These essays are bound into a Bootcamp Book and given to the students at the end of the first year. Your essay or review becomes a chapter in this student-produced textbook of all ten subjects.
+ExpoDay is a monthly gathering of Bootcampers. It's an important day for students. Bootcampers give their ExpoDay presentations about their independent reading. Grades for public speaking are given on this day. Then we have a party and celebrate work well done.
 
-ExpoDay is a chance to practice public speaking. You'll be tasks
+Essays or book reviews are due on ExpoDay. These essays are bound into a Bootcamp Book and given to the students at the end of the first year. Your essay or review becomes a chapter in this student-produced textbook of all ten subjects.
 
-Writing and public speaking serve different purposes. Read this essay on public speaking versus writing.
+On ExpoDay, we open the program to the public. Your parents might show up. Students are expected to demonstrate their mastery of their chosen area in a creative format. 
 
-Your book review or essay should be a clean and accurate exposition of the book. Your ExpoDay talk is your chance to engage more creatively 
+ExpoDay is mostly for Bootcampers. Students in their second and third years can also show their work on ExpoDay. Students may practice public speaking through a talk, or may put their art or other work on display.
+
+####Public Speaking at ExpoDay
+Public speaking is a core skill of the MPC. ExpoDay is practice. Writing and public speaking serve different purposes. [Read this essay to understand why](http://paulgraham.com/speak.html). Put simply, writing generates, clarifies, and organizes ideas. Speaking convinces, entertains, and inspires action. A creator needs both.
+
+Your book review or essay should be a clean and accurate exposition of the book. But your ExpoDay presentation is your chance to engage more creatively with the ideas. These are not book reports or 'class presentations' like Middle School. Get critical with the ideas. Put your own spin on them. Express an argument, point out something insightful or strange.
+
+By default, everyone gives a 5-7 minute TED-talk style lecture on the subject. But ExpoDay has an open format. You can suggest something else instead.
+
+Example ExpoDay presentations might include:
+1. A theaterical monologue or dialogue
+2. A song about the ideas
+3. Sculpture or art on the subject theme
+4. A timed debate with a classmate
+5. A live experiment
+
+The format is up to you. But it needs to include a public-speaking component. Before you perform your song, give some remarks about why you wrote it. Explain your art. Frame the scene.
+
+You can do it alone, or you can work with others. Everyone needs a main role, though. No freeloaders.
+
+<b>Whatever format you choose, your presentation is expected to be strong and professional. Remember, you'll have a real audience.</b>
+
+You'll be graded by the audience and the MPC for your work on ExpoDay. Take it seriously.
 
 ###Creative Development Seminars
-Growing as a creator is difficult. During the Bootcamp, we also have activities and discussions specifically about creative development. These discussions have a philosophical and a practical side. Sometimes we'll focus on themes like integrity, honesty and authenticity, or creative courage. Other times we'll learn about project management, how to deal with difficult people, or organizational skills.
+Growing as a creator is difficult. During the Bootcamp, we also have activities and discussions specifically about creative development. These discussions have a philosophical and a practical side. Sometimes we'll focus on themes like integrity, authenticity, grit, or creative courage. Other times we'll learn about project management, how to deal with difficult people, or organizational skills.
 
-Starting in the Bootcamp, students are asked to examine questions of their own personal philosophy. Students read, participate in discussions, attend workshops, and have experiences meant to encourage them to become more authentic, to give and receive honest feedback, and to become courageous and creative non-conformists.
+Starting at Orientation Day, students are asked to examine questions of their own personal philosophy. Students read, participate in discussions, attend workshops, and have experiences meant to encourage them to become more authentic, to give and receive honest feedback, and to become courageous and creative non-conformists.
 
-Students are asked to look deep within themselves to find their Inner Calling. As students learn more about the world and understand themselves better, they prepare to enter their second year of apprenticeship and to explore their creative medium.
-
-
+Students are asked to look deep within themselves to find their a creative calling. As students learn more about the world and understand themselves better, they prepare to enter their second year of apprenticeship and to explore their creative medium in the third year.
 
 ###Experiential Learning
-The MPC isn't just reading and writing. In between core dialogues, the subject expert will assign you other activities to learn the ideas. For example, in psychology you may have to go out and sell products using persuasion techniques. Or perhaps we'll visit real biologist's lab during biology.
+The MPC isn't just reading and writing. In between core dialogues, the subject expert will assign you other activities to learn the ideas. For example, in psychology you may have to go out and sell products using persuasion techniques. Or perhaps we'll visit real biologist's lab during biology. We'll watch films and complete workshops.
 
-Experiential learning will take you outside the MPC.
+Experiential learning will sometimes take you outside the MPC. Come prepared with whatever you need that day (jacket, wallet, phone, etc.)
 
 ###Bootcamp Learning Contracts
-We encourage you to test our Learning Contract software. Practice makes perfect! Bootcampers will not be held accountable for their learning contracts. Instead, they are encouraged to drop in on open courses led by other students, seminars led by coaches, and to focus on their Bootcamp work.
+During Bootcamp, we encourage you to test our Learning Contract software. This software is the backbone of the second and third year. Practice makes perfect! Bootcampers will be held accountable for their learning contracts, but the courses they design will not appear on their transcript.
 
-###ExpoDay
-ExpoDay is a monthly gathering of Bootcampers. It's an important day for students. The MPC opens up to the public. Bootcampers give their ExpoDay talks: 5-7 minute TEDtalk-style presentations about their independent reading. Grades for public speaking are given on this day. Then we have a party and celebrate work well done.
+In later years, you'll design courses that last a semester. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
 
-Students in their second and third years can also show their work on ExpoDay. Students may practice public speaking through a talk, or may put their art or other work on display.
 
 
 ##Learning Contracts
 Years two and three are governed entirely by Learning Contract. 
 
 Check out our Learning Contract step-by-step for more details.
-
-
 
 
 
