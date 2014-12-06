@@ -237,14 +237,14 @@ During Bootcamp, we encourage you to test our Learning Contract software. This s
 
 In later years, you'll design courses that last a semester. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
 
-
+<b>The role of Learning Contracts during Bootcamp is to discover what kind of learner you are.</b> Do you work well with online courses? Or should you go find a job or internship? Do you learn best through listening, or perhaps reading? Bootcamp is your chance to discover your learning style at almost no-risk. Work hard on this because, once the second year starts, there's no going back on your contracts.
 
 ##Learning Contracts
 Years two and three are governed entirely by Learning Contract. 
 
 Check out our Learning Contract step-by-step for more details.
 
-
+Watch this intro video for how to use our software.
 
 ##The People You'll Meet
 Because of the MPC's unique model, we do not have permanent faculty. Here are the people you'll encounter during your time in the MPC.
@@ -259,7 +259,11 @@ Subject Experts: During the first year, we hire experts in individual subjects t
 
  We bring in an expert for each subject to lead discussions on core ideas and to help you with your independent reading. These experts take you through the main ideas and are available to answer questions during unstructured time at the MPC. It's your responsibility to talk to them if you're confused.
 
-Mentors: The Learning Contracts that you design with the help of the MPC uses a system of paid mentorship to create grades and connect you with internships and other experiences. For example, a student this semester is studying programming and we have a professional programmer who is evaluating their final web design project for a grade. The MPC pays these mentors and helps you find them.
+Mentors: The Learning Contracts that you design with the help of the MPC uses a system of paid mentorship to create grades and connect you with internships or other experiences. For example, a student may study programming and have a professional programmer evaluate their final web design project for a grade. The MPC pays these mentors and helps you find them. Mentors give you grades for your final work.
+
+Remember, mentors are often busy people. You don't want to bother them too often. You should view the mentor as a professional contact, not a 'teacher'. You don't ask your mentor "What is the answer to question 3?" The mentor is there for you bring the work a
+
+You shouldn't just view mentors
 
 [Here's a link to our Mentor Handbook]()
 
