@@ -136,7 +136,7 @@ Whatever path you take, you need to write well. The MPC Writer's Studio is a reg
 #####Book Reviews
 Students are responsible for producing a high-quality 1000-2000 word review of their book each subject cycle. 
 
-[Here's the rubric for book reviews and some samples of good work.](https://drive.google.com/file/d/0BwTbZzlJYPL2NUlYSUVQYl9oaEU/view?usp=sharing)
+[Here's the rubric for book reviews and some samples of good work.](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2dG1jUF9PR2xkN3M/view?usp=sharing)
 
 #####Essay
 Essays follow a similar format to book reviews. But essays offer greater freedom than the review. There is no page limit to the essay. It is expected to be as concise as possible while still conveying the most important information on their topic. You can include references to other readings and your own opinions. Think of it as an engaging chapter in a book. Make it clear. Make it entertaining. Make it professional.
@@ -201,7 +201,7 @@ ExpoDay is mostly for Bootcampers. Students in their second and third years can 
 ####Public Speaking at ExpoDay
 Public speaking is a core skill of the MPC. ExpoDay is practice. Writing and public speaking serve different purposes. [Read this essay to understand why](http://paulgraham.com/speak.html). Put simply, writing generates, clarifies, and organizes ideas. Speaking convinces, entertains, and inspires action. A creator needs both.
 
-Your book review or essay should be a clean and accurate exposition of the book. But your ExpoDay presentation is your chance to engage more creatively with the ideas. These are not book reports or 'class presentations' like Middle School. Get critical with the ideas. Put your own spin on them. Express an argument, point out something insightful or strange.
+Your book review or essay should be a clean and accurate exposition of the book. But your ExpoDay presentation is your chance to engage more creatively with the ideas. These are not book reports or 'class presentations' like middle school. Get critical with the ideas. Put your own spin on them. Express an argument, point out something insightful or strange.
 
 By default, everyone gives a 5-7 minute TED-talk style lecture on the subject. But ExpoDay has an open format. You can suggest something else instead.
 
@@ -237,7 +237,7 @@ During Bootcamp, we encourage you to test our Learning Contract software. This s
 
 In later years, you'll design courses that last a semester. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
 
-<b>The role of Learning Contracts during Bootcamp is to discover what kind of learner you are.</b> Do you work well with online courses? Or should you go find a job or internship? Do you learn best through listening, or perhaps reading? Bootcamp is your chance to discover your learning style at almost no-risk. Work hard on this because, once the second year starts, there's no going back on your contracts.
+<b>The role of Learning Contracts during Bootcamp is to discover what kind of learner you are.</b> Do you work well with online courses? Or should you go find a job or internship to practice your skills? Do you learn best through listening, or perhaps reading? Bootcamp is your chance to discover your learning style at almost no-risk. Work hard on this because, once the second year starts, there's no going back on your contracts.
 
 ##Learning Contracts
 Years two and three are governed entirely by Learning Contract. 
