@@ -75,27 +75,31 @@ Why did we choose these subjects?
 Because they're the most important fields for the development of creative individuals. After Bootcamp, you should understand the main ideas of each field. You won't yet be an expert. But you'll be ready to decide which areas you want to study more deeply.
 
 What are the "course texts"?
-Each subject has texts defined by the subject tutor. The MPC will provide you with digital copies.
+Each subject has texts defined by the subject tutor. Don't worry, the MPC will provide you with digital copies.
 
-Here's important texts for understanding Bootcamp in general.
+Here's important texts for understanding the MPC in general.
 
 Dialogue:
 [On Dialogue by David Bohm](http://sprott.physics.wisc.edu/Chaos-Complexity/dialogue.pdf)
 [How to Disagree by Paul Graham](http://paulgraham.com/disagree.html)
+[The Republic of Science by Michael Polanyi](LINKHERE)
 
 Writing and Public Speaking
-1. [Writing and Speaking by Paul Graham](http://paulgraham.com/speak.html)
-2. [Writing, Briefly by Paul Graham](http://paulgraham.com/writing44.html)
+1. [Writing and Speaking](http://paulgraham.com/speak.html) but also [Writing, Briefly – both by Paul Graham](http://paulgraham.com/writing44.html)
 3. [Book: A Sense of Style by Steven Pinker](http://smile.amazon.com/Sense-Style-Thinking-Persons-Writing-ebook/dp/B00INIYG74/ref=sr_1_1?ie=UTF8&qid=1417809539&sr=8-1&keywords=sense+of+style+pinker)
+4. [Book: The Elements of Style by Strunk and White](LINKHERE)
 
 Creative Development
 [Corn-Pone Opinions by Mark Twain](http://englishbusselman.weebly.com/uploads/1/3/8/2/13827069/corn-pone_opinions_-_twain.pdf)
 [Self-Reliance by Ralph Waldo Emerson](http://www.emersoncentral.com/selfreliance.htm)
 [The War of Art by Steven Pressfield](LINK HERE)
-[Turning Pro by Steven Pressfield]()
+[Turning Pro by Steven Pressfield](LINKHERE)
 
 Independent Learning
 [Selection from Peak Learning: Skills for Today and Tomorrow by Ronald Gross](LINKHERE)
+[Deschooling Society by Ivan Illich](LINKHERE)
+[Free to Learn by Peter Gray](LINKHERE)
+[The Absorbent Mind by Maria Montessori](LINKHERE)
 
 The Creative Economy
 1.[Book: The Rise of the Creative Class by Richard Florida](http://smile.amazon.com/Rise-Creative-Class--Revisited-Revised-Expanded/dp/0465042481/ref=sr_1_1?ie=UTF8&qid=1417806981&sr=8-1&keywords=rise+of+the+creative+class)
