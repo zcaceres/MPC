@@ -1,5 +1,8 @@
+
 #Student Handbook
 Hi! Welcome to the handbook of the MPC Creative Learning Community at Universidad Francisco Marroquín. This will help you get started.
+
+> “Self-education is, I firmly believe, the only kind of education there is.” ― Isaac Asimov
 
 ##Table of Contents
 History of the MPC
@@ -227,6 +230,8 @@ Starting at Orientation Day, students are asked to examine questions of their ow
 
 Students are asked to look deep within themselves to find their a creative calling. As students learn more about the world and understand themselves better, they prepare to enter their second year of apprenticeship and to explore their creative medium in the third year.
 
+> “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” ― Immanuel Kant
+
 ###Experiential Learning
 The MPC isn't just reading and writing. In between core dialogues, the subject expert will assign you other activities to learn the ideas. For example, in psychology you may have to go out and sell products using persuasion techniques. Or perhaps we'll visit real biologist's lab during biology. We'll watch films and complete workshops.
 
@@ -246,6 +251,17 @@ Check out our Learning Contract step-by-step for more details.
 
 Watch this intro video for how to use our software.
 
+##Experiences
+
+<b>A word of advice: don't put all your experiences at the end of the semester. First, you'll be busy with your final evaluations. Second, space and time fill up and you may not have a room available or MPCers will be too busy to attend. </b>
+
+####Milestone Experience
+Each semester MPCers are responsible for a single but more serious personal experience. While MPCers design two experiences for other students, the Milestone is designed for the student herself.
+
+Your Milestone should stretch you beyond your comfort zone.
+
+> “All the world is my school and all humanity is my teacher.” ― George Whitman
+
 ##The People You'll Meet
 Because of the MPC's unique model, we do not have permanent faculty. Here are the people you'll encounter during your time in the MPC.
 
@@ -253,21 +269,23 @@ Personal Coaches: We keep coaches on hand to help students create courses, and s
 
 [Here's a link to our Coach's Handbook]()
 
-Subject Experts: During the first year, we hire experts in individual subjects to lead month-long Bootcamps in 10 different fields. These are professional scholars from UFM and elsewhere. You will work closely with these experts in a group of about 16-18. But there will be plenty of opportunity for one-on-one attention during the courses as well.
+Subject Experts: During the first year, we hire experts in individual subjects to lead month-long Bootcamps in 10 different fields. These are professionals from UFM and elsewhere. You will work closely with these experts in a group of about 12-18. But there will be plenty of opportunity for one-on-one attention during the courses as well.
 
 [Here's a link to our Subject Expert Handbook]()
 
- We bring in an expert for each subject to lead discussions on core ideas and to help you with your independent reading. These experts take you through the main ideas and are available to answer questions during unstructured time at the MPC. It's your responsibility to talk to them if you're confused.
+We bring in an expert for each subject to lead discussions on core ideas and to help you with your independent reading. These experts take you through the main ideas and are available to answer questions during unstructured time at the MPC. It's your responsibility to talk to them if you're confused.
 
-Mentors: The Learning Contracts that you design with the help of the MPC uses a system of paid mentorship to create grades and connect you with internships or other experiences. For example, a student may study programming and have a professional programmer evaluate their final web design project for a grade. The MPC pays these mentors and helps you find them. Mentors give you grades for your final work.
+Experts also provide a portion of the final grade for each Bootcamp subject.
 
-Remember, mentors are often busy people. You don't want to bother them too often. You should view the mentor as a professional contact, not a 'teacher'. You don't ask your mentor "What is the answer to question 3?" The mentor is there for you bring the work a
+Mentors: The Learning Contracts that you design with the help of the MPC uses a system of paid mentorships. For example, a student may study programming and have a professional programmer evaluate their final web design project for a grade. The MPC pays these mentors and helps you find them. Mentors give you grades for your final work.
 
-You shouldn't just view mentors
+Remember, mentors are often busy people. You don't want to bother them too often. You should view the mentor as a professional contact, not a 'teacher'. You don't ask your mentor "What is the answer to question 3?" You go and do your best to learn as much as you can on your own. The mentor is there for you bring your work for feedback. "How am I doing?" "I'm really stuck on this part." Mentors also can provide the practical, hands-on experience that books and professors cannot. "How do I make a rigorous practice regimen for the guitar?" "What's the best way to to approach a client?"
+
+You shouldn't just view mentors as people who give feedback and grades. A good mentorship is often the first step to a job or other professional and life opportunities. Treat your mentors well because they can become lifelong friends and contacts.
 
 [Here's a link to our Mentor Handbook]()
 
-Visiting Professors: We bring in speakers and other professors for discussions, debates, and other activities.
+Visiting Professors: We bring in speakers and other professors for discussions, debates, and other activities. Visitors typically dialogue with students about a topic.
 
 [Here's a link to our resources for Visiting Professors]()
 
