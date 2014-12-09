@@ -295,3 +295,13 @@ Visiting Professors: We bring in speakers and other professors for discussions, 
 
 Writing Tutors:
 
+##Portfolio
+In the long run, a portfolio of great creative work is more important than your degree. Your degree and the connections you get from the MPC will open doors and prepare you for graduate school or professional life. But eventually people want to see a strong record of work, not a credential. We want you to graduate with both.
+
+All new students admitted to the MPC are asked to make a portfolio. We base a portion of the admissions decision on it. This portfolio will be the basis of the work they'll build over the program.
+
+Not everything goes in a portfolio. Put stuff that you're proud of and that's relevant to your future customers/bosses/clients. Think of yourself as a brand – how do you want people to perceive you when they browse your portfolio? Portfolios may be on paper or online. Ideally, you should have a version of both.
+
+Portfolios help you get into graduate school and they can land you a good job. If you plan to start your own business or work as a freelancer, your portfolio is like an elaborate business card. Buildinga portfolio can be fun and it's worth it. Let us know if you need help. 
+
+##Great Work
