@@ -260,4 +260,16 @@ ProProfs Quiz Maker
 http://www.proprofs.com/quiz-school/
 This may help you with your curriculum design goals for T2 students, or for your own self-managed class for T4.
 
+####Resources 
+
+#####Reading Tools 
+
+Ace Reader
+
+Rapid Reader
+
+Spreed 
+
+#####Organization and Productivity Tools 
+
 
