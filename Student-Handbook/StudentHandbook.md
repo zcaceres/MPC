@@ -255,9 +255,22 @@ Check out our Learning Contract step-by-step for more details.
 
 Watch this intro video for how to use our software.
 
+####UMAs
+UFM organizes courses through credits called "UMAs". An UMA is equivalent to about 15 hours of work. UMAs keep track of your progress toward graduation.
+
+MPC uses a flexible UMA system. Since the MPC does not have traditional classes, the courses you design are assigned UMAs based on their rigorousness. Each term at the MPC is worth 25 UMAs. That's 375 hours of work. Plan accordingly.
+
+That sounds like a lot, but that's about 9 1/2 weeks of work at a full-time job (40 hours a week). You have eighteen weeks to accomplish your goals for the term.
+
+Standard courses worth 4 or 5 UMAs must clearly be rigorous or we won't accept them. Keep this in mind as you plan your contracts.
+
+####Mentors
+
+
+
 ##Experiences
 
-<b>A word of advice: don't put all your experiences at the end of the semester. First, you'll be busy with your final evaluations. Second, space and time fill up and you may not have a room available or MPCers will be too busy to attend. </b>
+<b>A word of advice: don't put all your experiences at the end of the term. First, you'll be busy with your final evaluations. Second, space and time fill up and you may not have a room available or MPCers will be too busy to attend. </b>
 
 ####Milestone Experience
 Each semester MPCers are responsible for a single but more serious personal experience. While MPCers design two experiences for other students, the Milestone is designed for the student herself.
