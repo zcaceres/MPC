@@ -4,15 +4,15 @@ Hi! Welcome to the handbook of the MPC Creative Learning Community at Universida
 
 > “Self-education is, I firmly believe, the only kind of education there is.” ― Isaac Asimov
 
-##Table of Contents
-History of the MPC
-The MPCer
-Hours and the MPC Space
-What do you need for the MPC?
-Values and Philosophy
-Bootcamp
-How to Make a Learning Contract
-The People You'll Meet
+##Table of Contents (Under construction)
+1. History of the MPC
+2. The MPCer
+3. Hours and the MPC Space
+4. What do you need for the MPC?
+5. Values and Philosophy
+6. Bootcamp
+7. How to Make a Learning Contract
+8. The People You'll Meet
 
 
 ##History of the MPC
