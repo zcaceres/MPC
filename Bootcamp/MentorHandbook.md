@@ -65,7 +65,7 @@ We encourage mentors to develop their own shorthand method for coding student co
 
 The mentors should always budget some time for participants to reflect on the dialogue process immediately following the session. The first step of post-session process is a brief (1-2 minutes) period of silent assesment. At this point the seminar mentor can faithfully engage in self-assessment as well. Next, time should be spent with the group asessing the collective participation. Then, at least three or four minutes should be allotted for individuals to share aloud their individual self assessment. Finally, the mentor may ask the group to identify what might be the process goals in the next session. 
 
-###Mentors responsibilities in post-seminar content 
+####Mentors responsibilities in post-seminar content 
 
 The last step in facilitation is the post-session content stage. As in the pre-session content, the main job of the mentor is to give clear directions and explicitely state the purpose - why we are doing the session and perhaps where this session is leading; this would be the time when the teacher makes connections and points to the bigger picture od the curricular unit or project (ultimately their Great Work). 
 
