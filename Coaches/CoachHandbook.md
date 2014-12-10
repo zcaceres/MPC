@@ -40,4 +40,7 @@ Coaches and students will eventually have a more neatly established schedule
 ##Check-in Log
 After each day, coaches should take 5-10 minutes to record their interactions with students. Did the student seem troubled? Happy? Enthusiastic about a particular subject? Write it down. Please also share lessons you learned or techniques that you found that worked well.
 
+##A Day in the Life of a Coach
+Here's an example schedule for how a Coach's day may be in the MPC
+The coach arrives...
 
