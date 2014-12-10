@@ -318,3 +318,12 @@ Not everything goes in a portfolio. Put stuff that you're proud of and that's re
 Portfolios help you get into graduate school and they can land you a good job. If you plan to start your own business or work as a freelancer, your portfolio is like an elaborate business card. Buildinga portfolio can be fun and it's worth it. Let us know if you need help. 
 
 ##Great Work
+When you begin your Great Work in the 3rd year, we expect you to take a lighter load of classes. Your Great Work should be clearly incorporated into your contract. Developing your Great Work could be a 10 UMA course, which would leave 10 UMAs left over to design additional courses. You are still responsible for your Milestone Challenge and experiences in the MPC.
+
+Your Great Work is meant to take you to success beyond the MPC. Students in traditional college programs face a common problem: they graduate with a degree and suddenly find themselves out in the 'real world' with no idea what to do. The Great Work is how the MPC helps students avoid this fate.
+
+Your Great Work should demonstrate your own development as a creator. It's the culmination of your development in the MPC.
+
+Your Great Work should be clearly ambitious and show leadership. Getting a job may be part of your Great Work, but it can't be the whole thing. You need to prove that you are capable of 'going your own way', even if that means developing something within an existing business or organization. You can do your Great Work with others in the MPC, such as founding a business together.
+
+
