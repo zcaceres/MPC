@@ -244,7 +244,7 @@ Experiential learning will sometimes take you outside the MPC. Come prepared wit
 ###Bootcamp Learning Contracts
 During Bootcamp, we encourage you to test our Learning Contract software. This software is the backbone of the second and third year. Practice makes perfect! Bootcampers will be held accountable for their learning contracts, but the courses they design will not appear on their transcript.
 
-In later years, you'll design courses that last a semester. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
+In later years, you'll design courses that last a term. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
 
 <b>The role of Learning Contracts during Bootcamp is to discover what kind of learner you are.</b> Do you work well with online courses? Or should you go find a job or internship to practice your skills? Do you learn best through listening, or perhaps reading? Bootcamp is your chance to discover your learning style at almost no-risk. Work hard on this because, once the second year starts, there's no going back on your contracts.
 
@@ -265,17 +265,27 @@ That sounds like a lot, but that's about 9 1/2 weeks of work at a full-time job 
 Standard courses worth 4 or 5 UMAs must clearly be rigorous or we won't accept them. Keep this in mind as you plan your contracts.
 
 ####Mentors
+Mentors are responsible for grading your final evaluation. The MPC can help suggest connections and talk to you about how you can approach a mentor. But you are responsible for finding and confirming your mentor. You may need to be persuasive with some mentors. Your ability to network and secure mentorships is a valuable life skill and part of your education.
 
+Before your Learning Contract is submitted for review, you must confirm the mentors for all of your classes. This means returning (or emailing) a signed and complete mentor agreement form to the MPC for each of your classes.
+
+##Declare your Degree Focus
+At the start of your final term, you declare your degree focus. This is like choosingyour 'major' in a traditional program, except you design it.
 
 
 ##Experiences
+Experiences bring community in the MPC. Every term, students are required to provide two experiences to the MPC community. You must provide two experiences, even if you're traveling. Get creative.
+
+Draw on your skills or interest. You can organize a dance class or a workshop on debate. You could lead a field trip or other excursion. You can bring in a visiting speaker. If you're traveling, you can Skype in for your experience. You could also produce a video and organize a screening to share it with the MPC instead.
 
 <b>A word of advice: don't put all your experiences at the end of the term. First, you'll be busy with your final evaluations. Second, space and time fill up and you may not have a room available or MPCers will be too busy to attend. </b>
 
 ####Milestone Experience
-Each semester MPCers are responsible for a single but more serious personal experience. While MPCers design two experiences for other students, the Milestone is designed for the student herself.
+The Milestone is a special type of experience. While MPCers design two experiences for other students, the Milestone is designed for the student herself. Each term MPCers are responsible for one Milestone.
 
-Your Milestone should stretch you beyond your comfort zone.
+Your Milestone should stretch you beyond your comfort zone. If you're afraid of public speaking, you should give a public lecture. If you've never gone rock climbing, you should go. If you've never been able to continue a habit for more than a week, you could publicly track your habit for three weeks. You could interview someone in a high-pressure situation, or publish something to a wider audience than ever before.
+
+The Milestone is your chance to grow the emotional and psychological skills that you need to be a creator.
 
 > “All the world is my school and all humanity is my teacher.” ― George Whitman
 
@@ -286,15 +296,17 @@ Personal Coaches: We keep coaches on hand to help students create courses, and s
 
 [Here's a link to our Coach's Handbook]()
 
-Subject Experts: During the first year, we hire experts in individual subjects to lead month-long Bootcamps in 10 different fields. These are professionals from UFM and elsewhere. You will work closely with these experts in a group of about 12-18. But there will be plenty of opportunity for one-on-one attention during the courses as well.
+####Subject Tutors
+During the first year, we hire experts in individual subjects to lead month-long Bootcamps in 10 different fields. These are professionals from UFM and elsewhere. You will work closely with these experts in a group of about 12-18. But there will be plenty of opportunity for one-on-one attention during the courses as well.
 
 [Here's a link to our Subject Expert Handbook]()
 
-We bring in an expert for each subject to lead discussions on core ideas and to help you with your independent reading. These experts take you through the main ideas and are available to answer questions during unstructured time at the MPC. It's your responsibility to talk to them if you're confused.
+We bring in a tutor for each subject to lead discussions on core ideas and to help you with your independent reading. These experts take you through the main ideas and are available to answer questions during unstructured time at the MPC. It's your responsibility to talk to them if you're confused.
 
-Experts also provide a portion of the final grade for each Bootcamp subject.
+Tutors also provide a portion of the final grade for each Bootcamp subject.
 
-Mentors: The Learning Contracts that you design with the help of the MPC uses a system of paid mentorships. For example, a student may study programming and have a professional programmer evaluate their final web design project for a grade. The MPC pays these mentors and helps you find them. Mentors give you grades for your final work.
+####Mentors 
+The Learning Contracts that you design with the help of the MPC uses a system of paid mentorships. For example, a student may study programming and have a professional programmer evaluate their final web design project for a grade. The MPC pays these mentors and helps you find them. Mentors give you grades for your final work.
 
 Remember, mentors are often busy people. You don't want to bother them too often. You should view the mentor as a professional contact, not a 'teacher'. You don't ask your mentor "What is the answer to question 3?" You go and do your best to learn as much as you can on your own. The mentor is there for you bring your work for feedback. "How am I doing?" "I'm really stuck on this part." Mentors also can provide the practical, hands-on experience that books and professors cannot. "How do I make a rigorous practice regimen for the guitar?" "What's the best way to to approach a client?"
 
@@ -302,14 +314,34 @@ You shouldn't just view mentors as people who give feedback and grades. A good m
 
 [Here's a link to our Mentor Handbook]()
 
-Visiting Professors: We bring in speakers and other professors for discussions, debates, and other activities. Visitors typically dialogue with students about a topic.
+####Visiting Professors
+We bring in speakers and other professors for discussions, debates, and other activities. Visitors typically dialogue with students about a topic.
 
 [Here's a link to our resources for Visiting Professors]()
 
-Writing Tutors:
+####Writing Tutors
 
+##Internships
+The MPC requires all students to pursue an internship in their second year. Internships may be taken in either term, or both. Internships can also be pursued in the third year, if necessary. Internships may be paid or unpaid.
+
+
+An intensive internship could qualify as a 10 UMA course, like a part-time job. A once-a-week or less demanding internship will be listed on your transcript as a 5 UMA course. 
+
+####Why Internships?
+Internships are the best way for you to get professional experience in an area that interests you. The modern internship evolved from the apprenticeships of the past. Apprentices were junior members of a craft. They learned by working closely with a master. Their work was often unglamorous, as internships sometimes are today, but the proximity to the master craftsman more than paid for the work.
+
+An internship is a great way to learn whether you actually like a field or industry. You can see how a real professional works. 
+Internships also are ways to build your network. Working first as an intern often lead to jobs or other professional opportunities. You should treat your internship as a serious job and part of your education.
+
+####Finding an Internship
+As you work with mentors during Bootcamp and in your Learning Contracts, watch for opportunities to intern. Many people want an intern. It's nice to have someone who wants to help you (usually for free), and who is interested in your work. Many people don't know they want an intern until you suggest it... so ask!
+
+The MPC has a rich network of possible internships. Talk to coaches, classmates, mentors, and anyone else around the MPC. Someone will know somebody who can help. On-sight internships are preferred but, if necessary, an internship could even be conducted digitally, with tools like Skype and Googledocs.
+
+If you need help with how to approach an internship opportunity, talk to a coach or peer with more experience. The MPC can help you make a connection, but <b>you are responsible for approaching the mentor and convincing them to employ you as an intern.</b> This is a valuable and important life skill and it's part of your education.
 
 ##Graduation and Life Beyond the MPC
+We want the MPC to prepare you for life beyond school. As a community for creative development, graduation requirements reflect our commitment to your long term work as a creator.
 
 ####Portfolio
 In the long run, a portfolio of great creative work is more important than your degree. Your degree and the connections you get from the MPC will open doors and prepare you for graduate school or professional life. But eventually people want to see a strong record of work, not a credential. We want you to graduate with both.
@@ -349,7 +381,7 @@ The verdict of the panel must be <b>unanimous</b> for the student to pass.
 If a student fails the Great Work Panel, the panel will talk with the student about what must be improved. The panel and student will devise a future date to attempt the panel again when the student has made more progress. Students cannot graduate until they pass their Great Work Panel.
 
 ####Graduation Checklist
-1. Six semesters passed in the MPC (250 UMAs)
+1. Six terms passed in the MPC (250 UMAs)
 2. One successful internship (with a 'passed' letter of recommendation)
 3. Great Work Panel passed
 
