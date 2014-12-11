@@ -1,6 +1,6 @@
-###UFM Resources 
+###UFM Resources
 
-Lucidcharts Link: 
+Click [here] to get to the Lucid Chart UFM Resource interface. 
 
 ###Online Resources 
 
