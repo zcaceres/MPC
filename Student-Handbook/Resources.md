@@ -1,6 +1,6 @@
 ###UFM Resources
 
-Click [here] to get to the Lucid Chart UFM Resource interface. 
+Click [here](https://www.lucidchart.com/documents/view/b43a3bbc-fc3b-4306-9830-0098219f5204)to get to the Lucid Chart UFM Resource interface. 
 
 ###Online Resources 
 
