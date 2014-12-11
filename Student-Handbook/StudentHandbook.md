@@ -114,7 +114,7 @@ Here are the main components of the Bootcamp:
 3. Creative Development Seminars
 4. Writer's Studio
 5. Bootcamp Learning Contracts
-6. ExpoDay
+6. MPCafé Performances
 
 The first step to success is showing up. <b>All components are mandatory for Bootcampers</b>
 
@@ -122,7 +122,7 @@ The first step to success is showing up. <b>All components are mandatory for Boo
 Students have focused dialogues about the main ideas of the subject. <b>You must do your reading before these dialogues begin or you will be lost.</b> Core dialogues meet on Days 1, 4, 6, 9, and 11 of each subject cycle. Occasionally there will be other days devoted to core ideas. These conversations are intense and cover a lot of material, so get a good night's sleep the day before.
 
 ####Independent reading?
-On Day One of each Bootcamp, you'll choose independent reading in the subject. This reading, selected from a curated list, will inform your talk on ExpoDay and your work in the Writer's Studio. Choose something that interests you, because you're going to write and speak about the book. If you really don't like any of the books on the list, you can suggest a book of comparable quality in the subject. But it will have to be approved by the MPC. Talk to the subject expert if you're confused about your book.
+On Day One of each Bootcamp, you'll choose independent reading in the subject. This reading, selected from a curated list, will inform your talk on MPCafé and your work in the Writer's Studio. Choose something that interests you, because you're going to write and speak about the book. If you really don't like any of the books on the list, you can suggest a book of comparable quality in the subject. But it will have to be approved by the MPC. Talk to the subject expert if you're confused about your book.
 
 
 Students learn writing in a workshop environment throughout the Bootcamp. The first half of the year, students produce book reviews based on their reading. During the second half, students are expected to become more critical and write lengthier, more personal essay on their reading.
@@ -154,7 +154,7 @@ Each week there's an important event in the Writer's Studio.
 During week one, students pre-read and write their introduction. The MPC Writer’s Studio meets and we review. 
 During week two, students should reach the end of their book. Students produce an outline and write sections to summarize each chapter. 
 During week three, students produce a first draft of the entire piece. The Writer’s Studio meets for peer review in groups of 2-3 students. 
-During week four, students schedule a one-on-one consultation with a writing tutor. During the final days students prepare to publish their review, share it with their subject mentor, and to participate in ExpoDay.
+During week four, students schedule a one-on-one consultation with a writing tutor. During the final days students prepare to publish their review, share it with their subject mentor, and to participate in MPCafé.
 
 #####Week 1: Pre-Reading and Introduction
 Read preface, introduction, and at least the first chapter of the book. 
@@ -196,23 +196,23 @@ Bring this to your consult with a Writing Tutor:
 We'll do this same process for every subject. 
 In case you need a reminder, [here's a checklist of all the steps presented here, week-by-week.](https://docs.google.com/document/d/1-hR9BH3zlUSN8mUYpFovp9n8UW7i5afjCumm3paaYN0/edit?usp=sharing)
 
-###ExpoDay
-ExpoDay is a monthly gathering of Bootcampers. It's an important day for students. Bootcampers give their ExpoDay presentations about their independent reading. Grades for public speaking are given on this day. Then we have a party and celebrate work well done.
+###MPCafé
+MPCafé is a monthly gathering of Bootcampers. It's an important day for students. Bootcampers give their MPCafé performances about their independent reading. Grades for public speaking are given on this day. Then we have a party and celebrate work well done.
 
-Essays or book reviews are due on ExpoDay. These essays are bound into a Bootcamp Book and given to the students at the end of the first year. Your essay or review becomes a chapter in this student-produced textbook of all ten subjects.
+Essays or book reviews are due on MPCafé. These essays are bound into a Bootcamp Book and given to the students at the end of the first year. Your essay or review becomes a chapter in this student-produced textbook of all ten subjects.
 
-On ExpoDay, we open the program to the public. Your parents might show up. Students are expected to demonstrate their mastery of their chosen area in a creative format. 
+On MPCafé, we open the program to the public. We convert the MPC into a café. Your parents might show up. Students are expected to demonstrate their mastery of their research that month in a creative format. 
 
-ExpoDay is mostly for Bootcampers. Students in their second and third years can also show their work on ExpoDay. Students may practice public speaking through a talk, or may put their art or other work on display.
+MPCafé is mostly for Bootcampers. Students in their second and third years can also show their work on MPCafé. Students may practice public speaking through a talk, or may put their art or other work on display.
 
-####Public Speaking at ExpoDay
-Public speaking is a core skill of the MPC. ExpoDay is practice. Writing and public speaking serve different purposes. [Read this essay to understand why](http://paulgraham.com/speak.html). Put simply, writing generates, clarifies, and organizes ideas. Speaking convinces, entertains, and inspires action. A creator needs both.
+####Public Speaking at MPCafé
+Public speaking is a core skill of the MPC. MPCafé is practice. Writing and public speaking serve different purposes. [Read this essay to understand why](http://paulgraham.com/speak.html). Put simply, writing generates, clarifies, and organizes ideas. Speaking convinces, entertains, and inspires action. A creator needs both.
 
-Your book review or essay should be a clean and accurate exposition of the book. But your ExpoDay presentation is your chance to engage more creatively with the ideas. These are not book reports or 'class presentations' like middle school. Get critical with the ideas. Put your own spin on them. Express an argument, point out something insightful or strange.
+Your book review or essay should be a clean and accurate exposition of the book. But your MPCafé presentation is your chance to engage more creatively with the ideas. These are not book reports or 'class presentations' like middle school. Get critical with the ideas. Put your own spin on them. Express an argument, point out something insightful or strange.
 
-By default, everyone gives a 5-7 minute TED-talk style lecture on the subject. But ExpoDay has an open format. You can suggest something else instead.
+By default, everyone gives a 5-7 minute TED-talk style lecture on the subject. But MPCafé has an open format. You can suggest something else instead. You have to stand in front of the crowd will all eyes on you. But what you do is up to you.
 
-Example ExpoDay presentations might include:
+Example MPCafé presentations might include:
 1. A theaterical monologue or dialogue
 2. A song about the ideas
 3. Sculpture or art on the subject theme
@@ -225,7 +225,7 @@ You can do it alone, or you can work with others. Everyone needs a main role, th
 
 <b>Whatever format you choose, your presentation is expected to be strong and professional. Remember, you'll have a real audience.</b>
 
-You'll be graded by the audience and the MPC for your work on ExpoDay. Take it seriously.
+You'll be graded by the audience and the MPC for your work on MPCafé. Take it seriously.
 
 ###Creative Development Seminars
 Growing as a creator is difficult. During the Bootcamp, we also have activities and discussions specifically about creative development. These discussions have a philosophical and a practical side. Sometimes we'll focus on themes like integrity, authenticity, grit, or creative courage. Other times we'll learn about project management, how to deal with difficult people, or organizational skills.
@@ -308,22 +308,49 @@ Visiting Professors: We bring in speakers and other professors for discussions, 
 
 Writing Tutors:
 
-##Portfolio
+
+##Graduation and Life Beyond the MPC
+
+####Portfolio
 In the long run, a portfolio of great creative work is more important than your degree. Your degree and the connections you get from the MPC will open doors and prepare you for graduate school or professional life. But eventually people want to see a strong record of work, not a credential. We want you to graduate with both.
 
-All new students admitted to the MPC are asked to make a portfolio. We base a portion of the admissions decision on it. This portfolio will be the basis of the work they'll build over the program.
+All new students admitted to the MPC are asked to make a portfolio. We base a portion of the admissions decision on it. This portfolio will be the basis of the work you'll build over the program.
 
 Not everything goes in a portfolio. Put stuff that you're proud of and that's relevant to your future customers/bosses/clients. Think of yourself as a brand – how do you want people to perceive you when they browse your portfolio? Portfolios may be on paper or online. Ideally, you should have a version of both.
 
-Portfolios help you get into graduate school and they can land you a good job. If you plan to start your own business or work as a freelancer, your portfolio is like an elaborate business card. Buildinga portfolio can be fun and it's worth it. Let us know if you need help. 
+Portfolios help you get into graduate school and they can land you a good job. If you plan to start your own business or work as a freelancer, your portfolio is like an elaborate business card. Building a portfolio can be fun and it's worth it. Coaches are available if you need help. And don't forget that your peers are there for feedback too.
 
-##Great Work
-When you begin your Great Work in the 3rd year, we expect you to take a lighter load of classes. Your Great Work should be clearly incorporated into your contract. Developing your Great Work could be a 10 UMA course, which would leave 10 UMAs left over to design additional courses. You are still responsible for your Milestone Challenge and experiences in the MPC.
+####Great Work
+When you begin your Great Work in the 3rd year, we expect you to take a lighter load of classes. Your Great Work should be clearly incorporated into your contract. Developing your Great Work could be a 10 UMA course, which would leave 10 UMAs left to design additional courses. You're still responsible for your Milestone Challenge and experiences in the MPC.
 
-Your Great Work is meant to take you to success beyond the MPC. Students in traditional college programs face a common problem: they graduate with a degree and suddenly find themselves out in the 'real world' with no idea what to do. The Great Work is how the MPC helps students avoid this fate.
+You might use your Milestone and experiences as a way to further or enhance your great work. Run a focus group for your new business. Do a public reading of your novel in the MPC. Test your app with fellow students. Run a dialogue on the tough creative problem you're facing.
 
-Your Great Work should demonstrate your own development as a creator. It's the culmination of your development in the MPC.
+Your Great Work is meant to take you to success beyond the MPC. Students in traditional college programs face a common problem: they graduate with a degree and suddenly find themselves out in the real world with no idea what to do. The Great Work is how the MPC helps students avoid this fate.
 
-Your Great Work should be clearly ambitious and show leadership. Getting a job may be part of your Great Work, but it can't be the whole thing. You need to prove that you are capable of 'going your own way', even if that means developing something within an existing business or organization. You can do your Great Work with others in the MPC, such as founding a business together.
+Your Great Work should demonstrate your own development as a creator. It's the culmination of your work in the MPC.
+
+Your Great Work should be clearly ambitious and show leadership. Getting a job may be part of your Great Work, but it can't be the whole thing. You need to prove that you are capable of going your own way, even if that means developing something within an existing business or organization. You can do your Great Work with others in the MPC, such as founding a business together – but everyone has to be involved. No freeriders.
+
+#####Great Work Panel
+The Great Work panel is how the MPC evaluates your Great Work and the focus you define for your degree. The Great Work Panel is an hour-long discussion with a jury of mentors, peers, or experts in the area of your interest. The Great Work Panel is a more intense version of the interview panel that evaluates students for admission.
+
+The panel evaluates the student's knowledge of their degree focus as well as their progress of their Great Work. Ambitious Great Works are unlikely to be finished by the end of the third year. The panel does not expect the student to have completed everything, but to demonstrate their hard work, their progress, and share the lessons they have learned. Students are also expected to demonstrate significant knowledge in the field of their focus. For example, a student who has studied education and psychology should be able to discuss major ideas in both fields with sophistication and ease.
+
+<b>Panel Makeup</b>
+The panel is defined as follows:
+1. A panelist chosen by the MPC
+2. A panelist chosen by the student (they can not be a family member or close friend)
+3. A panelist mutually agreed upon by both student and MPC
+
+<b>Panel Verdict</b>
+The verdict of the panel must be <b>unanimous</b> for the student to pass.
+
+<b>Failure of the Great Work Panel</b>
+If a student fails the Great Work Panel, the panel will talk with the student about what must be improved. The panel and student will devise a future date to attempt the panel again when the student has made more progress. Students cannot graduate until they pass their Great Work Panel.
+
+####Graduation Checklist
+1. Six semesters passed in the MPC (250 UMAs)
+2. One successful internship (with a 'passed' letter of recommendation)
+3. Great Work Panel passed
 
 
