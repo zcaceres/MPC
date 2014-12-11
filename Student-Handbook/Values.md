@@ -36,11 +36,14 @@ Creative individuality means that everything we do is meant to make you a more c
 
 
 ##Advice
-The MPC is not easy. With freedom comes responsibility. You should take your goal-setting seriously. Set goals that challenge you, but that areyou can achieve each term. Coaches are here to help. All courses must be rigorous, or we won't approve them.
+The MPC is not easy. With freedom comes responsibility. You should take your goal-setting seriously. Set goals that challenge you, but that you can achieve each term. Coaches are here to help. All courses must be rigorous, or we won't approve them.
+
+Your peers are also a resource. Engage in collaborative work, build working models and rubrics, design courses together, innovate and create. Mpc strives to be an interdependent learning environment, not an independent one. 
 
 
 ##The MPCer
 As an MPCer, you were chosen as members of a rare breed. MPCers show a rare combination of maturity, focus, and creative talent.
+They know how to work by themselves as do they know how to work with others. 
 
 ####Creative Professionalism
 MPCers train to be pros. 
