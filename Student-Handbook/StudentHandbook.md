@@ -18,6 +18,12 @@ Hi! Welcome to the handbook of the MPC Creative Learning Community at Universida
 ##History of the MPC
 Noncoercive education essay. Giancarlo. Late-2012. Brand new model in late 2014.
 
+Well along the lines of UFM´s origin and vision, MPC came to be a mirrored model of Hayeks description of the market, only that in education. A descentralized collaborative learning environment. 
+
+The economic principles sustained at UFM parallel the core principles and values at MPC. Hayek described the competitive forces of the market as “a process of discovery.” That is precisely what goes on at MPC, a "process of discovery". The MPC was created by the hands of people who truly understood these complex processes, both in economics as in education. 
+
+Early on, late 2012, the MPC sprang with 18 enthusiastic students. They had felt an incoherence in their earlier studies at traditional models and knew it was time for a change. MPC was that change. The program has ever since strived to improve their overall model. In late 2014, the MPC was subject to reiterations. What is known today came to be what it is through trial and error, as any learning experience tends to. 12 of the 18 "pioneers" remain in the program. 
+
 ##What do you need for the MPC?
 
 <b>A well-functioning modern laptop</b>
