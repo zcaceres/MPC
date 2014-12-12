@@ -1,10 +1,20 @@
-#Mentor Handbook
+#Tutor Handbook
 
-###Open-Ended Questioning
+###Lead by Questioning
+The tutor's job is not to force their knowledge onto the students. 
+
+Tutors who express their opinion on a topic should not speak in a way that suggests their view is final. 
 
 ###Mentor Responsibilities
 
-####Responsibilities pre-session 
+####Dialogue Preparation
+The tutor should have prepared themselves before the dialogue. Please re-read or at least review the texts or other materials that you will use for the dialogue.
+
+The tutor must also circulate the readings before the term begins. Students need sufficient time to prepare for the first dialogue. We share readings digitally, as a PDF. Please talk to the MPC if you need help preparing your course PDF.
+
+####
+
+
 
 The mentors first job is to introduce the session by clarifying the type of session and objectives as well as key ideas and values. In essence the mentor should immediately describe the connection between the ideas/values and the sessions goals. 
 
