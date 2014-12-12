@@ -1,31 +1,27 @@
 #Tutor Handbook
 
 ###Lead by Questioning
-The tutor's job is not to force their knowledge onto the students. 
+The tutor's job is not to force their knowledge on the student. Rather, the tutor should lead students through the subject by questioning. This doesn't mean 'leading' a student to a preconceived answer. It means leading by example. Tutors should demonstrate the openness, humility, but intense curiosity that makes a good student. 
 
-Tutors who express their opinion on a topic should not speak in a way that suggests their view is final. 
+###Expressing Opinions
+The MPC does not expect tutors to maintain an artificial environment where they have no opinion or view of the subject. Tutors may express themselves freely and even debate with students in favor of their viewpoint. What's important is not a phony neutrality, but that the dialogue is a safe space for students to disagree.
+
+Tutors who express their opinion on a topic should not speak in a way that suggests their view is final. Be aware of your tone of voice and your body language. These can speak louder than your words.
+
+At all times, tutors should encourage contrarian viewpoints, especially people who disagree with their own view. Model a civil debate where smart people disagree.
 
 ###Mentor Responsibilities
 
 ####Dialogue Preparation
 The tutor should have prepared themselves before the dialogue. Please re-read or at least review the texts or other materials that you will use for the dialogue.
 
-The tutor must also circulate the readings before the term begins. Students need sufficient time to prepare for the first dialogue. We share readings digitally, as a PDF. Please talk to the MPC if you need help preparing your course PDF.
+The tutor must also circulate the readings before their time in the MPC begins. Students need sufficient time to prepare for the first dialogue. We share readings digitally, as a PDF. Please talk to the MPC if you need help preparing your course PDF.
 
-####
+####Opening the Dialogue
+To open the dialogue, the tutor should clearly indicate the goals of the session. These goals should be based on the core ideas or mental models that students will learn during the dialogue. For example, "Today we'll discuss adaptation, 
 
-
-
-The mentors first job is to introduce the session by clarifying the type of session and objectives as well as key ideas and values. In essence the mentor should immediately describe the connection between the ideas/values and the sessions goals. 
-
-Mentorship of pre-session content is about giving focus and purpose for the upcoming interactive events. Specifically, therefore, mentorship of pre-session content is about clear points and instructions, while distributing materials (text and instructions for reading). This may occur days prior to the actual dialogue, and ideally, at least some of the pre-session content instructions are in writing. 
-
-After the pre session content and ust before the actual session, the mentor sets the stage by giving instructions about process. We have found this stage to be so formulaic (part of the science of mentorship) that it can be scripted. The following page contains a sample of a Pre-Session Process Scripts; the points of emphasis are: 
-
- - To define the session 
- - To describe roles and responsibilities 
- - To have participants self assess - individually and/or as a group 
- - To have participants set participation goals - individually and/orr as a group
+####Distribute Dialogue Evaluations
+The tutor is responsible for distributing the dialogue evaluations. Every student receives the name of another student to evaluate during the dialogue. The student is expected to note the contributions of their assigned student.
  
 ####Mentor responsibilities during sessions 
 
@@ -37,7 +33,6 @@ An effective mentor will:
 - Question the participants in order to nurture increased understanding.
 - Listen actively to each participant and form follow-up questions. 
 - Limit teacher talk turns and talk time; distribute participant talk turns and talk time. 
-- Map the seminar by recording the amount and type of participation as well as the ideas. 
 
 ####Thinking about ideas 
 
@@ -50,32 +45,26 @@ Session mentorship includes both prepared questions as well as genuine, unplanne
 Most teachers wait approximately one second after asking a question. However, when teachers wait at least three seconds, student responses increase in levels of thinking.
 
 ####Active listening 
+The tutor should watch the body language of the participants, gauge the tone of voice used by speakers, and remain aware of the the conversation's flow. Ultimately, the experienced tutor learns to choose the right moment to ask either a planned question or an unplanned follow-up question to nurture a greater depth of understanding. Silence often invites deeper thinking. After stating a question, tutors should be willing to wait until a student responds.
 
-Active listening by the mentor means watching the body language of the participants, gauging the tone of voice used by the speakers, and remaining aware of the general rate of cohesion of participant talk. Ultimately, the expereinced mentor learns to choose the right moment to ask either a planned question or an unplanned follow-up question to nurture a greater depth of understanding. As silence often allows for thinking, mentors should practice extended wait time after asking a question. 
+Tutors should not 'answer their own questions.'
 
-####Limiting teacher talk time 
+####Be careful not to talk too much
+The tutor often appears quite passive during a successful dialogue. They may insert a question and then sit silently as students battle over the topic.
 
-The mentor often appears to play a very passive role during a sucessful session, quietly taking notes and ocassionally inserting a question into the flow of the dialogue. In fact, it is his or her responsibility to ensure that the participants social and intellectual skills are being exercised as they develop a greater understanding of the text, the self, and others. One of the best ways to do this is to remain silent so that the students can practice. 
+####Take Notes
+The tutor should take note of especially interesting or significant comments, references to the text, or other issues. Write them down so that you're reminded of key points for later dialogues. 
 
-The sequence of talk in typical classroom discussion is: teacher-student-teacher-student, etc. In a dialogue, the sequence of talk is more like: teacher-student-student-student, etc. 
+####Dialogue Debrief 
+After the dialogue, ask students to spend a minute or two reflecting on the discussion. Participants then can write notes and feedback to the student they evaluated for the dialogue.
 
-####Mapping the session 
+Invite students to continue the conversation on their own, if they wish.
 
-A session mentor interested in enhancing the quality of the dialogue "maps" (or takes notes about) the discussion for at least three distinct purposes. The first to keep track of which participants are speaking voluntarily. By constructing a visual of the talk, a mentor can collaboratively work to balance the talk. In essence this reason for mapping is to coach the process or the social aspect of sessions. 
-
-The second reason to map sessions is to record significant participant comments (questions, references to text, etc.) in order to return to them later while framing follow-up questions. This mapping strategy will help you coach the thinking skills of the participants. 
-
-The third is that the mapping process itself is a kind of active listening strategy that will help you discipline yourself to listen critically and objectively. 
-
-In summary, mapping will hlep you during the session itself by focusing your attention on who is and is not talking and also on the most effective follow-up questions you should ask. 
-
-We encourage mentors to develop their own shorthand method for coding student comments and taking notes on their thoughts. The vital thing is to get in the habit of mapping the discussion each and every session. Ultimately, these maps will guide mentors as they improve their own mentoring skills as well as coach the participation skills of the students. 
-
-####Mentors responsibilities in post-session process 
 
 The mentors should always budget some time for participants to reflect on the dialogue process immediately following the session. The first step of post-session process is a brief (1-2 minutes) period of silent assesment. At this point the seminar mentor can faithfully engage in self-assessment as well. Next, time should be spent with the group asessing the collective participation. Then, at least three or four minutes should be allotted for individuals to share aloud their individual self assessment. Finally, the mentor may ask the group to identify what might be the process goals in the next session. 
 
-####Mentors responsibilities in post-seminar content 
+####Hang out for Office Hours After the Discussion
+
 
 The last step in facilitation is the post-session content stage. As in the pre-session content, the main job of the mentor is to give clear directions and explicitely state the purpose - why we are doing the session and perhaps where this session is leading; this would be the time when the teacher makes connections and points to the bigger picture od the curricular unit or project (ultimately their Great Work). 
 
