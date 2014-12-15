@@ -15,14 +15,18 @@ Hi! Welcome to the handbook of the MPC Creative Learning Community at Universida
 8. The People You'll Meet
 
 
-##History of the MPC
-Noncoercive education essay. Giancarlo. Late-2012. Brand new model in late 2014.
+##A Brief History of the MPC
+In 2011, Giancarlo Ibárgüen, former president of UFM, gave a speech called Noncoercive Teaching. In it, he outlined the educational future of UFM. The university should lead not just in Guatemala, but everywhere possible. But for education to change, UFM would need to develop new models from within.
 
-Well along the lines of UFM´s origin and vision, MPC came to be a mirrored model of Hayeks description of the market in education. A descentralized collaborative learning environment. 
+This new model of education would need to embody noncoercion, a founding principle of UFM. The program should give students significant autonomy, use technology well, and rely on dialogue and other forms of learning rather than lectures by progressors.
 
-The economic principles sustained at UFM parallel the core principles and values at MPC. Hayek described the competitive forces of the market as “a process of discovery.” That is precisely what goes on at MPC, a "process of discovery". The MPC was created by the hands of people who truly understood these complex processes, both in economics and education. 
+In late 2012, the MPC sprang to life with 18 enthusiastic students.
 
-Early on, late 2012, the MPC sprang with 18 enthusiastic students. They felt an incoherence in their earlier studies at traditional models and knew it was time for a change. MPC was that change. The program has ever since strived to improve its model. In late 2014, the MPC was subject to reiterations. What is known today came to existence through trial and error. 12 of the 18 "pioneers" remain in the program, plus 8 "revolutionaries" that joined in August, 2013. 
+Well along the lines of UFM´s origin and vision, the MPC was to bring to education a model that mirrored F.A. Hayek's description of the market as a 'spontaneous order'. Hayek described the competitive forces of the market as “a process of discovery.” The MPC sought to create a continuous "process of discovery" for students.
+
+The original eighteen students, dubbed the 'Pioneers' came from different backgrounds but all wanted a change in their education. Ever since, the MPC strives to improve its model. 
+
+Two years after its founding, the MPC pushed the notion of noncoercive teaching even further and reorganized as a student-led learning community. Twelve of the eighteen "pioneers" remain in the program, plus eight "revolutionaries" that joined in August, 2013.
 
 ##What do you need for the MPC?
 
