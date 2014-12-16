@@ -254,11 +254,18 @@ Experiential learning will sometimes take you outside the MPC. Come prepared wit
 ###Bootcamp Learning Contracts
 During Bootcamp, we encourage you to test our Learning Contract software. This software is the backbone of the second and third year. Practice makes perfect! Bootcampers will be held accountable for their learning contracts, but the courses they design will not appear on their transcript.
 
-In later years, you'll design courses that last a term. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
+In later years, you'll design courses that last for a full term. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
+
+For Spring 2015 the dates for these mini-contracts are:
+January 19 – March 2
+March 2 - April 6
+April 6 - May 18
 
 <b>The role of Learning Contracts during Bootcamp is to discover what kind of learner you are.</b> Do you work well with online courses? Or should you go find a job or internship to practice your skills? Do you learn best through listening, or perhaps reading? Bootcamp is your chance to discover your learning style at almost no-risk. Work hard on this because, once the second year starts, there's no going back on your contracts.
 
-##Learning Contracts
+
+##The Second and Third Years – Learning Contracts
+####Making a Learning Contract
 Years two and three are governed entirely by Learning Contract. 
 
 Check out our Learning Contract step-by-step for more details.
