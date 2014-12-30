@@ -21,7 +21,7 @@ In 2011, Giancarlo Ibárgüen, former president of UFM, gave a speech called Non
 This new model of education would need to embody noncoercion, a founding principle of UFM. The program should give students significant autonomy, use technology well, and rely on dialogue and other forms of learning rather than lectures by progressors.
 
 In late 2012, the MPC sprang to life with 18 enthusiastic students.
-
+scc
 Well along the lines of UFM´s origin and vision, the MPC was to bring to education a model that mirrored F.A. Hayek's description of the market as a 'spontaneous order'. Hayek described the competitive forces of the market as “a process of discovery.” The MPC sought to create a continuous "process of discovery" for students.
 
 The original eighteen students, dubbed the 'Pioneers' came from different backgrounds but all wanted a change in their education. Ever since, the MPC strives to improve its model. 
@@ -361,6 +361,8 @@ If you need help with how to approach an internship opportunity, talk to a coach
 
 ##Graduation and Life Beyond the MPC
 We want the MPC to prepare you for life beyond school. As a community for creative development, graduation requirements reflect our commitment to your long term work as a creator.
+
+A few years out of college, when most students are in their mid-20s, people already look more at what you've accomplished than at where you went to school. This doesn't mean that your credential doesn't matter. We want the MPC to provide both: a strong credential and a record of great work.
 
 ####Portfolio
 In the long run, a portfolio of great creative work is more important than your degree. Your degree and the connections you get from the MPC will open doors and prepare you for graduate school or professional life. But eventually people want to see a strong record of work, not a credential. We want you to graduate with both.
