@@ -14,19 +14,16 @@ Hi! Welcome to the handbook of the MPC Creative Learning Community at Universida
 7. How to Make a Learning Contract
 8. The People You'll Meet
 
+##Mindset
+The MPC is built on the growth mindset. Put simply, it means that our program focuses on habits of learning like: risk taking, a willingness to fail, perserverence, lifelong learning, and self-direction. 
 
-##A Brief History of the MPC
-In 2011, Giancarlo Ibárgüen, former president of UFM, gave a speech called Noncoercive Teaching. In it, he outlined the educational future of UFM. The university should lead not just in Guatemala, but everywhere possible. But for education to change, UFM would need to develop new models from within.
+Someone with a growth mindset believes that talents and skills can be cultivated and learned. Indeed, they must if the learner wants to become great. So the person with a growth mindset focuses on hard work, good habits, and rising to meet new challenges.
 
-This new model of education would need to embody noncoercion, a founding principle of UFM. The program should give students significant autonomy, use technology well, and rely on dialogue and other forms of learning rather than lectures by progressors.
+The opposite of a growth mindset is a 'fixed mindset'. People with this mindset believe that their intelligence, skills, or personality traits set for life. People with fixed mindsets avoid challenge and risk, because it threatens their ego and identity as a "smart" or "skilled" person. 
 
-In late 2012, the MPC sprang to life with 18 enthusiastic students.
-scc
-Well along the lines of UFM´s origin and vision, the MPC was to bring to education a model that mirrored F.A. Hayek's description of the market as a 'spontaneous order'. Hayek described the competitive forces of the market as “a process of discovery.” The MPC sought to create a continuous "process of discovery" for students.
+Those with a growth mindset treat life as a constant adventure and every new challenge as a chance to learn and grow. The MPC gives students a chance to change their mindset and become lifelong learners.
 
-The original eighteen students, dubbed the 'Pioneers' came from different backgrounds but all wanted a change in their education. Ever since, the MPC strives to improve its model. 
-
-Two years after its founding, the MPC pushed the notion of noncoercive teaching even further and reorganized as a student-led learning community. Twelve of the eighteen "pioneers" remain in the program, plus eight "revolutionaries" that joined in August, 2013.
+Read more about Stanford University psychologist Carol Dweck's pioneering work in her book <i>Mindset</i>. [Here's a summary](http://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 
 ##What do you need for the MPC?
 
@@ -271,6 +268,12 @@ Years two and three are governed entirely by Learning Contract.
 Check out our Learning Contract step-by-step for more details.
 
 Watch this intro video for how to use our software.
+
+####Elements of a Good Course
+Constant Practice
+Do your failing early and often. Practice new ideas and skills as much as you can during the course, so you have something solid by the end.
+Clear Metrics for Feedback
+Clear Outcomes
 
 ####UMAs
 UFM organizes courses through credits called "UMAs". An UMA is equivalent to about 15 hours of work. UMAs keep track of your progress toward graduation.
