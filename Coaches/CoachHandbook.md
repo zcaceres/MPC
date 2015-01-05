@@ -40,6 +40,9 @@ After each day, coaches should take 5-10 minutes to record their interactions wi
 
 Coaches will also have regular meetings to talk about students performance. They will engage in conversation as they assess each student and their work individually. This ongoing evaluation will be documented for later use. 
 
+##Bi-weekly Check-ins
+Students should be checked in with at least once every two weeks. [spreadsheet]
+
 ##A Day in the Life of a Coach
 Here's an example schedule for how a Coach's day may be in the MPC
 The coach arrives...
