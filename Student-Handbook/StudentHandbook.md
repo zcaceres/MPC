@@ -95,24 +95,24 @@ Here's important texts for understanding the MPC in general.
 Dialogue:
 [On Dialogue by David Bohm](http://sprott.physics.wisc.edu/Chaos-Complexity/dialogue.pdf)
 [How to Disagree by Paul Graham](http://paulgraham.com/disagree.html)
-[The Republic of Science by Michael Polanyi](LINKHERE)
+[The Republic of Science by Michael Polanyi](https://www.missouriwestern.edu/orgs/polanyi/mp-repsc.htm)
 
 Writing and Public Speaking
 1. [Writing and Speaking](http://paulgraham.com/speak.html) but also [Writing, Briefly – both by Paul Graham](http://paulgraham.com/writing44.html)
 3. [Book: A Sense of Style by Steven Pinker](http://smile.amazon.com/Sense-Style-Thinking-Persons-Writing-ebook/dp/B00INIYG74/ref=sr_1_1?ie=UTF8&qid=1417809539&sr=8-1&keywords=sense+of+style+pinker)
-4. [Book: The Elements of Style by Strunk and White](LINKHERE)
+4. [Book: The Elements of Style by Strunk and White](http://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf) (We have a copy of this in our lendng library too!)
 
 Creative Development
 [Corn-Pone Opinions by Mark Twain](http://englishbusselman.weebly.com/uploads/1/3/8/2/13827069/corn-pone_opinions_-_twain.pdf)
 [Self-Reliance by Ralph Waldo Emerson](http://www.emersoncentral.com/selfreliance.htm)
-[The War of Art by Steven Pressfield](LINK HERE)
-[Turning Pro by Steven Pressfield](LINKHERE)
+[The War of Art by Steven Pressfield](http://smile.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG/ref=sr_1_1?ie=UTF8&qid=1420487119&sr=8-1&keywords=war+of+art)
+[Turning Pro by Steven Pressfield](http://smile.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/ref=sr_1_1?ie=UTF8&qid=1420487144&sr=8-1&keywords=turning+pro)
 
 Independent Learning
-[Selection from Peak Learning: Skills for Today and Tomorrow by Ronald Gross](LINKHERE)
-[Deschooling Society by Ivan Illich](LINKHERE)
-[Free to Learn by Peter Gray](LINKHERE)
-[The Absorbent Mind by Maria Montessori](LINKHERE)
+[Selection from Peak Learning: Skills for Today and Tomorrow by Ronald Gross](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2WG5FZFJiVEVmLXM/view?usp=sharing) (PDF, must have UFM email to access)
+[Deschooling Society by Ivan Illich](http://smile.amazon.com/Deschooling-Society-I-Grandi-dellEducazione-ebook/dp/B00EQZF474/ref=sr_1_1_twi_1?ie=UTF8&qid=1420487181&sr=8-1&keywords=deschooling+society)
+[Free to Learn by Peter Gray](http://smile.amazon.com/Free-Learn-Unleashing-Instinct-Self-Reliant-ebook/dp/B00B3M3KZG/ref=sr_1_1?ie=UTF8&qid=1420487211&sr=8-1&keywords=free+to+learn)
+[The Absorbent Mind by Maria Montessori](http://smile.amazon.com/Absorbent-Mind-Maria-Montessori-ebook/dp/B00AF17FYS/ref=sr_1_1?ie=UTF8&qid=1420487226&sr=8-1&keywords=absorbent+mind)
 
 The Creative Economy
 1.[Book: The Rise of the Creative Class by Richard Florida](http://smile.amazon.com/Rise-Creative-Class--Revisited-Revised-Expanded/dp/0465042481/ref=sr_1_1?ie=UTF8&qid=1417806981&sr=8-1&keywords=rise+of+the+creative+class)
