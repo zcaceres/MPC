@@ -4,7 +4,9 @@ Hi! Welcome to the handbook of the MPC Creative Learning Community at Universida
 
 > “All the world is my school and all humanity is my teacher.” ― George Whitman
 
-##Table of Contents (Under construction)
+<b>This document is under construction! Expect changes and improvements.</b>
+
+##Table of Contents
 1. Mindset
 2. What do I need for the MPC?
 3. MPChat with Slack App
