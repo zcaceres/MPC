@@ -431,7 +431,7 @@ Your writing tutor is there to help you whip your writing into shape. They'll le
 > “Self-education is, I firmly believe, the only kind of education there is.” ― Isaac Asimov
 
 ##Internships
-The MPC requires all students to pursue an internship in their second year. Internships may be taken in either term, or both. Internships can also be pursued in the third year, if necessary. Internships may be paid or unpaid.
+The MPC requires all students to pursue an internship in their second year. Internships may be taken in either term, or both. Internships can also be pursued in the third year, if students want more experience. Internships may be paid or unpaid.
 
 
 An intensive internship could qualify as a 10 UMA course, like a part-time job. A once-a-week or less demanding internship will be listed on your transcript as a 5 UMA course. 
