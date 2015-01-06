@@ -309,7 +309,21 @@ April 6 - May 18
 
 <b>The role of Learning Contracts during Bootcamp is to discover what kind of learner you are.</b> Do you work well with online courses? Or should you go find a job or internship to practice your skills? Do you learn best through listening, or perhaps reading? Bootcamp is your chance to discover your learning style at almost no-risk. Work hard on this because, once the second year starts, there's no going back on your contracts.
 
+##First Year Checklist
+At least One Experience provided to the MPC per term
+Three Non-Credit Learning Contracts per term
+Passed All Bootcamp Courses (at least a C)
+
 ##The Second and Third Years – Learning Contracts
+####Philosophy of the Learning Contract 
+Most schools ask you to make a choice: are you learning academics (‘education’), or are you pursuing professional work (‘job’)? This is a false choice.
+
+A great creator make no difference between professional and academic life. Constant learning is how you become a better professional. But life is the ultimate learning experience: hard work, the pursuit of real-world projects, gives your education substance. There should be no difference between your professional and academic life.
+
+The Learning Contract allows nearly anything to become part of your education. Use the contract to design courses to support your work, or to put your studies into action through an entrepreneurial project of your own.
+
+A great creator make no difference between professional and academic life. Constant learning is part of becoming a better professional. But life is the ultimate learning experience: hard work, pursuing real-world projects, gives your education substance. There should be no difference between your professional and academic life.
+
 ####Making a Learning Contract
 Years two and three are governed entirely by Learning Contract. 
 
@@ -344,7 +358,7 @@ Mentors are responsible for grading your final evaluation. The MPC can help sugg
 Before your Learning Contract is submitted for review, you must confirm the mentors for all of your classes. This means returning (or emailing) a signed and complete mentor agreement form to the MPC for each of your classes.
 
 ##Declare your Degree Focus
-At the start of your final term, you declare your degree focus. This is like choosingyour 'major' in a traditional program, except you design it.
+At the start of your final term, you declare your degree focus. This is like choosing your 'major' in a traditional program, except you design it. A sample focus might be, "Psychology and Education" or "Social Entrepreneurship". Your focus must reflect your studies or it won't be approved. If you studied Medieval Literature, you can't declare a focus in Quantum Physics!
 
 ##Experiences
 Experiences bring community in the MPC. Every term, students are required to provide two experiences to the MPC community. You must provide two experiences, even if you're traveling. Get creative.
@@ -400,7 +414,7 @@ Tutors also provide a portion of the final grade for each Bootcamp subject.
 ####Mentors 
 The Learning Contracts that you design with the help of the MPC uses a system of paid mentorships. For example, a student may study programming and have a professional programmer evaluate their final web design project for a grade. The MPC pays these mentors and helps you find them. Mentors give you grades for your final work.
 
-Remember, mentors are often busy people. You don't want to bother them too often. You should view the mentor as a professional contact, not a 'teacher'. You don't ask your mentor "What is the answer to question 3?" You go and do your best to learn as much as you can on your own. The mentor is there for you bring your work for feedback. "How am I doing?" "I'm really stuck on this part." Mentors also can provide the practical, hands-on experience that books and professors cannot. "How do I make a rigorous practice regimen for the guitar?" "What's the best way to to approach a client?"
+Remember, mentors are often busy people. You don't want to bother them too often. You should view the mentor as a professional contact, not a 'teacher'. You don't ask your mentor "What is the answer to question 3?" You go and do your best to learn as much as you can on your own. The mentor is there for you bring your work for feedback. "How am I doing?" "I'm really stuck on this part." Mentors also can provide the practical, hands-on experience that books and professors cannot. "How do I make a rigorous practice regimen for the guitar?" "What's the best way to approach a client?"
 
 You shouldn't just view mentors as people who give feedback and grades. A good mentorship is often the first step to a job or other professional and life opportunities. Treat your mentors well because they can become lifelong friends and contacts.
 
