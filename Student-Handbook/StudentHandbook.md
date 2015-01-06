@@ -353,7 +353,9 @@ Draw on your skills or interest. You can organize a dance class or a workshop on
 
 <b>A word of advice: don't put all your experiences at the end of the term. First, you'll be busy with your final evaluations. Second, space and time fill up and you may not have a room available or MPCers will be too busy to attend. </b>
 
-Promote your experience. You're competing against lots of other cool things. But people will show up if you do a good job and tell people about your experience before it begins!
+Experiences don't have to be at the MPC. But they must be open to MPCers and <i>you must be the organizer/creator of the experience</i>.
+
+Promote your experience, especially if it's outside the MPC space. Make a poster and put it on the board. Share it on Slack. You're competing against lots of other cool things. But people will show up if you do a good job and tell people about your experience before it begins! 
 
 ####Milestone Experience
 The Milestone is a special type of experience. While MPCers design two experiences for other students, the Milestone is designed for the student herself. Each term MPCers are responsible for one Milestone.
