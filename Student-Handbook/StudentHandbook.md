@@ -214,6 +214,8 @@ During week two, students should reach the end of their book. Students produce a
 During week three, students produce a first draft of the entire piece. The Writer’s Studio meets for peer review in groups of 2-3 students. 
 During week four, students schedule a one-on-one consultation with a writing tutor. During the final days students prepare to publish their review, share it with their subject mentor, and to participate in MPCafé.
 
+<b>Come prepared to each week. Tutors will not waste their time helping unprepared students.</b>
+
 #####Week 1: Pre-Reading and Introduction
 Read preface, introduction, and at least the first chapter of the book. 
 Read liner notes and any commentary on the back cover. 
