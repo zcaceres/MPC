@@ -339,7 +339,7 @@ Students can make from three to five courses per term. This is to prevent your t
 
 Everything that you want to accomplish should be prepared as part of these three to five courses. Remember that a course could have multiple components that you can fill accordingly.
 
-##Strategies for Learning Contracts
+##Strategies for a Great Learning Contract
 
 ####Make a Draft
 Make a draft of your contract on paper or in a program like Microsoft Word. Put all the messy stuff in this draft and then refine it to a final form. When it's ready, then you can easily submit it to the MPC through our online software. This also gives you a backup in case something goes wrong when you submit your contract online!
