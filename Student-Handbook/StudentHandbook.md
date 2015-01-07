@@ -334,6 +334,11 @@ Years two and three are governed entirely by Learning Contract.
 
 Check out our Learning Contract step-by-step for more details. Watch this intro video for how to use our software.
 
+###How many Courses do I make?
+Students can make from three to five courses per term. This is to prevent your transcript from showing too many tiny courses, or one huge course. 
+
+Everything that you want to accomplish should be prepared as part of these three to five courses. Remember that a course could have multiple components that you can fill accordingly.
+
 ####Elements of a Good Course
 Constant Practice
 Do your failing early and often. Practice new ideas and skills as much as you can during the course, so you have something solid by the end.
