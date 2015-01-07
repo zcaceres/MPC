@@ -56,6 +56,9 @@ The MPC space at UFM is open from 7:00 to 9:00pm, Monday through Friday.
 
 As a student of the MPC, you have exclusive access to this space. You are always welcome. Please be respectful of others and the resources of the MPC.
 
+##Visitors Policy
+Visitors are welcome in the MPC if they are part of the student's work. Bring your co-founder, your mentor, your bandmate. Every visitor must be sponsored by a student. The student will be held responsible for the visitor's behavior. Visitors must be respectful of MPCers who are doing work. What we want to avoid is random visitors abusing MPC materials or filling the MPC space and ruining the experience for students.
+
 <b>MPC Schedule</b>
 Bootcamp courses are scheduled for each subject cycle. We don't usually schedule things into the evening because we believe you need time with friends, family, loved ones, and to do other activities. However, we may have fun stuff like movie nights sometimes. These will usually be optional.
 
