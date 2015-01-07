@@ -477,6 +477,8 @@ Your Great Work should demonstrate your own development as a creator. It's the c
 
 Your Great Work should be clearly ambitious and show leadership. Getting a job may be part of your Great Work, but it can't be the whole thing. You need to prove that you are capable of going your own way, even if that means developing something within an existing business or organization. You can do your Great Work with others in the MPC, such as founding a business together – but everyone has to be involved. No freeriders.
 
+Take advantage of the Learning Contract as a tool to structure your Great Work. The landmarks you set in your class can keep you on track as you develop your project (for example, "Publish Chapter 1", "Sell one unit of my product" etc).
+
 #####Great Work Panel
 The Great Work panel is how the MPC evaluates your Great Work and the focus you define for your degree. The Great Work Panel is an hour-long discussion with a jury of mentors, peers, or experts in the area of your interest. The Great Work Panel is a more intense version of the interview panel that evaluates students for admission.
 
