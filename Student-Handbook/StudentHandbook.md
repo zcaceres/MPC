@@ -372,6 +372,8 @@ Mentors are responsible for grading your final evaluation. The MPC can help sugg
 
 Before your Learning Contract is submitted for review, you must confirm the mentors for all of your classes. This means returning (or emailing) a signed and complete mentor agreement form to the MPC for each of your classes.
 
+Use the [MPC Mentor Guide](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2M2x2cTNaSW0zVjA/view?usp=sharing).
+
 ##Declare your Degree Focus
 At the start of your final term, you declare your degree focus. This is like choosing your 'major' in a traditional program, except you design it. A sample focus might be, "Psychology and Education" or "Social Entrepreneurship". Your focus must reflect your studies or it won't be approved. If you studied Medieval Literature, you can't declare a focus in Quantum Physics!
 
@@ -404,9 +406,8 @@ Here's a good way to approach a mentor:
 1. Send them an email explaining that you're a student at the MPC, a program that uses paid mentorships to grade students on their work. Thank the mentor for their time.
 2. Explain to them that a mentorship is not a significant time commitment. The student is in charge of their learning: mentors aren't expected to hold the student's hand through the course. Mentors are expected to give feedback (either in person or via Skype/email) twice per month and answer the occasional question as the student learns. The mentors will give the student a grade at the end of the term. These are the minimums set by the paid mentorship... a mentor can always agree to chat more or invite the student to events etc!
 3. Always be polite with the mentor.
-3. Share with them the mentor agreement (link), which discusses payment and responsibilities.
+3. Share with them the [mentor agreement](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2M2x2cTNaSW0zVjA/view?usp=sharing), which discusses payment and responsibilities.
 4. Thank the mentor for their time, regardless of what they say!
-
 
 ##The People You'll Meet
 Because of the MPC's unique model, we do not have permanent faculty. Here are the people you'll encounter during your time in the MPC.
@@ -433,7 +434,7 @@ Remember, mentors are often busy people. You don't want to bother them too often
 
 You shouldn't just view mentors as people who give feedback and grades. A good mentorship is often the first step to a job or other professional and life opportunities. Treat your mentors well because they can become lifelong friends and contacts.
 
-[Here's a link to our Mentor Handbook]()
+[Here's a link to our Mentor Guide](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2M2x2cTNaSW0zVjA/view?usp=sharing)
 
 ####Visiting Professors
 We bring in speakers and other professors for discussions, debates, and other activities. Visitors typically dialogue with students about a topic.
@@ -507,6 +508,9 @@ The verdict of the panel must be <b>unanimous</b> for the student to pass.
 
 <b>Failure of the Great Work Panel</b>
 If a student fails the Great Work Panel, the panel will talk with the student about what must be improved. The panel and student will devise a future date to attempt the panel again when the student has made more progress. Students cannot graduate until they pass their Great Work Panel.
+
+####Degree and Focus
+The MPC awards B.A. degrees in Liberal Studies with a focus that you define. A sample degree would read, "Bachelor of Arts in Liberal Studies. Concentration: Social Entrepreneurship".
 
 ##Graduation Checklist
 1. Six terms passed in the MPC (250 UMAs)
