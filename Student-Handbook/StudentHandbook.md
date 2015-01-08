@@ -482,6 +482,12 @@ Portfolios help you get into graduate school and they can land you a good job. I
 ####Great Work
 When you begin your Great Work in the 3rd year, we expect you to take a lighter load of classes. Your Great Work should be clearly incorporated into your contract. Developing your Great Work could be a 10 UMA course, which would leave 10 UMAs left to design additional courses. You're still responsible for your Milestone Challenge and experiences in the MPC.
 
+A sample contract may look like this:
+
+1. Course Built Around Development Steps of Great Work (10 UMAs)
+2. Supplemental Courses (10 UMAs)
+3. Experiential Learning: Milestone and Experiences (5 UMAs)
+
 You might use your Milestone and experiences as a way to further or enhance your great work. Run a focus group for your new business. Do a public reading of your novel in the MPC. Test your app with fellow students. Run a dialogue on the tough creative problem you're facing.
 
 Your Great Work is meant to take you to success beyond the MPC. Students in traditional college programs face a common problem: they graduate with a degree and suddenly find themselves out in the real world with no idea what to do. The Great Work is how the MPC helps students avoid this fate.
