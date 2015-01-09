@@ -344,6 +344,12 @@ Everything that you want to accomplish should be prepared as part of these three
 ####Make a Draft
 Make a draft of your contract on paper or in a program like Microsoft Word. Put all the messy stuff in this draft and then refine it to a final form. When it's ready, then you can easily submit it to the MPC through our online software. This also gives you a backup in case something goes wrong when you submit your contract online!
 
+###Start Early with Mentors
+Don't wait until the day before your contract is due to contact a mentor. Busy people can take a while to respond to emails. Contact them right away.
+
+###Start Thinking Early, too
+You can start to design a contract at any time, not just in the weeks provided by the MPC. Keep an ongoing journal of your goals and aspirations. Save material that might be useful in a future course. If you procrastinate, your contract won't be the best it could be.
+
 ####Elements of a Good Course
 Constant Practice
 Do your failing early and often. Practice new ideas and skills as much as you can during the course, so you have something solid by the end.
