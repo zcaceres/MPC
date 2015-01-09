@@ -329,6 +329,8 @@ The Learning Contract allows nearly anything to become part of your education. U
 
 A great creator make no difference between professional and academic life. Constant learning is part of becoming a better professional. But life is the ultimate learning experience: hard work, pursuing real-world projects, gives your education substance. There should be no difference between your professional and academic life.
 
+In the MPC, education is all about habits. Read more about [why we use Learning Contracts here.](https://medium.com/mpc-reads/education-is-about-habits-a27c22bc2c56)
+
 ####Making a Learning Contract
 Years two and three are governed entirely by Learning Contract. 
 
