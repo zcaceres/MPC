@@ -14,3 +14,7 @@ Here's a list of all the Admin processes:
 
 
 ####Furniture and Physical Space Design
+
+
+####Give Students real Responsibilities for MPC Services
+For example, a student that wants to develop a café should be in charge of MPCafé. An event planner can be the lead coordinator for MPCafé.
