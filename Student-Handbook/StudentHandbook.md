@@ -337,11 +337,20 @@ Years two and three are governed entirely by Learning Contract.
 Check out our Learning Contract step-by-step for more details. Watch this intro video for how to use our software.
 
 ###How many Courses do I make?
-Students can make from three to five courses per term. This is to prevent your transcript from showing too many tiny courses, or one huge course. 
+Students can make from three to six courses per term. This is to prevent your transcript from showing too many tiny courses, or one huge course. 
 
-Everything that you want to accomplish should be prepared as part of these three to five courses. Remember that a course could have multiple components that you can fill accordingly.
+Everything that you want to accomplish should be prepared as part of these three to six courses. Remember that a course could have multiple components that you can fill accordingly.
 
-##Strategies for a Great Learning Contract
+###Payment for Mentors
+Remember, the MPC budgets money to pay for four classes per student each semester. If you make more than that, you'll have to assume the cost or find a mentor who's willing to work with you for free.
+
+###Can all my classes be open?
+No. You can't join only open courses. You need at least one 'personal' course. Why? Because of how the UMA system works. But more importantly, you shouldn't be freeriding only on the course designs of other students. Take the material of other courses and use it to make something of your own.
+
+###How do I put my Great Work in my Learning Contract?
+Read the section on the Great Work below.
+
+##Strategies for an Awesome Learning Contract
 
 ####Make a Draft
 Make a draft of your contract on paper or in a program like Microsoft Word. Put all the messy stuff in this draft and then refine it to a final form. When it's ready, then you can easily submit it to the MPC through our online software. This also gives you a backup in case something goes wrong when you submit your contract online!
