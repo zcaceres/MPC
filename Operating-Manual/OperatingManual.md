@@ -36,3 +36,11 @@ Here's a list of all the Admin processes:
 ####Give Students real Responsibilities for MPC Services
 For example, a student that wants to develop a café should be in charge of MPCafé. An event planner can be the lead coordinator for MPCafé.
 
+
+Duties of the Curator
+Maintain a high standard in learning contracts, in admissions, and with visitors and tutors. Maintain brand value.
+
+Be a good steward of the physical space.
+How to pick good stuff for the physical space:
+
+H
