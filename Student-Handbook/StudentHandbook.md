@@ -512,8 +512,8 @@ When you begin your Great Work in the 3rd year, we expect you to take a lighter 
 
 A sample contract may look like this:
 
-1. Course Built Around Development Steps of Great Work (10 UMAs)
-2. Supplemental Courses (10 UMAs)
+1. Course Built Around Development Steps of Great Work (8 UMAs)
+2. Supplemental Courses (12 UMAs)
 3. Experiential Learning: Milestone and Experiences (5 UMAs)
 
 You might use your Milestone and experiences as a way to further or enhance your great work. Run a focus group for your new business. Do a public reading of your novel in the MPC. Test your app with fellow students. Run a dialogue on the tough creative problem you're facing.
