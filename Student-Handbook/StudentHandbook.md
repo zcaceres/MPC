@@ -508,7 +508,7 @@ Not everything goes in a portfolio. Put stuff that you're proud of and that's re
 Portfolios help you get into graduate school and they can land you a good job. If you plan to start your own business or work as a freelancer, your portfolio is like an elaborate business card. Building a portfolio can be fun and it's worth it. Coaches are available if you need help. And don't forget that your peers are there for feedback too.
 
 ####Great Work
-When you begin your Great Work in the 3rd year, we expect you to take a lighter load of extra classes. <b>Your Great Work should be clearly incorporated into your contract as a course.</b> Your Great Work course should be the heaviest of all your courses. Developing your Great Work could be a 10 UMA course, which would leave 10 UMAs left to design additional courses. You're still responsible for your Milestone Challenge and experiences in the MPC.
+When you begin your Great Work in the 3rd year, we expect you to take a lighter load of extra classes. <b>Your Great Work should be clearly incorporated into your contract as a course.</b> Your Great Work course should be the heaviest of all your courses (6-8 UMAs). Developing your Great Work could be a 8 UMA course, which would leave 12 UMAs left to design additional courses (two five UMA courses and a 2 UMA course). You're still responsible for your Milestone Challenge and experiences in the MPC.
 
 A sample contract may look like this:
 
@@ -551,6 +551,4 @@ The MPC awards B.A. degrees in Liberal Studies with a focus that you define. A s
 2. One successful internship (with a 'passed' letter of recommendation)
 3. Great Work Panel passed
 4. 
-
-##MPC Philosophy, in Brief
 
