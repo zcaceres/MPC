@@ -350,6 +350,12 @@ No. You can't join only open courses. You need at least one 'personal' course. W
 ###How do I put my Great Work in my Learning Contract?
 Read the section on the Great Work below.
 
+###Can I take classes in other faculties at UFM? 
+Yes. But because of how UFM is organized, you’ll have to pay twice. Other faculties will ask for the cost of the course in their faculty and the MPC will charge for the credit toward your MPC degree. For grades in these courses, the MPC will assign the grade that the outside faculty gives you. So if you get a “B” in Architecture 1, that’s what will end up on your MPC transcript.
+
+###But that sounds expensive. 
+Yes, it can be. Remember that the MPC is not meant to recreate a traditional educational experience, which is what most other faculties offer. Consider designing your own course, using materials from the faculty or other schools. Most schools publish the syllabus (the schedule and readings of their courses) online. You may even be able to get the exact same professor as a mentor for your course if you approach them using the MPC model.
+
 ##Strategies for an Awesome Learning Contract
 
 ####Make a Draft
@@ -502,7 +508,7 @@ Not everything goes in a portfolio. Put stuff that you're proud of and that's re
 Portfolios help you get into graduate school and they can land you a good job. If you plan to start your own business or work as a freelancer, your portfolio is like an elaborate business card. Building a portfolio can be fun and it's worth it. Coaches are available if you need help. And don't forget that your peers are there for feedback too.
 
 ####Great Work
-When you begin your Great Work in the 3rd year, we expect you to take a lighter load of classes. Your Great Work should be clearly incorporated into your contract. Developing your Great Work could be a 10 UMA course, which would leave 10 UMAs left to design additional courses. You're still responsible for your Milestone Challenge and experiences in the MPC.
+When you begin your Great Work in the 3rd year, we expect you to take a lighter load of extra classes. <b>Your Great Work should be clearly incorporated into your contract as a course.</b> Your Great Work course should be the heaviest of all your courses. Developing your Great Work could be a 10 UMA course, which would leave 10 UMAs left to design additional courses. You're still responsible for your Milestone Challenge and experiences in the MPC.
 
 A sample contract may look like this:
 
