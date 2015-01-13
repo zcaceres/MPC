@@ -353,9 +353,14 @@ Don't wait until the day before your contract is due to contact a mentor. Busy p
 You can start to design a contract at any time, not just in the weeks provided by the MPC. Keep an ongoing journal of your goals and aspirations. Save material that might be useful in a future course. If you procrastinate, your contract won't be the best it could be.
 
 ####Elements of a Good Course
-Constant Practice
+<b>Constant Practice</b>
 Do your failing early and often. Practice new ideas and skills as much as you can during the course, so you have something solid by the end.
-Clear Outcomes/Metrics. Bad outcome: "I will become a better designer." (This doesn't really tell you if you've achieved the goal!) Good outcome: "I will complete four paid design jobs as a freelancer before the end of the semester." (Success and failure of this outcome is crystal clear.
+
+<b>Clear Outcomes/Metrics</b>
+Bad outcome: "I will become a better designer." (This doesn't really tell you if you've achieved the goal!) Good outcome: "I will complete four paid design jobs as a freelancer before the end of the semester." (Success and failure of this outcome is crystal clear.
+
+####Start with Good Materials
+Spend some time researching the materials that you'll use for your course. Even if you don't know the exact books or chapters you'll use, put a good starting point. You can always tweak the materials or add more later. Get yourself on a firm foundation. Staff, other MPCers, and people at UFM can help you find resources for your course if you're unsure. Most resources are just a Google search away!
 
 ####Writing a Good Course Description
 Course descriptions go into UFM's system of course management. They're tied to the courses you design. If someone wants to know what your class was about, they can access this description. So make it good!
