@@ -9,6 +9,9 @@ This handbook is designed to assist coaches in their duties at the MPC.
 ##How to Suggest Improvement to Students
 
 ##Working in the MPC
+Coaches must either:
+Be the mentor for an open course
+Offer an ongoing seminar on a topic of their choice
 
 ##Contract and Portfolio Weeks
 Coaches are most active during the weeks where students design their learning contracts and review their portfolios. Typically, these are the first and last weeks of the semester.
