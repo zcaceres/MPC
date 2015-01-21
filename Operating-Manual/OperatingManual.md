@@ -43,4 +43,7 @@ Maintain a high standard in learning contracts, in admissions, and with visitors
 Be a good steward of the physical space.
 How to pick good stuff for the physical space:
 
-H
+
+###Quality Control
+Administrators should check in at least once a day with students. Ask at least three students a simple question like, "How is it going?" "Is everything going ok?" Read between the lines. If a student seems hesitant to speak, don't force the issue. Instead, remind them with something like the following: "Well, please let me know if you can see areas to improve. That's my job."
+
