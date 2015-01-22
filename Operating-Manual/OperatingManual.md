@@ -43,6 +43,8 @@ Maintain a high standard in learning contracts, in admissions, and with visitors
 Be a good steward of the physical space.
 How to pick good stuff for the physical space:
 
+####Special Offerings
+Occasionally the MPC will offer special open courses. Some will be opportunities at UFM or with friends of the MPC. These are published on the platform and have a clear UMA value. The MPC must make these courses and they will be available to the students on the platform to enroll. Some special offerings may be competitive or require an application process before a student is accepted. Make sure you advertise these courses. Post the descriptions on Slack and elsewhere in the space.
 
 ###Quality Control
 Administrators should check in at least once a day with students. Ask at least three students a simple question like, "How is it going?" "Is everything going ok?" Read between the lines. If a student seems hesitant to speak, don't force the issue. Instead, remind them with something like the following: "Well, please let me know if you can see areas to improve. That's my job."
