@@ -342,7 +342,9 @@ Students can make from three to six courses per term. This is to prevent your tr
 Everything that you want to accomplish should be prepared as part of these three to six courses. Remember that a course could have multiple components that you can fill accordingly.
 
 ###Payment for Mentors
-Remember, the MPC budgets money to pay for four classes per student each semester. If you make more than that, you'll have to assume the cost or find a mentor who's willing to work with you for free.
+The MPC budgets money to pay for four mentors (four courses) per student each semester. If you use the MPC budget to pay your mentor, the MPC will use this payment as leverage to ensure that you get your grade. If you choose not to use your budget for your mentor (they volunteer), then <i>you are responsible for getting your grade in by the due date</i>. Beyond the mentor, you can use your budget for materials, trips, or other things related to your course.
+
+Your course budget encourages collaboration. The more students that join a course, the bigger the budget you have to negotiate a great mentor, take a trip, or buy materials. Subscribe to an online course together. Plan a group trip. Buy a mixing board to practice your music.
 
 ###Can all my classes be open?
 No. You can't join only open courses. You need at least one 'personal' course. Why? Because of how the UMA system works. But more importantly, you shouldn't be freeriding only on the course designs of other students. Take the material of other courses and use it to make something of your own.
@@ -357,6 +359,9 @@ Yes. But because of how UFM is organized, you’ll have to pay twice. Other facu
 Yes, it can be. Remember that the MPC is not meant to recreate a traditional educational experience, which is what most other faculties offer. Consider designing your own course, using materials from the faculty or other schools. Most schools publish the syllabus (the schedule and readings of their courses) online. You may even be able to get the exact same professor as a mentor for your course if you approach them using the MPC model.
 
 ##Strategies for an Awesome Learning Contract
+Yes, the Learning Contract gives the MPC gets the information it needs to make a transcript from your work. But its main role is as a tool to create habits and structure goals.
+
+Learning Contracts let you ground your ideas in a concrete strategy. We all struggle with commitment. I want to paint, to play guitar, to learn German, to study economics, whatever. Curious people want to do a lot. The Contract forces you to ground your aspirations in real work.
 
 ####Make a Draft
 Make a draft of your contract on paper or in a program like Microsoft Word. Put all the messy stuff in this draft and then refine it to a final form. When it's ready, then you can easily submit it to the MPC through our online software. This also gives you a backup in case something goes wrong when you submit your contract online!
@@ -368,14 +373,28 @@ Don't wait until the day before your contract is due to contact a mentor. Busy p
 You can start to design a contract at any time, not just in the weeks provided by the MPC. Keep an ongoing journal of your goals and aspirations. Save material that might be useful in a future course. If you procrastinate, your contract won't be the best it could be.
 
 ####Elements of a Good Course
-<b>Constant Practice</b>
-Do your failing early and often. Practice new ideas and skills as much as you can during the course, so you have something solid by the end.
+<b>Strategy = Constant Practice</b>
+Practice makes perfect. Do your failing early and often. Practice new ideas and skills as much as you can during the course, so you have something solid by the end. This goes under the "strategy" section. Besides your final evaluation, strategy may be the most important part of your courses.
 
-<b>Clear Outcomes/Metrics</b>
+<b>Concrete Outcomes/Metrics</b>
 Bad outcome: "I will become a better designer." (This doesn't really tell you if you've achieved the goal!) Good outcome: "I will complete four paid design jobs as a freelancer before the end of the semester." (Success and failure of this outcome is crystal clear.
 
-####Start with Good Materials
+<b>Start with Good Materials</b>
 Spend some time researching the materials that you'll use for your course. Even if you don't know the exact books or chapters you'll use, put a good starting point. You can always tweak the materials or add more later. Get yourself on a firm foundation. Staff, other MPCers, and people at UFM can help you find resources for your course if you're unsure. Most resources are just a Google search away!
+
+<b>Clear Final Evaluation</i>
+All courses must have a final evaluation. Your final evaluation needs a due date and obvious criteria for success.
+
+Bad: "I'll write a paper on Shakespeare."
+Good: "I'll write a 10,000 word paper with academic citations on Shakespeare's relationship to rap music."
+
+Bad: "I'll record a song."
+Good: "I'll record a song of at least 3 minutes with multiple tracks and publish it on my Soundcloud."
+
+Don't just write a paper that no one wants to read. Don't do work for no reason. Publish. Design. Get it out in the world. Get it in your portfolio. Do real work. You'll thank yourself later.
+
+<b>Incorporate your Life</b>
+There doesn't need to be any difference between your professional/work life and your academic/student life. Working a part time job in advertising? Find a place for it in your contract. Picked up a couple freelancing gigs? Define clear outcomes and put it in your contract.
 
 ####Writing a Good Course Description
 Course descriptions go into UFM's system of course management. They're tied to the courses you design. If someone wants to know what your class was about, they can access this description. So make it good!
