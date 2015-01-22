@@ -421,6 +421,9 @@ Before your Learning Contract is submitted for review, you must confirm the ment
 
 Use the [MPC Mentor Guide](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2M2x2cTNaSW0zVjA/view?usp=sharing).
 
+####Special Offerings
+Occasionally the MPC will offer special open courses. Some will be opportunities at UFM or with friends of the MPC. These will have an UMA value and a clear course description announced and published on Slack and elsewhere. The MPC will make these courses and they will be available to you on the platform to enroll. Some special offerings may be competitive or require an application process before a student is accepted.
+
 ##Declare your Degree Focus
 At the start of your final term, you declare your degree focus. This is like choosing your 'major' in a traditional program, except you design it. A sample focus might be, "Psychology and Education" or "Social Entrepreneurship". Your focus must reflect your studies or it won't be approved. If you studied Medieval Literature, you can't declare a focus in Quantum Physics!
 
