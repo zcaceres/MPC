@@ -146,43 +146,34 @@ Students can team up on books if they want a dialogue partner as they read. But 
 <b>Grading During Bootcamp</b>
 Student’s grades are calculated for each subject as follows:
 
-One Third: MPCafé
-One Third: Subject Review or Essay
-One Third: Attendance in Core Discussions and Experiences
+One Half: MPCafé Performance
+One Half: Subject Review or Essay
 
 Each of these components is graded three ways.
-One Third: Student's Evaluation
-One Third: Tutor's Evaluation
+
+One Third: Student’s Evaluation
+One Third: Tutor’s Evaluation
 One Third: Peer Evaluation
 
-We use participatory grading for each assignment. Students evaluate themselves for one third of their grade in each area. Peers (or the MPCafé crowd) evaluate students for an additional third. An expert mentor from the program evaluates students for the final one third.
+We use participatory grading for each assignment. Students evaluate themselves for one third of their grade in each area. Peers (or the MPCafé crowd) evaluate students for an additional third. An expert tutor from the program evaluates students for the final one third.
 
 <b>Rubrics</b>
-<i>MPCafé</i>
-How original is the work or argument made in this presentation? (1-10)
-How engaging was the speaker’s performance? (1-10)
-Is the speaker knowledgeable about his/her topic? (1-10)
-Comments:
+<b>MPCafé</b>
+The rubric is available here.
 
-Student did not arrive to MPCafé. (0/10) 
+Student did not do a performance. (0/10)
 
-<i>Essay or Book Review</i>
-Use Writer’s Studio Rubrics
+Essay or Book Review
+Use Writer’s Studio Rubric
 
 Student did not turn in an essay. (0/10)
 
-<i>Participation/Attendance</i>
-Tutor takes attendance.
-
-Did the person attend and arrive on time? (10 if yes to both. 5 if late. 0 if did not attend)
-Student was absent. (0/10)
-
-<i>Dialogues</i>
-Students receive peer-to-peer feedback during dialogues. At the start of each discussion, students are randomly assigned another student’s name. Student’s fill out a feedback sheet for their assigned student and give it to the student at the end of each dialogue. This feedback is in narrative form and does not receive a grade.
-
-Each evaluation operates on a scale of 1-10. Final scores for all three elements are averaged and students receive a letter grade (A, B, C, D, F) according to the outcome.
+Peer-to-Peer Feedback on Dialogues
+Students receive peer-to-peer feedback during dialogues. At the start of each discussion, students are randomly assigned another student’s name. Student’s fill out a feedback sheet for their assigned student and give it to the student at the end of each dialogue. This feedback is in narrative form and does not receive a grade.pa
 
 <b>Final Averages</b>
+Final Averages
+Each evaluation operates on a scale of 1–10. Final scores for all three elements are averaged and students receive a letter grade (A, B, C, D, F) according to the outcome.
 Letter Grade
 
 F: 1 - 1.9
@@ -342,9 +333,16 @@ Students can make from three to six courses per term. This is to prevent your tr
 Everything that you want to accomplish should be prepared as part of these three to six courses. Remember that a course could have multiple components that you can fill accordingly.
 
 ###Payment for Mentors
-The MPC budgets money to pay for four mentors (four courses) per student each semester. If you use the MPC budget to pay your mentor, the MPC will use this payment as leverage to ensure that you get your grade. If you choose not to use your budget for your mentor (they volunteer), then <i>you are responsible for getting your grade in by the due date</i>. Beyond the mentor, you can use your budget for materials, trips, or other things related to your course.
+The MPC budgets money to pay for four mentors (four courses) per student each semester. If you use the MPC budget to pay your mentor, the MPC will use this payment as leverage to ensure that you get your grade. 
+
+If you choose not to use your budget for your mentor (they volunteer), then <i>you are responsible for getting your grade in by the due date</i>. Beyond the mentor, you can use your budget for materials, trips, or other things related to your course.
 
 Your course budget encourages collaboration. The more students that join a course, the bigger the budget you have to negotiate a great mentor, take a trip, or buy materials. Subscribe to an online course together. Plan a group trip. Buy a mixing board to practice your music.
+
+####How does payment work?
+Talk to the MPC about book purchases from sites like Amazon. For subscriptions to website, events, trips, or other materials you need to follow this process to do your payments. If you don't, we can't refund it – sorry! 
+
+Payments are processed at the end of each semester in a lump sum. Reimbursements for materials are processed at the same time as mentor payments. If you drop out of the MPC before the end of the semester, we don't refund anything. This means you will pay up front for the materials and the MPC will keep track of those expenses and refund their to you at the end of the semester.
 
 ###Can all my classes be open?
 No. You can't join only open courses. You need at least one 'personal' course. Why? Because of how the UMA system works. But more importantly, you shouldn't be freeriding only on the course designs of other students. Take the material of other courses and use it to make something of your own.
