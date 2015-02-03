@@ -49,3 +49,10 @@ Occasionally the MPC will offer special open courses. Some will be opportunities
 ###Quality Control
 Administrators should check in at least once a day with students. Ask at least three students a simple question like, "How is it going?" "Is everything going ok?" Read between the lines. If a student seems hesitant to speak, don't force the issue. Instead, remind them with something like the following: "Well, please let me know if you can see areas to improve. That's my job."
 
+###Monitoring the Mentor Relationship
+The MPC should not be directly involved in the students' mentor-mentee relationships. However, administration should check in with students. "How's everything with your mentors?" works just fine. If there is a problem, students are usually quick to bring it up when asked.
+
+Administration should be vigilant to sudden changes in students mood or behavior after they begin mentor/mentee relationships. While there have not been any problems in the MPC so far, it's important to be aware of unhealthy relationships. If a student expresses that their mentor makes them uncomfortable or crossed personal lines, the MPC must offer the student the option to change mentors. If a mentor has made students uncomfortable, they should be removed from any databases of the MPC so that no further students interact with them.
+
+Mentors 
+
