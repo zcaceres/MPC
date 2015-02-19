@@ -159,7 +159,7 @@ We use participatory grading for each assignment. Students evaluate themselves f
 
 <b>Rubrics</b>
 <b>MPCafé</b>
-The rubric is available here.
+The rubric is [available here](https://docs.google.com/document/d/1Xxg8qk_nncICeY358bfl20tygGwH5Q1viYv_USdAqkE/edit?usp=sharing).
 
 Student did not do a performance. (0/10)
 
