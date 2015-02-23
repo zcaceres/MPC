@@ -56,3 +56,7 @@ Administration should be vigilant to sudden changes in students mood or behavior
 
 Mentors 
 
+
+Tutor Debrief
+After each bootcamp section, staff should meet with tutor and ask the following:
+Which experiences were valuable and which were not? Which major questions or themes arose from the experience? What could be improved logistically? What could be improved academically?
