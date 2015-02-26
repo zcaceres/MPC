@@ -332,17 +332,45 @@ Students can make from three to six courses per term. This is to prevent your tr
 
 Everything that you want to accomplish should be prepared as part of these three to six courses. Remember that a course could have multiple components that you can fill accordingly.
 
-###Payment for Mentors
-The MPC budgets money to pay for four mentors (four courses) per student each semester. If you use the MPC budget to pay your mentor, the MPC will use this payment as leverage to ensure that you get your grade. 
+###Future Fund
+The Future Fund is a personal fund that students use to secure mentors, manage their courses, and invest in their future as the creator of their own education. The Future Fund is entirely yours to manage. The MPC will not tell you how to spend it.
 
-If you choose not to use your budget for your mentor (they volunteer), then <i>you are responsible for getting your grade in by the due date</i>. Beyond the mentor, you can use your budget for materials, trips, or other things related to your course.
+#####Why Future Fund?
+Future Fund allows greater flexibility when designing a course together. It allows you to invest in your education over time. It allows you to pursue free mentorships, or secure expensive mentors.
 
-Your course budget encourages collaboration. The more students that join a course, the bigger the budget you have to negotiate a great mentor, take a trip, or buy materials. Subscribe to an online course together. Plan a group trip. Buy a mixing board to practice your music.
+Most importantly, it puts you in the driver’s seat of your own education. You have to decide how best to spend your funds. The best way to learn how to manage money is to manage your own.
 
-####How does payment work?
-Talk to the MPC about book purchases from sites like Amazon. For subscriptions to website, events, trips, or other materials you need to follow this process to do your payments. If you don't, we can't refund it – sorry! 
+Use your money wisely. If you blow it all on useless stuff, the <b>MPC will not pay your mentors apart from the money allotted for your Future Fund.</b> Keep a good account of your funds.
 
-Payments are processed at the end of each semester in a lump sum. Reimbursements for materials are processed at the same time as mentor payments. If you drop out of the MPC before the end of the semester, we don't refund anything. This means you will pay up front for the materials and the MPC will keep track of those expenses and refund their to you at the end of the semester.
+#####How does it work?
+1. As you plan your contract, consider costs for each course.
+2. After you turn in your final contract and all mentor agreement forms, the MPC fills your Future Fund (Q7200 per term). This happens every semester in the second and third years.
+3. The transfer will go directly to your bank account.
+4. Your Future Fund should cover:
+Materials you need for your course (books, lab materials, subscriptions to online courses, etc.)
+Mentors
+Anything else that you need to have an awesome term
+5. For each course, you need to negotiate a payment for your mentor (or convince them to volunteer). Remember that UFM mentors can help for free. We’ll still need a mentor agreement form for every course. But you set the price. The flexibility of the Future Fund means that you can get a mentor to work for free, or you could spend your entire budget on a high-profile mentor. Future Fund replaces the old process of mentor payments.
+6. We will provide you with a standard mentor agreement to contract with your tutor. This agreement will be between you and the tutor. You are responsible for securing these agreements and for paying the mentor from your fund. 
+7. You can use your Future Fund for any other expenses that you have while you execute your contract.
+For shared courses, students should agree beforehand who will pay for what. Students can pledge a set amount to their shared course. It’s your job to negotiate with your peers.
+8. At the end of the semester, during Portfolio Week, everyone will share their remaining balance and talk about how they managed their money.
+
+#####Does the Future Fund Expire at the end of the term?
+No. Need to travel for an internship? Need seed funding for your Great Work? That means that you can save up money to invest in something bigger later.
+
+As always, the MPC can help suggest mentors and offer a letter of introduction about the program and your studies. The same consequences apply if you do not secure mentor agreement forms or bring in final grades. 
+
+You will not receive your Future Fund until:
+1. You submit an approved final contract
+2. You submit all your confirmed mentor agreements
+3. You are solvent with the MPC/UFM
+
+<b>Help! I don’t have a bank account.</b>
+Managing your own finances is an important part of your independence! So go get a bank account. You can open one right here at UFM through the Banco Industrial branch below the MPC. You’ll need to share your bank account data with the MPC so we can make the transfer.
+
+#####Future Fund Commitment Contracts at the MPC
+Have trouble forming a habit or worried that you’ll flake on a commitment? Write a commitment contract with the MPC. These are small agreements where you pledge money to do a task (lose ten pounds by March, read five books by June). Bring your contract and the cash you want to pledge to the MPC. We will hold the money. If you satisfy the commitment, you get the money back. If you don’t, you forfeit the money to the MPC which will use it to improve the space.
 
 ###Can all my classes be open?
 No. You can't join only open courses. You need at least one 'personal' course. Why? Because of how the UMA system works. But more importantly, you shouldn't be freeriding only on the course designs of other students. Take the material of other courses and use it to make something of your own.
