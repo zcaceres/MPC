@@ -525,8 +525,7 @@ Your writing tutor is there to help you whip your writing into shape. They'll le
 ##Internships
 The MPC requires all students to pursue an internship in their second year. Internships may be taken in either term, or both. Internships can also be pursued in the third year, if students want more experience. Internships may be paid or unpaid.
 
-
-An intensive internship could qualify as a 10 UMA course, like a part-time job. A once-a-week or less demanding internship will be listed on your transcript as a 5 UMA course. 
+An intensive internship could qualify as a 8 UMA course, like a part-time job. A once-a-week or less demanding internship will be listed on your transcript as a 5 UMA course. 
 
 ####Why Internships?
 Internships are the best way for you to get professional experience in an area that interests you. The modern internship evolved from the apprenticeships of the past. Apprentices were junior members of a craft. They learned by working closely with a master. Their work was often unglamorous, as internships sometimes are today, but the proximity to the master craftsman more than paid for the work.
@@ -537,9 +536,12 @@ Internships also are ways to build your network. Working first as an intern ofte
 ####Finding an Internship
 As you work with mentors during Bootcamp and in your Learning Contracts, watch for opportunities to intern. Many people want an intern. It's nice to have someone who wants to help you (usually for free), and who is interested in your work. Many people don't know they want an intern until you suggest it... so ask!
 
-The MPC has a rich network of possible internships. Talk to coaches, classmates, mentors, and anyone else around the MPC. Someone will know somebody who can help. On-sight internships are preferred but, if necessary, an internship could even be conducted digitally, with tools like Skype and Googledocs.
+The MPC has a rich network of possible internships. Talk to residents, classmates, mentors, and anyone else around the MPC. Someone will know somebody who can help. On-sight internships are preferred but, if necessary, an internship could even be conducted digitally, with tools like Skype and Googledocs.
 
-If you need help with how to approach an internship opportunity, talk to a coach or peer with more experience. The MPC can help you make a connection, but <b>you are responsible for approaching the mentor and convincing them to employ you as an intern.</b> This is a valuable and important life skill and it's part of your education.
+If you need help with how to approach an internship opportunity, talk to a coach or peer with more experience. The MPC can help you make a connection, but <b>you are responsible for approaching the mentor and convincing them to employ you as an intern.</b> This is a valuable and important life skill and it's part of your education. Make sure you check out visa requirements if you're traveling abroad!
+
+###Confirming your Internship with the MPC
+The MPC needs your internship to send an acceptance letter to mpc@ufm.edu. This is so we know you have secured your internship. To incorporate your internship into your learning contract, you'll also need to submit a mentor agreement form (usually it's your boss who signs it!).
 
 ##Graduation and Life Beyond the MPC
 We want the MPC to prepare you for life beyond school. As a community for creative development, graduation requirements reflect our commitment to your long term work as a creator.
