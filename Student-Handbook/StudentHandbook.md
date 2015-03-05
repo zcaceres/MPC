@@ -197,15 +197,16 @@ Students are responsible for producing a high-quality 1000-2000 word review of t
 #####Essay
 Essays follow a similar format to book reviews. But essays offer greater freedom than the review. There is no page limit to the essay. It is expected to be as concise as possible while still conveying the most important information on their topic. You can include references to other readings and your own opinions. Think of it as an engaging chapter in a book. Make it clear. Make it entertaining. Make it professional.
 
-####Writing Checkpoints
-Each week there's an important event in the Writer's Studio.
+###Writer's Workshop Schedule
+The Workshop follows a simple format.
+15 minutes - Warm-up. During this time you'll see examples of good writing or do a written exercise.
+30 minutes - Sprint. Write about anything, including your MPC work if you wish. No talking. No phones. No distractions.
+45 minutes - Prepare for publication, editing, peer review. Time to talk to the tutor one on one, to peer review, and edit.
 
-During week one, students pre-read and write their introduction. The MPC Writer’s Studio meets and we review. 
-During week two, students should reach the end of their book. Students produce an outline and write sections to summarize each chapter. 
-During week three, students produce a first draft of the entire piece. The Writer’s Studio meets for peer review in groups of 2-3 students. 
-During week four, students schedule a one-on-one consultation with a writing tutor. During the final days students prepare to publish their review, share it with their subject mentor, and to participate in MPCafé.
+<b>At the end of each Writer's Workshop, you will publish your work on Medium.</b>
 
-<b>Come prepared to each week. Tutors will not waste their time helping unprepared students.</b>
+####Help! I need structure to write!
+Students may work on any writing during the Writer's Workshop. For students who want a more structured approach, you can follow this process:
 
 #####Week 1: Pre-Reading and Introduction
 Read preface, introduction, and at least the first chapter of the book. 
@@ -214,7 +215,7 @@ Scan or speed-read the final chapter or conclusion.
 
 Look for material to include in your intro. Around the middle of the first week, write your introduction—i.e., your first paragraph — focusing on the overarching importance or uniqueness of the book, any controversy it might stir, the author’s reputation, etc.
 
-You need to bring this to the workshop:
+Bring to the workshop:
 1. Your introduction (a strong first paragraph)
 
 Now get reading! You probably should schedule clear reading goals so you finish on-time. Talk to a coach or co-learner if you need help with this.
@@ -235,8 +236,6 @@ Bring this to the peer review workshop:
 
 [Here's a checklist for peer review](https://docs.google.com/document/d/1InB9QeJ0qQxazB9ND8TT6mXFqtKxAoMmcnUwBKAMCRo/edit?usp=sharing)
 
-<b>You must schedule a consultation with an MPC writing tutor for the next week</b> You should have revised your draft based on the peer review. Bring a polished second draft to your consultation.
-
 #####Week 4: Writing Tutor Consult and Final Draft
 
 Bring this to your consult with a Writing Tutor:
@@ -244,8 +243,7 @@ Bring this to your consult with a Writing Tutor:
 
 [Here's a checklist for final draft review](https://docs.google.com/document/d/1do1op-_3iTYL1FXMEXacLEHzs77webrJmNp7RRZn5Tw/edit?usp=sharing)
 
-We'll do this same process for every subject. 
-In case you need a reminder, [here's a checklist of all the steps presented here, week-by-week.](https://docs.google.com/document/d/1-hR9BH3zlUSN8mUYpFovp9n8UW7i5afjCumm3paaYN0/edit?usp=sharing)
+[Here's a checklist of all the steps presented here, week-by-week.](https://docs.google.com/document/d/1-hR9BH3zlUSN8mUYpFovp9n8UW7i5afjCumm3paaYN0/edit?usp=sharing)
 
 ###MPCafé
 MPCafé is a monthly gathering of Bootcampers. It's an important day for students. Bootcampers give their MPCafé performances about their independent reading. Grades for public speaking are given on this day. Then we have a party and celebrate work well done.
