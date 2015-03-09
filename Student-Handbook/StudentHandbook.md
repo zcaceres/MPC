@@ -245,6 +245,9 @@ Bring this to your consult with a Writing Tutor:
 
 [Here's a checklist of all the steps presented here, week-by-week.](https://docs.google.com/document/d/1-hR9BH3zlUSN8mUYpFovp9n8UW7i5afjCumm3paaYN0/edit?usp=sharing)
 
+#####Peer Grading
+Follow [this guide](https://medium.com/mpc-reads/the-mpc-guide-to-mpcaf%C3%A9-and-stress-free-publishing-on-medium-9b1d12b33b11) to understand peer-grading.
+
 ###MPCafé
 MPCafé is a monthly gathering of Bootcampers. It's an important day for students. Bootcampers give their MPCafé performances about their independent reading. Grades for public speaking are given on this day. Then we have a party and celebrate work well done.
 
@@ -253,6 +256,8 @@ Essays or book reviews are due on MPCafé. These essays are bound into a Bootcam
 On MPCafé, we open the program to the public. We convert the MPC into a café. Your parents might show up. Students are expected to demonstrate their mastery of their research that month in a creative format. 
 
 MPCafé is mostly for Bootcampers. Students in their second and third years can also show their work on MPCafé. Students may practice public speaking through a talk, or may put their art or other work on display.
+
+Read a [complete guide to MPCafé here](https://medium.com/mpc-reads/the-mpc-guide-to-mpcaf%C3%A9-and-stress-free-publishing-on-medium-9b1d12b33b11).
 
 ####Public Speaking at MPCafé
 Public speaking is a core skill of life, and of the MPC. MPCafé is practice. Writing and public speaking serve different purposes. [Read this essay to understand why](http://paulgraham.com/speak.html). Put simply, writing generates, clarifies, and organizes ideas. Speaking convinces, entertains, and inspires action. A creator needs both.
