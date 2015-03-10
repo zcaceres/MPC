@@ -60,3 +60,10 @@ Mentors
 Tutor Debrief
 After each bootcamp section, staff should meet with tutor and ask the following:
 Which experiences were valuable and which were not? Which major questions or themes arose from the experience? What could be improved logistically? What could be improved academically?
+
+
+After MPCafé
+Return students their grades using this simple form. Its best to give students this wide variety of data because they can compare their own rating to the ratings of others. It helps them see whether their estimation of their own skills is accurate. Typcally we use slack to tell students privately of their grades.
+
+Make copies of the evaluation sheets for the student's record. Then give them the originals.
+
