@@ -605,3 +605,17 @@ The MPC awards B.A. degrees in Liberal Studies with a focus that you define. A s
 3. Great Work Panel passed
 4. 
 
+###Policy for Changes to the MPC
+Occasionally, the MPC program changes. New opportunities emerge, or we discover that something doesn't work well. We are always interested in improving the program, so bring us your ideas!
+
+However if we change the program based on the demands of small groups or single students, we create unhealthy power dynamics. Students then form small coalitions and try to lobby the administration to change policies. This is a bad way to run a program.
+
+So the rule is simple:
+
+If you think something needs to be changed, first talk with your classmates. Convince them why things would be better with a change. Once you have consensus, bring the idea to the MPC administration.
+
+Why do we do this?
+1. To avoid the unhealthy power dynamics
+2. To make sure no one has major changes randomly imposed on them, without any idea of what's coming
+3. To encourage group coherence and cooperation
+4. Because if everybody agrees with a change, it's probably an important one to make.
