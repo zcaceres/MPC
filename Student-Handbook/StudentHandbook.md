@@ -205,6 +205,20 @@ The Workshop follows a simple format.
 
 <b>At the end of each Writer's Workshop, you will publish your work on Medium.</b>
 
+###Publication Requirements
+Publishing your work from Bootcamp is mandatory. At the end of each Writer's Workshop, you click publish. Your book review for each subject will also be published.
+
+All students in Bootcamp must publish. <b>There are no exceptions.</b>
+
+By default, students publish on Medium ([click here](https://medium.com/mpc-reads/the-mpc-guide-to-stress-free-publishing-on-medium-7acd451fcd29) for a how-to guide!). We have a shared Medium collection that students can use to publish together. However, if you have a preferred or better outlet for your work, you can use that too. You still need to upload your work on Medium (you can keep it private), so that your fellow Bootcampers can do peer grading.
+
+In summary:
+1. You must post your work on Medium so that students can do peer grading. 
+2. If Harvard Business Review calls and you have a chance to publish elsewhere, then you can use that one and keep your Medium upload private.
+3. Everyone must publish.
+
+The MPC will not assign grades for Bootcamp unless the student has published their work.
+
 ####Help! I need structure to write!
 Students may work on any writing during the Writer's Workshop. For students who want a more structured approach, you can follow this process:
 
@@ -300,7 +314,7 @@ Experiential learning will sometimes take you outside the MPC. Come prepared wit
 During Bootcamp, we encourage you to test our Learning Contract software. This software is the backbone of the second and third year. Practice makes perfect! Bootcampers will be held accountable for their learning contracts, but the courses they design will not appear on their transcript.
 
 In later years, you'll design courses that last for a full term. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
-
+w
 For Spring 2015 the dates for these mini-contracts are:
 January 19 – March 2
 March 2 - April 6
