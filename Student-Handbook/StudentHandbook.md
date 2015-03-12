@@ -464,6 +464,9 @@ Before your Learning Contract is submitted for review, you must confirm the ment
 
 Use the [MPC Mentor Guide](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2M2x2cTNaSW0zVjA/view?usp=sharing).
 
+####Rate My Mentor
+The MPC offers a [simple tool](http://goo.gl/forms/SLbn6SPQlI) for students to rate their mentors at the end of each semester. Check [this database](https://docs.google.com/a/ufm.edu/spreadsheets/d/1Zdr64AMv6m5wfywn4pHhh0bvuCsSryyyC6I0FPSKMKM/edit?usp=sharing) for mentor ideas and to make sure you get a good one! You must be logged in to your UFM account to access these pages.
+
 ####Special Offerings
 Occasionally the MPC will offer special open courses. Some will be opportunities at UFM or with friends of the MPC. These will have an UMA value and a clear course description announced and published on Slack and elsewhere. The MPC will make these courses and they will be available to you on the platform to enroll. Some special offerings may be competitive or require an application process before a student is accepted.
 
@@ -616,8 +619,7 @@ The MPC awards B.A. degrees in Liberal Studies with a focus that you define. A s
 ##Graduation Checklist
 1. Six terms passed in the MPC (250 UMAs)
 2. One successful internship (with a 'passed' letter of recommendation)
-3. Great Work Panel passed
-4. 
+3. Great Work Panel passedme
 
 ###Policy for Changes to the MPC
 Occasionally, the MPC program changes. New opportunities emerge, or we discover that something doesn't work well. We are always interested in improving the program, so bring us your ideas!
