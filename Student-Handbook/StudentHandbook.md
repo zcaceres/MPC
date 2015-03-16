@@ -448,7 +448,7 @@ Bad description: "The world of cosmology is full of the mystery of the ether. Ma
 
 Good description: "In this course, we survey the cosmological theories of Bohm, Einstein, and Hawking. Students will read primary texts from each of these thinkers and complete a research project of their own in the theory of cosmology."
 
-####Failure of the Learning Contract?
+####Failure of the Learning Contract
 Several things can cause failure of the Learning Contract.
 1. Failure to complete final evaluations.
 2. Failure to turn in grades, contracts, or mentor agreements by their due dates.
