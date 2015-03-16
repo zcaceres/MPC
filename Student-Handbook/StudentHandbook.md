@@ -359,7 +359,7 @@ Most importantly, it puts you in the driver’s seat of your own education. You 
 
 Use your money wisely. If you blow it all on useless stuff, the <b>MPC will not pay your mentors apart from the money allotted for your Future Fund.</b> Keep a good account of your funds.
 
-#####How does it work?
+#####How does Future Fund work?
 1. As you plan your contract, consider costs for each course.
 2. After you turn in your final contract and all mentor agreement forms, the MPC fills your Future Fund (Q7200 per term). This happens every semester in the second and third years.
 3. The transfer will go directly to your bank account.
@@ -447,6 +447,21 @@ Descriptions should not be fancy or 'clever'. Just be simple and clear. Remember
 Bad description: "The world of cosmology is full of the mystery of the ether. Many great minds have pondered our place in the cosmos for millennia! We will interrogate the deepest cosmic truths to obtain spiritual enlightenment."
 
 Good description: "In this course, we survey the cosmological theories of Bohm, Einstein, and Hawking. Students will read primary texts from each of these thinkers and complete a research project of their own in the theory of cosmology."
+
+####Failure of the Learning Contract?
+Several things can cause failure of the Learning Contract.
+1. Failure to complete final evaluations.
+2. Failure to turn in grades, contracts, or mentor agreements by their due dates.
+3. If a mentor gives a "fail" grade in a pass/fail course.
+4. If a mentor gives an F in a letter grade course.
+5. If, for some other reason, a mentor refuses to grade the student or terminates the mentorship before the course is over. This does not include uncontrollable circumstances like the mentor becoming ill or having to end the mentorship for reasons that are not the student's responsibility.
+
+<b>What happens if I fail?</b>
+Failure of the Learning Contract is failure of the term in the MPC. A failed term means that you forfeit your tuition for that term and will not be awarded UMAs for that contract. Most contract failure will occur at the start or end of the term. However, if you fail in the middle of a term, you may still come to the MPC and participate in activities. However your work will no longer count towards a Learning Contract.
+
+You must pass six terms to graduate from MPC.
+
+Failure is an opportunity to learn. Consider reflecting on your goals and habits if you fail a contract. Although the MPC will strictly enforce these failure conditions, we always offer support for those who wish to learn from failure.
 
 ####UMAs
 UFM organizes courses through credits called "UMAs". An UMA is equivalent to about 15 hours of work. UMAs keep track of your progress toward graduation.
