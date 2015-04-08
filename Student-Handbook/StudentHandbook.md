@@ -506,7 +506,18 @@ Your Milestone should stretch you beyond your comfort zone. If you're afraid of 
 
 The Milestone is your chance to grow the emotional and psychological skills that you need to be a creator.
 
+###Residency Program
+The MPC Residency Program is an opportunity for alumni and others to stay connected to the MPC.
 
+<b>How does it work?</b>
+The MPC offers a few slots each semester like “Entrepreneur in Residence”, “Filmmaker in Residence”, “Writer in Residence”, or “Artist in Residence”.
+
+1. Residents apply through a competitive process to the residency. The MPC accepts the best applicant.
+2. Residents will be given free access to the MPC and to MPC events/visitors/facilities. They are able to use the MPC space as a co-working environment, including for co-founder or other colleagues. Residents will also be able to use MPC tools like recording or film equipment.
+3. Residencies last for a semester.
+4. Some residencies will include a modest stipend for the resident’s work in the MPC and funds to cover parking at UFM. 
+5. Residents may also be eligible for free or special group rates on trips or other MPC experiences.
+6. Residencies may include requests by the MPC for other activities such as working as a mentor or giving workshops. 
 
 ##Your First Mentor Meeting
 It can be intimidating to ask someone to be your mentor. But you shouldn't be afraid! Most people are flattered and excited when someone is interested in their work. You're so interested, you want to give them the chance to grade your on your work!
