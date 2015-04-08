@@ -54,6 +54,11 @@ The MPC should not be directly involved in the students' mentor-mentee relations
 
 Administration should be vigilant to sudden changes in students mood or behavior after they begin mentor/mentee relationships. While there have not been any problems in the MPC so far, it's important to be aware of unhealthy relationships. If a student expresses that their mentor makes them uncomfortable or crossed personal lines, the MPC must offer the student the option to change mentors. If a mentor has made students uncomfortable, they should be removed from any databases of the MPC so that no further students interact with them.
 
+###Residency Program
+Residents will affect the MPC community. You need to be careful when choosing them. The most important element to watch for is attitude. Residents should be friendly people with a growth-mindset. These traits are more important than their qualifications. Ideally, a resident is both. But if you must choose between a highly-qualified applicant with a negative or destructive attitude and a less qualified but more positive applicant, choose the latter.
+
+Residents sign an agreement where the MPC sets up expectations...
+
 Mentors 
 
 
