@@ -310,6 +310,11 @@ The MPC isn't just reading and writing. In between core dialogues, the subject e
 
 Experiential learning will sometimes take you outside the MPC. Come prepared with whatever you need that day (jacket, wallet, phone, etc.)
 
+###MPC Group Excursions
+Each semester we organize at least one trip for the whole program. These are opportunities to adventure, learn, and see new places. Trips typically have themes and we assign readings and talk together when we reach our destination. During the trips time is mostly unstructured, so everyone has a chance to experience the destination,
+
+We plan these trips in advance. <b>If you confirm your attendance and then cancel at the last minute we will bill you the cost of your trip.</b> This is the same as making an airline reservation.
+
 ###Bootcamp Learning Contracts
 During Bootcamp, we encourage you to test our Learning Contract software. This software is the backbone of the second and third year. Practice makes perfect! Bootcampers will be held accountable for their learning contracts, but the courses they design will not appear on their transcript.
 
