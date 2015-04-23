@@ -319,7 +319,7 @@ We plan these trips in advance. <b>If you confirm your attendance and then cance
 During Bootcamp, we encourage you to test our Learning Contract software. This software is the backbone of the second and third year. Practice makes perfect! Bootcampers will be held accountable for their learning contracts, but the courses they design will not appear on their transcript.
 
 In later years, you'll design courses that last for a full term. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
-w
+
 For Spring 2015 the dates for these mini-contracts are:
 January 19 – March 2
 March 2 - April 6
@@ -332,76 +332,77 @@ At least One Experience provided to the MPC per term
 Three Non-Credit Learning Contracts per term
 Passed All Bootcamp Courses (at least a C)
 
-##The Second and Third Years – Learning Contracts
+##The Second and Third Years – MPC Fellowship
+####MPC Fellows
+In the second and third years, MPC students become Fellows with more responsibility but also special privileges.
+
+Fellows design their entire semester through Learning Contracts (explained below). Fellows also receive Fellowship Funding (explained below). Fellows have no set hours or attendance policy. They may travel, work, research, and do any other activities that contribute to their education. The MPC organizes special seminars, workshops, dinners, and excursions exclusively for fellows.
+
 ####Philosophy of the Learning Contract 
 Most schools ask you to make a choice: are you learning academics (‘education’), or are you pursuing professional work (‘job’)? This is a false choice.
 
-A great creator make no difference between professional and academic life. Constant learning is how you become a better professional. But life is the ultimate learning experience: hard work, the pursuit of real-world projects, gives your education substance. There should be no difference between your professional and academic life.
+Creative leaders make no difference between professional and academic life. Constant learning is how you become a better professional. But life is the ultimate learning experience: hard work and the pursuit of real-world projects gives your education substance. There should be no difference between your professional and academic life.
 
 The Learning Contract allows nearly anything to become part of your education. Use the contract to design courses to support your work, or to put your studies into action through an entrepreneurial project of your own.
 
-A great creator make no difference between professional and academic life. Constant learning is part of becoming a better professional. But life is the ultimate learning experience: hard work, pursuing real-world projects, gives your education substance. There should be no difference between your professional and academic life.
-
-In the MPC, education is all about habits. Read more about [why we use Learning Contracts here.](https://medium.com/mpc-reads/education-is-about-habits-a27c22bc2c56)
+In the MPC, education is all cultivating these habits. Read more about [why we use Learning Contracts here.](https://medium.com/mpc-reads/education-is-about-habits-a27c22bc2c56)
 
 ####Making a Learning Contract
-Years two and three are governed entirely by Learning Contract. 
-
-Check out our Learning Contract step-by-step for more details. Watch this intro video for how to use our software.
+Watch this intro video for how to make a great course.
 
 ###How many Courses do I make?
-Students can make from three to six courses per term. This is to prevent your transcript from showing too many tiny courses, or one huge course. 
+Students can make from three to six courses per term. This is to prevent your transcript from showing too many tiny courses, or one huge course.
 
 Everything that you want to accomplish should be prepared as part of these three to six courses. Remember that a course could have multiple components that you can fill accordingly.
 
-###Future Fund
-The Future Fund is a personal fund that students use to secure mentors, manage their courses, and invest in their future as the creator of their own education. The Future Fund is entirely yours to manage. The MPC will not tell you how to spend it.
+###Fellows Fund
+The Fellows Fund is a personal fund that students use to secure mentors, manage their courses, and invest in their future as the creator of their own education. The Future Fund is entirely yours to manage. The MPC will not tell you how to spend it.
 
-#####Why Future Fund?
-Future Fund allows greater flexibility when designing a course together. It allows you to invest in your education over time. It allows you to pursue free mentorships, or secure expensive mentors.
+#####Why Fellows Fund?
+Fellows Fund allows greater flexibility when designing a course together. It allows you to invest in your education over time. It allows you to pursue free mentorships, or secure expensive mentors.
 
 Most importantly, it puts you in the driver’s seat of your own education. You have to decide how best to spend your funds. The best way to learn how to manage money is to manage your own.
 
-Use your money wisely. If you blow it all on useless stuff, the <b>MPC will not pay your mentors apart from the money allotted for your Future Fund.</b> Keep a good account of your funds.
+Use your money wisely. If you blow it all on useless stuff, the <b>MPC will not pay your mentors apart from the money allotted for your Fellows Fund.</b> Keep a good account of your funds.
 
-#####How does Future Fund work?
+#####How does Fellows Fund work?
 1. As you plan your contract, consider costs for each course.
-2. After you turn in your final contract and all mentor agreement forms, the MPC fills your Future Fund (Q7200 per term). This happens every semester in the second and third years.
+2. After you turn in your final contract and all mentor agreement forms, the MPC begins to fill your Fellows Fund (Q7200 per term, dispersed in monthly increments). This happens every semester in the second and third years.
 3. The transfer will go directly to your bank account.
-4. Your Future Fund should cover:
+4. Your Fellows Fund should cover:
 Materials you need for your course (books, lab materials, subscriptions to online courses, etc.)
 Mentors
 Anything else that you need to have an awesome term
-5. For each course, you need to negotiate a payment for your mentor (or convince them to volunteer). Remember that UFM mentors can help for free. We’ll still need a mentor agreement form for every course. But you set the price. The flexibility of the Future Fund means that you can get a mentor to work for free, or you could spend your entire budget on a high-profile mentor. Future Fund replaces the old process of mentor payments.
+5. For each course, you need to negotiate a payment for your mentor (or convince them to volunteer). Remember that UFM mentors can help for free. We’ll still need a mentor agreement form for every course. But you set the price. The flexibility of the Fellows Fund means that you can get a mentor to work for free, or you could spend your entire budget on a high-profile mentor. Fellows Fund replaces the old process of mentor payments.
 6. We will provide you with a standard mentor agreement to contract with your tutor. This agreement will be between you and the tutor. You are responsible for securing these agreements and for paying the mentor from your fund. 
-7. You can use your Future Fund for any other expenses that you have while you execute your contract.
+7. You can use your Fellows Fund for any other expenses that you have while you execute your contract.
 For shared courses, students should agree beforehand who will pay for what. Students can pledge a set amount to their shared course. It’s your job to negotiate with your peers.
 8. At the end of the semester, during Portfolio Week, everyone will share their remaining balance and talk about how they managed their money.
 
-#####Does the Future Fund Expire at the end of the term?
+#####Does the Fellows Fund Expire at the end of the term?
 No. Need to travel for an internship? Need seed funding for your Great Work? That means that you can save up money to invest in something bigger later.
 
 As always, the MPC can help suggest mentors and offer a letter of introduction about the program and your studies. The same consequences apply if you do not secure mentor agreement forms or bring in final grades. 
 
-You will not receive your Future Fund until:
-1. You submit an approved final contract
+You will not receive your Fellows Fund until:
+1. You submit an approved Learning Contract
 2. You submit all your confirmed mentor agreements
 3. You are solvent with the MPC/UFM
 
 <b>Help! I don’t have a bank account.</b>
 Managing your own finances is an important part of your independence! So go get a bank account. You can open one right here at UFM through the Banco Industrial branch below the MPC. You’ll need to share your bank account data with the MPC so we can make the transfer.
 
-#####Future Fund Commitment Contracts at the MPC
+#####Fellows Fund Commitment Contracts at the MPC
 Have trouble forming a habit or worried that you’ll flake on a commitment? Write a commitment contract with the MPC. These are small agreements where you pledge money to do a task (lose ten pounds by March, read five books by June). Bring your contract and the cash you want to pledge to the MPC. We will hold the money. If you satisfy the commitment, you get the money back. If you don’t, you forfeit the money to the MPC which will use it to improve the space.
 
 ###Can all my classes be open?
-No. You can't join only open courses. You need at least one 'personal' course. Why? Because of how the UMA system works. But more importantly, you shouldn't be freeriding only on the course designs of other students. Take the material of other courses and use it to make something of your own.
+No. You can't join only open courses. You need at least one 'personal' course. Why? Because of how UFM's UMA system works. But more importantly, you shouldn't be only freeriding on the course designs of other students. Take the material of other courses and use it to make something of your own.
 
 ###How do I put my Great Work in my Learning Contract?
 Read the section on the Great Work below.
 
 ###Can I take classes in other faculties at UFM? 
-Yes. But because of how UFM is organized, you’ll have to pay twice. Other faculties will ask for the cost of the course in their faculty and the MPC will charge for the credit toward your MPC degree. For grades in these courses, the MPC will assign the grade that the outside faculty gives you. So if you get a “B” in Architecture 1, that’s what will end up on your MPC transcript.
+Yes. But because of how UFM is organized, you’ll have to pay twice. Other faculties will ask for the cost of the course in their faculty and the MPC will charge for the credit toward your MPC degree. For grades in these courses, the MPC will assign the grade that the outside faculty gives you. So if you get a “B” in Architecture 101, that’s what will end up on your MPC transcript.
 
 ###But that sounds expensive. 
 Yes, it can be. Remember that the MPC is not meant to recreate a traditional educational experience, which is what most other faculties offer. Consider designing your own course, using materials from the faculty or other schools. Most schools publish the syllabus (the schedule and readings of their courses) online. You may even be able to get the exact same professor as a mentor for your course if you approach them using the MPC model.
@@ -409,10 +410,10 @@ Yes, it can be. Remember that the MPC is not meant to recreate a traditional edu
 ##Strategies for an Awesome Learning Contract
 Yes, the Learning Contract gives the MPC gets the information it needs to make a transcript from your work. But its main role is as a tool to create habits and structure goals.
 
-Learning Contracts let you ground your ideas in a concrete strategy. We all struggle with commitment. I want to paint, to play guitar, to learn German, to study economics, whatever. Curious people want to do a lot. The Contract forces you to ground your aspirations in real work.
+Learning Contracts let you ground your ideas in a concrete strategy. We all struggle with commitment. I want to paint, to play guitar, to learn German, to study economics, whatever. Curious people want to do a lot. Learning Contracts force you to ground your aspirations in real work.
 
 ####Make a Draft
-Make a draft of your contract on paper or in a program like Microsoft Word. Put all the messy stuff in this draft and then refine it to a final form. When it's ready, then you can easily submit it to the MPC through our online software. This also gives you a backup in case something goes wrong when you submit your contract online!
+Make a draft of your contract on paper or in a program like Microsoft Word. You can also make one by hand using our Learning Contract Canvas. Put all the messy stuff in this draft and then refine it to a final form. When it's ready, then you can easily submit it to the MPC through our online form. This also gives you a backup in case something goes wrong when you submit your contract online!
 
 ###Start Early with Mentors
 Don't wait until the day before your contract is due to contact a mentor. Busy people can take a while to respond to emails. Contact them right away.
@@ -444,16 +445,31 @@ Don't just write a paper that no one wants to read. Don't do work for no reason.
 <b>Incorporate your Life</b>
 There doesn't need to be any difference between your professional/work life and your academic/student life. Working a part time job in advertising? Find a place for it in your contract. Picked up a couple freelancing gigs? Define clear outcomes and put it in your contract.
 
+####Does the MPC control my learning process?
+No. Learning is a dynamic process. If the textbook you're using is no good, or the video lectures are boring, change them. This also allows you to take advantage of opporutnities that arise, such as a new internship that will teach you more than the reading and work process that you had planned. You can nest all of life's wonderful surprises into your contract, so long as you still reach your goals. Make sure to track your progress and the changes you make in your portfolio!
+
 ####Writing a Good Course Description
 Course descriptions go into UFM's system of course management. They're tied to the courses you design. If someone wants to know what your class was about, they can access this description. So make it good!
 
-Descriptions should not be fancy or 'clever'. Just be simple and clear. Remember, this is just for a transcript so it doesn't need to be fine art.
+Descriptions should not be fancy or too 'clever'. Just be simple and clear. Remember, this is just for a transcript so it doesn't need to be fine art.
 
 Bad description: "The world of cosmology is full of the mystery of the ether. Many great minds have pondered our place in the cosmos for millennia! We will interrogate the deepest cosmic truths to obtain spiritual enlightenment."
 
 Good description: "In this course, we survey the cosmological theories of Bohm, Einstein, and Hawking. Students will read primary texts from each of these thinkers and complete a research project of their own in the theory of cosmology."
 
-####Failure of the Learning Contract
+###Amendments to Final Evaluations
+Sometimes when you start a course, you think a particular final project will be the right fit. But after a few months of learning, some people realize that their final evaluation could be more meaningful or challenging.
+
+Just as the MPC allows for a dynamic process for you to learn, you can also upgrade your final evaluations. How does this work? Write up the proposed change to your final evaluation. Then it must be approved by the mentor who will grade and the MPC. That's it!
+
+<b>What will be approved:</b>
+A different project of equal difficulty: I was going to write a 20 page paper, instead I'm going to organize a symposium at UFM.
+A harder or more ambitious project: I was going to paint 5 works, now I'm going to paint 10.
+
+<b>What will be rejected:</b>
+Anything that is easier or an attempt to avoid the serious commitment you made in the contract: I was going to write a 20 page paper, now I want to do a 10-point summary.
+
+###Failure of the Learning Contract
 Several things can cause failure of the Learning Contract.
 1. Failure to complete final evaluations.
 2. Failure to turn in grades, contracts, or mentor agreements by their due dates.
@@ -467,6 +483,15 @@ Failure of the Learning Contract is failure of the term in the MPC. A failed ter
 You must pass six terms to graduate from MPC.
 
 Failure is an opportunity to learn. Consider reflecting on your goals and habits if you fail a contract. Although the MPC will strictly enforce these failure conditions, we always offer support for those who wish to learn from failure.
+
+<b>What about my other classes that I didn't fail?</b>
+These courses will still appear on your transcript and can still be graded. But they will not be worth any UMAs. We do this so that students still have an incentive to finish the semester if they fail a course halfway through.
+
+<b>What happens to my Fellows Funding?</b>
+Failed courses are no longer eligible for Fellows Funding. We will subtract the cost of the course based on the number of courses that you have (ex. 25% of your budget if you fail one out of four courses).
+
+<b>Do I have to repeat courses?</b>
+No. Every contract is indepenent. 
 
 ####UMAs
 UFM organizes courses through credits called "UMAs". An UMA is equivalent to about 15 hours of work. UMAs keep track of your progress toward graduation.
