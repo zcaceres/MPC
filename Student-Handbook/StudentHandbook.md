@@ -502,12 +502,17 @@ That sounds like a lot, but that's about 9 1/2 weeks of work at a full-time job 
 
 Standard courses worth 4 or 5 UMAs must clearly be rigorous or we won't accept them. Keep this in mind as you plan your contracts.
 
-####Mentors
+###Mentors
 Mentors are responsible for grading your final evaluation. The MPC can help suggest connections and talk to you about how you can approach a mentor. But you are responsible for finding and confirming your mentor. You may need to be persuasive with some mentors. Your ability to network and secure mentorships is a valuable life skill and part of your education.
 
 Before your Learning Contract is submitted for review, you must confirm the mentors for all of your classes. This means returning (or emailing) a signed and complete mentor agreement form to the MPC for each of your classes.
 
-Use the [MPC Mentor Guide](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2M2x2cTNaSW0zVjA/view?usp=sharing).
+Use the [MPC Mentor Guide](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2M2x2cTNaSW0zVjA/view?usp=sharing). [update here]
+
+####Flexible Mentoring - Contract for What You Need
+The MPC requires that students contract a mentor to provide them with a grade on their final evaluation. Beyond this commitment, there is no minimum (or maximum) mentoring requirement. Schedule check-ins, or not. Get lots of one-on-one time, or not! You can receive feedback from (and negotiate payments with) as many mentors as you want. 
+
+Some students want more attnetion than others. It may be important to meet at certain moments than others. Flexible mentoring lets your contract accommodate your needs and helps you align incentives with your mentor.
 
 ####Rate My Mentor
 The MPC offers a [simple tool](http://goo.gl/forms/SLbn6SPQlI) for students to rate their mentors at the end of each semester. Check [this database](https://docs.google.com/a/ufm.edu/spreadsheets/d/1Zdr64AMv6m5wfywn4pHhh0bvuCsSryyyC6I0FPSKMKM/edit?usp=sharing) for mentor ideas and to make sure you get a good one! You must be logged in to your UFM account to access these pages.
@@ -519,7 +524,7 @@ Occasionally the MPC will offer special open courses. Some will be opportunities
 At the start of your final term, you declare your degree focus. This is like choosing your 'major' in a traditional program, except you design it. A sample focus might be, "Psychology and Education" or "Social Entrepreneurship". Your focus must reflect your studies or it won't be approved. If you studied Medieval Literature, you can't declare a focus in Quantum Physics!
 
 ##Experiences
-Experiences bring community in the MPC. Every term, students are required to provide two experiences to the MPC community. You must provide two experiences, even if you're traveling. Get creative.
+Experiences bring strong community in the MPC. Every term, Fellos are required to provide two experiences to the MPC community. You must provide two experiences, even if you're traveling. Get creative.
 
 Draw on your skills or interest. You can organize a dance class or a workshop on debate. You could lead a field trip or other excursion. You can bring in a visiting speaker. If you're traveling, you can Skype in for your experience. You could also produce a video and organize a screening to share it with the MPC instead.
 
@@ -528,6 +533,8 @@ Draw on your skills or interest. You can organize a dance class or a workshop on
 Experiences don't have to be at the MPC. But they must be open to MPCers and <i>you must be the organizer/creator of the experience</i>.
 
 Promote your experience, especially if it's outside the MPC space. Make a poster and put it on the board. Share it on Slack. You're competing against lots of other cool things. But people will show up if you do a good job and tell people about your experience before it begins! 
+
+<b>You should plan and think about your experiences in advance, but experiences are submitted as you go</b>. Why? Speakers cancel. Changes in logistics happen. Better ideas arise. When you have a good experience ready, submit this simple form to the MPC for approval.
 
 ####Milestone Experience
 The Milestone is a special type of experience. While MPCers design two experiences for other students, the Milestone is designed for the student herself. Each term MPCers are responsible for one Milestone.
