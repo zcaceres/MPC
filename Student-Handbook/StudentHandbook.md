@@ -405,7 +405,7 @@ Read the section on the Great Work below.
 Yes. But because of how UFM is organized, you’ll have to pay twice. Other faculties will ask for the cost of the course in their faculty and the MPC will charge for the credit toward your MPC degree. For grades in these courses, the MPC will assign the grade that the outside faculty gives you. So if you get a “B” in Architecture 101, that’s what will end up on your MPC transcript.
 
 ###But that sounds expensive. 
-Yes, it can be. Remember that the MPC is not meant to recreate a traditional educational experience, which is what most other faculties offer. Consider designing your own course, using materials from the faculty or other schools. Most schools publish the syllabus (the schedule and readings of their courses) online. You may even be able to get the exact same professor as a mentor for your course if you approach them using the MPC model.
+Yes, it can be. Remember that the MPC is not meant to recreate a traditional educational experience, which is what most other faculties offer. Consider designing your own course, using materials from the faculty or other schools. Most schools publish the syllabus (the schedule and readings of their courses) online. You may even be able to gegt the exact same professor as a mentor for your course if you approach them using the MPC model.
 
 ##Strategies for an Awesome Learning Contract
 Yes, the Learning Contract gives the MPC gets the information it needs to make a transcript from your work. But its main role is as a tool to create habits and structure goals.
@@ -675,6 +675,15 @@ The verdict of the panel must be <b>unanimous</b> for the student to pass.
 
 <b>Failure of the Great Work Panel</b>
 If a student fails the Great Work Panel, the panel will talk with the student about what must be improved. The panel and student will devise a future date to attempt the panel again when the student has made more progress. Students cannot graduate until they pass their Great Work Panel.
+
+####Centro Henry Hazlitt Requirements for MPC
+UFM requires all students to pass basic economic proficiency exams to graduate. This is taught and tested through Centro Henry Hazlitt (CHH).
+
+MPC students must pass an exam that tests Basic Economics (called Proceso 1 and 2 at UFM) and Ética (basically the philosophy of individual liberty class).
+
+The MPC has a list of all the concepts and ideas from these courses. We give you the list and we curate some materials to give you direction, if you need it. You can learn these ideas in any way you want. You can find a tutor, you can work together, you can ask us to help, you can go online etc. When you're ready, you take the test. If you pass, you'll have fulfilled the graduation requirement.
+
+Don't be worried about this requirement. The ideas are not difficult and everyone who has graduated from UFM has passed these tests. Though the ideas aren't difficult, they are tremendously valuable for helping you understand the world. You can get this requirement out of the way as soon as you wish.
 
 ####Degree and Focus
 The MPC awards B.A. degrees in Liberal Studies with a focus that you define. A sample degree would read, "Bachelor of Arts in Liberal Studies. Concentration: Social Entrepreneurship".
