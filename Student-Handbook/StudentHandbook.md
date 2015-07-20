@@ -427,7 +427,7 @@ Bad outcome: "I will become a better designer." (This doesn't really tell you if
 <b>Start with Good Materials</b>
 Spend some time researching the materials that you'll use for your course. Even if you don't know the exact books or chapters you'll use, put a good starting point. You can always tweak the materials or add more later. Get yourself on a firm foundation. Staff, other MPCers, and people at UFM can help you find resources for your course if you're unsure. Most resources are just a Google search away!
 
-<b>Clear Final Evaluation</i>
+<b>Clear Final Evaluation</b>
 All courses must have a final evaluation. Your final evaluation needs a due date and obvious criteria for success.
 
 Bad: "I'll write a paper on Shakespeare."
