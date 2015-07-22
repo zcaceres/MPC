@@ -718,3 +718,38 @@ Growing as a creative leader is difficult. During the Bootcamp, we also have act
 Starting at Orientation Day, students are asked to examine questions of their own personal philosophy. Students read, participate in discussions, attend workshops, and have experiences meant to encourage them to become more authentic, to give and receive honest feedback, and to become courageous and creative non-conformists.
 
 Students are asked to look deep within themselves to find their a creative calling. As students learn more about the world and understand themselves better, they prepare to enter their second year of apprenticeship and to explore their creative medium in the third year.
+
+###MPC Pre-Semester
+The Pre-MPC Term is a chance for students to practice the self-directed study format of Year 2 and 3 through a funded MPC Learning Contract.  Students will become familiar with the MPC methodology, explore their interests and build skills of self-discipline which will provide them an advantage before entering the MPC three-year program. This will also provide the student the opportunity to enhance their MPC curriculum with an extra semester of courses.
+
+Cost: 
+Cost Per Term: $4,000
+UFM Service Monthly Fee: $40
+* detailed information in in the “MPC Payment Fees” document
+
+Credits: UMAs will be awarded and will appear on your transcripts along with each course. This UMAs will constitute extra credits to enhance your pensum, they are not considered substitute credits for the official program. You are still required to follow up with the complete three year Program and accomplish the full 150 UMAs.
+
+<b>Pre-Semester Courses</b>
+The Pre-Semester comes with a standard set of courses. Some are fixed and others can be designed by the student. Each is worth 5 UMAs and is evaluated by letter-grade (nota literal).
+
+Learning How to Learn (Aprendiendo a Aprender)
+In this course, students are challenged to reexamine the ways in which they learn. Students will practice the skills of a self-directed learner, learn to become conscious of their own habits and learning process, and experiment with different learning techniques.
+
+Self-Directed Study (Estudio Autodirigido)
+In this course, the student has the chance to design a course of study using the MPC methodology and tools. Courses may be on any subject of the student’s interest and can employ online, experiential, and collaborative learning or other tools.
+
+Independent Project (Proyecto Independiente)
+Students design and execute an independent project of their own. Projects are expected to be concrete and take forms like a prototype, a product, or a published work.
+
+Professional Development (Desarrollo Profesional)
+In this course, students have the opportunity to begin to bridge their professional and academic lives through an internship or work-study opportunity. Internships are led by the student and they are expected to receive a successful letter of recommendation at the end of the experience. 
+
+Experiential Learning (Aprendizaje Experiencial)
+Students demonstrate leadership and explore their subject of interest by designing, planning, and executing experiences for co-learners. Students also design, plan, and complete a Milestone Challenge: an endeavor that induces them to reach outside their comfort zone like presenting a lecture, traveling by themselves, or overcoming a major fear.
+
+Students receive a Fellow's Fund of Q5000 for their pre-semester contract. The MPC is happy to help with tutors, orienting a new student to the contract process, and with other needs.
+
+<b>Tips for a Good Pre-Semester</b>
+Knock out CHH: The Pre-Semester is a good opportunity to knock out CHH requirements before you begin Bootcamp.
+Take a Risk: The Pre-Semester is a great chance to take big risks in how you learn, so that you are prepared for the higher-stakes contracts in the second and third year.
+Participate: You're free to join Bootcamp activities, open courses by Fellows, and experiences by MPCers.
