@@ -147,13 +147,9 @@ One Third: MPCafé Performance
 One Third: Subject Review or Essay
 One Third: Course Final Evaluation (designed and agreed to by Tutor and Students)
 
-Each of these components is graded three ways.
-
-One Third: Student’s Evaluation
-One Third: Tutor’s Evaluation
-One Third: Peer Evaluation
-
-We use participatory grading for MPCafé. Students evaluate themselves for one third of their grade in each area. Peers (or the MPCafé crowd) evaluate students for an additional third. The tutor from the program evaluates students for the final one third.
+We use participatory grading:
+Students receive a grade from peers on their writing. 
+Students receive a grade from the MPCafé crowd.
 
 Final evaluations are graded according to the rubric set when the course is initially designed.
 
