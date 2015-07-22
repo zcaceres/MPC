@@ -157,6 +157,11 @@ We use participatory grading for MPCafé. Students evaluate themselves for one t
 
 Final evaluations are graded according to the rubric set when the course is initially designed.
 
+####Final Evaluation Policy for Bootcamp
+
+The final evaluation policy is as follows:
+If students disagree about a final evaluation, they may design their own as a sub-group of the bootcamp. Evaluations are never individual – there must be at least two people for any form of final evaluation. The tutor + MPC must also agree to the change.
+
 <b>Rubrics</b>
 <b>MPCafé</b>
 The rubric is [available here](https://docs.google.com/document/d/1Xxg8qk_nncICeY358bfl20tygGwH5Q1viYv_USdAqkE/edit?usp=sharing).
