@@ -350,7 +350,13 @@ Students can make from three to six courses per term. This is to prevent your tr
 Everything that you want to accomplish should be prepared as part of these three to six courses. Remember that a course could have multiple components that you can fill with a variety of projects or activities.
 
 ###Grade Point Averages and Academic Distinctions
-To receive a grade point average, students in the MPC must have a minimum of three courses evaluated by letter grade (nota literal) <i>every semester</i> that they are in the MPC.
+To receive a grade point average, students in the MPC must have at least three courses (or a minimum of 80% of their courses if more than three are taken) evaluated by letter grade (nota literal) <i>every semester</i> that they are in the MPC. This is a general rule of UFM.
+
+For example: 
+A student that takes three courses must take all three for letter grade.
+A student that takes four classes must take at least three for letter grade.
+A student that takes five classes must take at least four for letter grade.
+A student that takes six classes must take at least five for letter grade.
 
 Because the diversity in projects and interests, the MPC does not offer academic distinctions.
 
