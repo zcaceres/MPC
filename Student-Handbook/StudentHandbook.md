@@ -349,6 +349,11 @@ Students can make from three to six courses per term. This is to prevent your tr
 
 Everything that you want to accomplish should be prepared as part of these three to six courses. Remember that a course could have multiple components that you can fill with a variety of projects or activities.
 
+###Grade Point Averages and Academic Distinctions
+To receive a grade point average, students in the MPC must have a minimum of three courses evaluated by letter grade (nota literal) <i>every semester</i> that they are in the MPC.
+
+Because the diversity in projects and interests, the MPC does not offer academic distinctions.
+
 ###Fellows Fund
 The Fellows Fund is a personal fund that students use to secure mentors, manage their courses, and invest in their future as the creator of their own education. The Future Fund is entirely yours to manage. The MPC will not tell you how to spend it.
 
