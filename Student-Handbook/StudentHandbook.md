@@ -349,6 +349,11 @@ Students can make from three to six courses per term. This is to prevent your tr
 
 Everything that you want to accomplish should be prepared as part of these three to six courses. Remember that a course could have multiple components that you can fill with a variety of projects or activities.
 
+###General Rules of UFM
+Please familiarize yourself with the [general rules](https://www.ufm.edu/index.php/Reglamento_General) of Universidad Francisco Marroquín.
+
+The most important rules for the MPC appear in sections XVI. and XVII.
+
 ###Grade Point Averages and Academic Distinctions
 To receive a grade point average, students in the MPC must have at least three courses (or a minimum of 80% of their courses if more than three are taken) evaluated by letter grade (nota literal) <i>every semester</i> that they are in the MPC. This is a general rule of UFM.
 
