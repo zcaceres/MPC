@@ -6,7 +6,7 @@ Hi! Welcome to the handbook of the MPC at Universidad Francisco Marroquín. This
 
 <b>This document is under construction! Expect changes and improvements.</b>
 
-##Table of Contents
+##Table of Contents [Coming soon]
 1. Mindset
 2. What do I need for the MPC?
 3. MPChat with Slack App
@@ -20,7 +20,7 @@ Hi! Welcome to the handbook of the MPC at Universidad Francisco Marroquín. This
 10. MPC Philosophy, in Brief
 
 ##Mindset
-The MPC is built on the <i>growth mindset</i>. Put simply, it means that our program focuses on habits of learning rather than a curriculum built on textbooks or lectures. Important habits include: risk taking, a willingness to fail, perserverence, lifelong learning, and self-direction.
+The MPC is built on the <i>growth mindset</i>. Put simply, it means that our program focuses on habits of learning rather than a curriculum built on textbooks or lectures. Important habits include: risk-taking, a willingness to fail, perserverence, lifelong learning, and self-direction.
 
 Someone with a 'growth mindset' believes that talents and skills can be cultivated and learned. Indeed, they must be – if the learner wants to become great. So the person with a growth mindset focuses on hard work, good habits, and rising to meet new challenges.
 
@@ -39,7 +39,7 @@ What about books?
 Most readings can be found digitally. We'll rarely ask for you to buy physical copies of books, although you are free to do so if you prefer to read that way. A lot of MPCers are bibliophiles and know tons of books. Ask them if you need something to read, or check out our lending library.
 
 Software?
-We recommend Microsoft Office and design programs like Adobe Photoshop or Illustrator. These are not absolutely necessary since Google Docs exists. But they may come in handy.
+We recommend Microsoft Office and design programs like Adobe Photoshop or Illustrator. These are not absolutely necessary since Google Docs exists, but they may come in handy.
 
 Creative materials?
 If you want to spend your time working on a craft that requires lots of materials such as painting, you are responsible for those materials. The MPC does have some materials available. These are shared and you can't always count on their availability. Bring what you need. <b>If you don't want people to use your stuff, make sure you CLEARLY label what's yours.</b> Use a locker. We're a trustworthy bunch, but it's better to avoid any problems.
@@ -47,9 +47,9 @@ If you want to spend your time working on a craft that requires lots of material
 ##MPChat with Slack
 When you enroll in the MPC, we'll invite you to our private online chatroom. We use a platform called Slack.
 
-Slack is divided into independent chat rooms called channels. Most of the channels should be pretty obvious. Put cool stuff for others in "#share", put experiences in "#experiences", and put lolcats in "#random". Please be respectful of others on Slack.
+Slack is divided into independent chat rooms called channels. Most of the channels should be pretty obvious. Put cool stuff for others in "#share", put experiences in "#experiences", and put lolcats in "#random". #Announcements is the most important channel to follow since we use it for official MPC events, visitors, and info. Please be respectful of others on Slack.
 
-<b>It is your responsibility to check Slack regularly so that you don't miss important announcements.</b>
+<b>We almost never use email. It is your responsibility to check Slack regularly so that you don't miss important announcements.</b>
 
 ##Hours and the MPC Space
 The MPC space at UFM is open from 7:00 to 9:00pm, Monday through Friday. 
@@ -60,9 +60,9 @@ As a student of the MPC, you have exclusive access to this space. You are always
 Visitors are welcome in the MPC if they are part of the student's work. Bring your co-founder, your mentor, your bandmate. Every visitor must be sponsored by a student. The student will be held responsible for the visitor's behavior. Visitors must be respectful of MPCers who are doing work. What we want to avoid is random visitors abusing MPC materials or filling the MPC space and ruining the experience for students. Visitors can be asked to leave at any time by students or MPC staff if they are disruptive.
 
 <b>MPC Schedule</b>
-Bootcamp courses are scheduled for each subject cycle. We don't usually schedule things into the evening because we believe you need time with friends, family, loved ones, and to do other activities. However, we may have fun stuff like movie nights sometimes. These will usually be optional.
+Bootcamp courses are scheduled by students and their tutor during the course design workshop. We don't usually schedule things into the evening because we believe you need time with friends, family, loved ones, and to do other activities. However, we may have fun stuff like movie nights sometimes.
 
-Aside from Bootcamp, the MPC does not have an official daily schedule. The schedule emerges from the courses and experiences designed by MPCers. Consult the MPC calendar to find regular seminars, experiences, student-led courses, dialogues with visitors, and other events.
+The MPC does not have an official daily schedule. The schedule emerges from the courses and experiences designed by MPCers. Consult the MPC calendar to find regular seminars, experiences, student-led courses, dialogues with visitors, and other events.
 
 <b>It's important to check Slack, your email, and your calendar regularly.</b>
 
@@ -79,19 +79,19 @@ As you master these skills, you'll learn the core ideas of ten subjects.
 1. Philosophy
 2. Biology and Evolution
 3. Psychology
-4. Economics, Finance and Money
-5. Political Science, Law and Sociology
+4. Economics
+5. Political Science
 6. Music and Drama
 7. History and Literature
-8. Art, Design, and Cultural Evolution
+8. Art and Design
 9. Technology
-10. Entrepreneurship and Innovation
+10. Entrepreneurship
 
 Why did we choose these subjects? 
 Because they're the most important fields for the development of creative individuals. After Bootcamp, you should understand the main ideas of each field. You won't yet be an expert. That's ok! Bootcamp is to help you find direction, not make you into a professor. You'll be ready to decide which areas you want to study more deeply.
 
 What are the "course texts"?
-Each subject has texts defined by the subject tutor. Don't worry, the MPC will provide you with digital copies.
+Each subject has texts defined by you, the students, with the advice of the subject tutor. Don't worry, the MPC will provide you with digital copies.
 
 Here's important texts for understanding the MPC in general.
 
@@ -125,19 +125,23 @@ The Creative Economy
 Bootcamp is a co-designed experience between tutors and Bootcampers (first-year MPC students). Before each bootcamp begins, you'll have an initial meeting with the tutor. This meeting is a design workshop. During the workshop, you'll get to design the full course for the subject. The MPC provides you with materials to help, but you and the tutor are responsible for deciding on activities, schedules, and also for the final evaluation of the course.
 
 How will you learn the subjects? 
-Dialogues with experts, experiential learning, and independent reading and writing. The mix is up to you.
+Dialogues, experiential learning, and independent reading and writing. The mix is co-designed between you and the tutor.
 
 Here are the main components of the Bootcamp:
 1. Core Dialogues
-2. Experiential Learning Days
+2. Experiential Learning
 3. Writer's Studio
-4. Bootcamp Learning Contracts
-5. MPCafé Performances
+4. MPCafé Performances
 
-The first step to success is showing up. <b>All components are mandatory for Bootcampers</b>
+The first step to success is showing up. <b>Bootcamp elements are mandatory, per your Bootcamp course contract designed with the tutor.</b>
 
 ###Core Dialogues
 Students have focused dialogues about the main ideas of the subject. <b>You must do your reading before these dialogues begin or you will be lost.</b> Occasionally there will be other days devoted to core ideas. These conversations are intense and cover a lot of material, so get a good night's sleep.
+
+###Experiential Learning
+Typically, Bootcamp courses include experiments, peformances, field trips, and other experiences that illustrate the ideas of the subject. For example, in psychology you may have to go out and sell products using persuasion techniques. Or perhaps we'll visit real biologist's lab during biology. We'll watch films and complete workshops.
+
+Experiential learning will sometimes take you outside the MPC. Come prepared with whatever you need that day (jacket, wallet, phone, etc.)
 
 ####Bootcamp Grades
 <b>Grading During Bootcamp</b>
@@ -170,7 +174,7 @@ Use Writer’s Studio Rubric
 Student did not turn in an essay. (0/10)
 
 Peer-to-Peer Feedback on Dialogues
-Students should give and receive peer-to-peer feedback about their participation dialogues. Encourage the quiet people to speak up. Make sure one or two participants don't dominate the entire conversation.
+Students should give and receive peer-to-peer feedback about their participation dialogues. Encourage the quiet people to speak up. Make sure one participant doesn't dominate the entire conversation.
 
 <b>Final Averages</b>
 Final Averages
@@ -186,12 +190,16 @@ A: 8.5 - 10
 ###Writer's Studio
 Good writing is clear thinking made visible. Written communication is especially key to the digital age.
 
-Whatever path you take, you need to write well. The MPC Writer's Studio is a regular meeting for Bootcampers to improve their writing. Written assignments may be a book review or an essay. WE recommend that if you are uncomfortable making strong arguments through writing that you begin with a book review. Book reviews are less critical and more structured. Essays are freer and include more of your voice. You graduate to the freedom of the essay through rigorous practice of the review.
+Whatever path you take, you need to write well. The MPC Writer's Studio is a regular meeting for Bootcampers to improve their writing. Written assignments may be a book review, essay, or creative writing assignment selected by the tutor and students. 
+
+We recommend that if you are uncomfortable making strong arguments through writing that you begin with a book review. Book reviews are less critical and more structured. Essays are freer and include more of your voice. You graduate to the freedom of the essay through rigorous practice of the review.
 
 Students learn writing in a workshop environment throughout the Bootcamp. By the second half of the year, students are expected to become more critical and write lengthier, more personal essay on their reading.
 
+Writer's Studio is mandatory. We use a canvas to help students organize their writing goals and assignments. Each student's experience is customized to their needs and goals in the workshop.
+
 #####Book Reviews
-Students are responsible for producing a high-quality 1000-2000 word review or essay each subject cycle.
+Standard assignment: Students are responsible for producing a high-quality 1000-2000 word review or essay each subject cycle.
 
 [Here's the rubric for book reviews and some samples of good work.](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2dG1jUF9PR2xkN3M/view?usp=sharing)
 
@@ -204,10 +212,12 @@ The Workshop usually follows a simple format.
 30 minutes - Sprint. Write about anything, including your MPC work if you wish. No talking. No phones. No distractions.
 45 minutes - Prepare for publication, editing, peer review. Time to talk to the tutor one on one, to peer review, and edit.
 
-<b>At the end of each Writer's Workshop, you will publish your work on Medium.</b>
+These time blocks are organized using the Writer's Studio canvas.
+
+<b>At the end of each Writer's Workshop, you must publish your work on Medium.</b>
 
 ###Publication Requirements
-Publishing your work from Bootcamp is mandatory. At the end of each Writer's Workshop, you click publish. Your book review for each subject will also be published.
+Publishing your work from Bootcamp is mandatory. At the end of each Writer's Workshop, you click publish. Your written assignments for each subject will also be published.
 
 All students in Bootcamp must publish. <b>There are no exceptions.</b>
 
@@ -223,7 +233,7 @@ The MPC will not assign grades for Bootcamp unless the student has published the
 ####Help! I need structure to write!
 Students may work on any writing during the Writer's Workshop. For students who want a more structured approach, you can follow this process:
 
-#####Week 1: Pre-Reading and Introduction
+<b>Week 1: Pre-Reading and Introduction</b>
 Read preface, introduction, and at least the first chapter of the book. 
 Read liner notes and any commentary on the back cover. 
 Scan or speed-read the final chapter or conclusion. 
@@ -235,7 +245,7 @@ Bring to the workshop:
 
 Now get reading! You probably should schedule clear reading goals so you finish on-time. Talk to a coach or co-learner if you need help with this.
 
-#####Week 2: Outline and Chapters
+<b>Week 2: Outline and Chapters</b>
 Finish your book this week. Coordinate your notes and start to synthesize them into paragraph-length summaries of each chapter. Don't just regurgitate. Have some style. Remember that one short, powerful quote is worth more than ten huge block quotes. 
 
 Bring this to the workshop:
@@ -243,7 +253,7 @@ Bring this to the workshop:
 2. A first draft of the paragraphs devoted to chapter summaries
 3. A first draft of the final paragraph where you offer your own opinion of the book
 
-#####Week 3: Closing, First Draft and Peer Review
+<b>Week 3: Closing, First Draft and Peer Review</b>
 Time for some serious editing. We'll break up into groups of 2-3 for peer review. Read your work out loud to the reviewers, who take notes and give feedback. Listen to how your writing sounds as you speak it. If it sounds confusing or dumb when it's said – it's bad writing.
 
 Bring this to the peer review workshop:
@@ -251,7 +261,7 @@ Bring this to the peer review workshop:
 
 [Here's a checklist for peer review](https://docs.google.com/document/d/1InB9QeJ0qQxazB9ND8TT6mXFqtKxAoMmcnUwBKAMCRo/edit?usp=sharing)
 
-#####Week 4: Writing Tutor Consult and Final Draft
+<b>Week 4: Writing Tutor Consult and Final Draft</b>
 
 Bring this to your consult with a Writing Tutor:
 1. Your second draft (which must include feedback from peer review)
@@ -268,7 +278,7 @@ MPCafé is a monthly gathering of Bootcampers. It's an important day for student
 
 Essays or book reviews are due on MPCafé.
 
-On MPCafé, we open the program to the public. We convert the MPC into a café. Your parents might show up. Students are expected to demonstrate their mastery of their research that month in a creative format. 
+On MPCafé, we open the program to the public. We convert the MPC into a café. Your parents or friends might show up. Students are expected to demonstrate their mastery of their research that month in a creative format.
 
 MPCafé is mostly for Bootcampers. Students in their second and third years can also show their work on MPCafé. Students may practice public speaking through a talk, or may put their art or other work on display.
 
@@ -277,7 +287,7 @@ Read a [complete guide to MPCafé here](https://medium.com/mpc-reads/the-mpc-gui
 ####Public Speaking at MPCafé
 Public speaking is a core skill of life, and of the MPC. MPCafé is practice. Writing and public speaking serve different purposes. [Read this essay to understand why](http://paulgraham.com/speak.html). Put simply, writing generates, clarifies, and organizes ideas. Speaking convinces, entertains, and inspires action. A creator needs both.
 
-Your book review or essay should be a clean and accurate exposition of your ideas and reading. But your MPCafé presentation is your chance to engage more creatively with the ideas. These are not book reports or 'class presentations' like middle school. Get critical with the ideas. Put your own spin on them. Express an argument, point out something insightful or strange.
+Your written work like a book review or essay should be a clean and accurate exposition of your ideas and reading. But your MPCafé presentation is your chance to engage more creatively with the ideas. These are not book reports or 'class presentations' like middle school. Get critical with the ideas. Put your own spin on them. Express an argument, point out something insightful or strange.
 
 By default, everyone gives a 5-7 minute TED-talk style lecture on the subject. But MPCafé has an open format. You can do nearly anything you want. You have to stand in front of the crowd will all eyes on you. But what you do is up to you.
 
@@ -291,7 +301,7 @@ Example MPCafé presentations might include:
 
 All formats must include a public-speaking component. Before you perform your song, give some remarks about why you wrote it. Explain your art. Frame the scene.
 
-You can do it alone, or you can work with others. Everyone needs a main role, though. No freeloaders.
+You can do it alone, or you can work with others. Sometimes Bootcampers work as a full group. Everyone needs a main role, though. No freeloaders.
 
 <b>Whatever format you choose, your presentation is expected to be strong and professional. Remember, you'll have a real audience.</b>
 
@@ -299,31 +309,16 @@ You'll be graded by the audience and the MPC for your work on MPCafé. Have fun,
 
 > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” ― Immanuel Kant
 
-###Experiential Learning
-The MPC isn't just reading and writing. Bootcamp courses also include experiences to enhance your learning. For example, in psychology you may have to go out and sell products using persuasion techniques. Or perhaps we'll visit real biologist's lab during biology. We'll watch films and complete workshops.
-
-Experiential learning will sometimes take you outside the MPC. Come prepared with whatever you need that day (jacket, wallet, phone, etc.)
-
 ###MPC Group Excursions
 Each semester we organize at least one trip for the whole program. These are opportunities to adventure, learn, and see new places. Trips typically have themes and we assign readings and talk together when we reach our destination. During the trips time is mostly unstructured, so everyone has a chance to experience the destination.
 
 We plan these trips in advance. <b>If you confirm your attendance and then cancel at the last minute we will bill you the cost of your trip.</b> This is the same as making an airline reservation.
 
 ###Bootcamp Learning Contracts
-During Bootcamp, we encourage you to test our Learning Contract software. This software is the backbone of the second and third year. Practice makes perfect! Bootcampers will be held accountable for their learning contracts, but the courses they design will not appear on their transcript.
-
-In later years, you'll design courses that last for a full term. During bootcamp, students design a new mini-course every six weeks. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by coaches. Otherwise, focus on your Bootcamp work.
-
-For Spring 2015 the dates for these mini-contracts are:
-January 19 – March 2
-March 2 - April 6
-April 6 - May 18
-
-<b>The role of Learning Contracts during Bootcamp is to discover what kind of learner you are.</b> Do you work well with online courses? Or should you go find a job or internship to practice your skills? Do you learn best through listening, or perhaps reading? Bootcamp is your chance to discover your learning style at almost no-risk. Work hard on this because, once the second year starts, there's no going back on your contracts.
+Bootcampers are free to design their own non-credit Learning Contracts during Bootcamp. Let us know if you need help or access to our tools. Bootcampers are also encouraged to drop in on open courses led by other students and seminars led by residents and staff.
 
 ##First Year Checklist
 At least One Experience provided to the MPC per term
-Three Non-Credit Learning Contracts per term
 Passed All Bootcamp Courses (at least a C)
 
 ##The Second and Third Years – MPC Fellowship
@@ -355,7 +350,7 @@ Please familiarize yourself with the [general rules](https://www.ufm.edu/index.p
 The most important rules for the MPC appear in sections XVI. and XVII.
 
 ###Grade Point Averages and Academic Distinctions
-To receive a grade point average, students in the MPC must have at least three courses (or a minimum of 80% of their courses if more than three are taken) evaluated by letter grade (nota literal) <i>every semester</i> that they are in the MPC. This is a general rule of UFM.
+To receive a grade point average, students in the MPC must have at least three courses (or a minimum of 80% of their courses if more than three are taken) evaluated by letter grade ('nota literal') <i>every semester</i> that they are in the MPC. This is a general rule of UFM.
 
 For example: 
 A student that takes three courses must take all three for letter grade.
@@ -366,7 +361,7 @@ A student that takes six classes must take at least five for letter grade.
 Because the diversity in projects and interests, the MPC does not offer academic distinctions.
 
 ###Fellows Fund
-The Fellows Fund is a personal fund that students use to secure mentors, manage their courses, and invest in their future as the creator of their own education. The Future Fund is entirely yours to manage. The MPC will not tell you how to spend it.
+The Fellows Fund is a personal fund that students use to secure mentors, manage their courses, and invest in their future as the creator of their own education. The Fellows Fund is entirely yours to manage. The MPC will not tell you how to spend it.
 
 #####Why Fellows Fund?
 Fellows Fund allows greater flexibility when designing a course together. It allows you to invest in your education over time. It allows you to pursue free mentorships, or secure expensive mentors.
@@ -382,8 +377,8 @@ Use your money wisely. If you blow it all on useless stuff, the <b>MPC will not 
 4. Your Fellows Fund should cover:
 Materials you need for your course (books, lab materials, subscriptions to online courses, etc.)
 Mentors
-Anything else that you need to have an awesome term
-5. For each course, you need to negotiate a payment for your mentor (or convince them to volunteer). Remember that UFM mentors can help for free. We’ll still need a mentor agreement form for every course. But you set the price. The flexibility of the Fellows Fund means that you can get a mentor to work for free, or you could spend your entire budget on a high-profile mentor. Fellows Fund replaces the old process of mentor payments.
+Anything else that you need to have an awesome semester
+5. For each course, you need to negotiate a payment for your mentor (or convince them to volunteer). Remember that UFM mentors can often help for free. You need a mentor agreement form for every course. But you set the price. The flexibility of the Fellows Fund means that you can get a mentor to work for free, or you could spend your entire budget on a high-profile mentor.
 6. We will provide you with a standard mentor agreement to contract with your tutor. This agreement will be between you and the tutor. You are responsible for securing these agreements and for paying the mentor from your fund. 
 7. You can use your Fellows Fund for any other expenses that you have while you execute your contract.
 For shared courses, students should agree beforehand who will pay for what. Students can pledge a set amount to their shared course. It’s your job to negotiate with your peers.
@@ -406,10 +401,10 @@ You will not receive your Fellows Fund until:
 Managing your own finances is an important part of your independence! So go get a bank account. You can open one right here at UFM through the Banco Industrial branch below the MPC. You’ll need to share your bank account data with the MPC so we can make the transfer.
 
 #####Fellows Fund Commitment Contracts at the MPC
-Have trouble forming a habit or worried that you’ll flake on a commitment? Write a commitment contract with the MPC. These are small agreements where you pledge money to do a task (lose ten pounds by March, read five books by June). Bring your contract and the cash you want to pledge to the MPC. We will hold the money. If you satisfy the commitment, you get the money back. If you don’t, you forfeit the money to the MPC which will use it to improve the space.
+Have trouble forming a habit or worried that you’ll flake on a commitment? Write a commitment contract with the MPC. These are small agreements where you pledge money to do a task (lose ten pounds by March, read five books by June). Bring your contract that specifies how much money you want to pledge. We will hold the money. If you satisfy the commitment, you get the money back. If you don’t, you forfeit the money to the MPC which will use it to improve the space.
 
 ###Can all my classes be open?
-No. You can't join only open courses. You need at least one 'personal' course. Why? Because of how UFM's UMA system works. But more importantly, you shouldn't be only freeriding on the course designs of other students. Take the material of other courses and use it to make something of your own.
+No. You can't only join open courses. You need at least one 'personal' course. Why? Because of how UFM's UMA system works. But more importantly, you shouldn't be only freeriding on the course designs of other students. Take the material of other courses and use it to make something of your own.
 
 ###How do I put my Great Work in my Learning Contract?
 Read the section on the Great Work below.
@@ -439,7 +434,7 @@ You can start to design a contract at any time, not just in the weeks provided b
 Practice makes perfect. Do your failing early and often. Practice new ideas and skills as much as you can during the course, so you have something solid by the end. This is especially important for skills like math, languages, and music. This goes under the "strategy" section. Besides your final evaluation, strategy may be the most important part of your courses.
 
 <b>Concrete Outcomes/Metrics</b>
-Bad outcome: "I will become a better designer." (This doesn't really tell you if you've achieved the goal!) Good outcome: "I will complete four paid design jobs as a freelancer before the end of the semester." Success and failure of this outcome is crystal clear.
+Bad outcome: "I will become a better designer." (This doesn't really tell you if you've achieved the goal!) Good outcome: "I will complete four paid design jobs as a freelancer before the end of the semester." Success and failure of this outcome is crystal clear. MPC will reject contracts with vague goals.
 
 <b>Start with Good Materials</b>
 Spend some time researching the materials that you'll use for your course. Even if you don't know the exact books or chapters you'll use, put a good starting point. You can always tweak the materials or add more later. Get yourself on a firm foundation. Staff, other MPCers, and people at UFM can help you find resources for your course if you're unsure. Most resources are just a Google search away!
@@ -451,15 +446,15 @@ Bad: "I'll write a paper on Shakespeare."
 Good: "I'll write a 10,000 word paper with academic citations on Shakespeare's relationship to rap music."
 
 Bad: "I'll record a song."
-Good: "I'll record a song of at least 3 minutes with multiple tracks and publish it on my Soundcloud."
+Good: "I'll record a song of at least 3 minutes with multiple instrument tracks and publish it on my Soundcloud."
 
-Don't just write a paper that no one wants to read. Don't do work for no reason. Publish. Design. Get it out in the world. Get it in your portfolio. Do real work. You'll thank yourself later. We encourage students to do projects that will enhance their professional portfolios and life rather than 'busy work'.
+Don't just write a paper that no one wants to read. Don't do work for no reason. Publish. Design. Get it out in the world. Get it in your portfolio. <b>Do real work.</b> You'll thank yourself later. We encourage students to do projects that will enhance their professional portfolios and life rather than 'busy work'.
 
 <b>Incorporate your Life</b>
 There doesn't need to be any difference between your professional/work life and your academic/student life. Working a part time job in advertising? Find a place for it in your contract. Picked up a couple freelancing gigs? Define clear outcomes and put it in your contract.
 
 ####Does the MPC control my learning process?
-No. Learning is a dynamic process. If the textbook you're using is no good, or the video lectures are boring, change them. This also allows you to take advantage of opporutnities that arise, such as a new internship that will teach you more than the reading and work process that you had planned. You can nest all of life's wonderful surprises into your contract, so long as you still reach your goals. Make sure to track your progress and the changes you make in your portfolio!
+No. Learning is a dynamic process. If the textbook you're using is no good, or the video lectures are boring, change them. This also allows you to take advantage of opportunities that arise, such as a new internship that will teach you more than the reading and work process that you had planned. You can nest all of life's wonderful surprises into your contract, so long as you still reach your goals. Make sure to track your progress and the changes you make in your portfolio!
 
 ####Writing a Good Course Description
 Course descriptions go into UFM's system of course management. They're tied to the courses you design. If someone wants to know what your class was about, they can access this description. So make it good!
@@ -524,7 +519,7 @@ Before your Learning Contract is submitted for review, you must confirm the ment
 Use the [MPC Mentor Guide](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2M2x2cTNaSW0zVjA/view?usp=sharing). [update here]
 
 ####Flexible Mentoring - Contract for What You Need
-The MPC requires that students contract a mentor to provide them with a grade on their final evaluation. Beyond this commitment, there is no minimum (or maximum) mentoring requirement. Schedule check-ins, or not. Get lots of one-on-one time, or not! You can receive feedback from (and negotiate payments with) as many mentors as you want. 
+The MPC requires that students contract a mentor to provide them with a grade on their final evaluation. Beyond this commitment, there is no minimum (or maximum) mentoring requirement. Schedule check-ins, or not. Get lots of one-on-one time, or not. You can receive feedback from (and negotiate payments with) as many mentors as you want. 
 
 Some students want more attnetion than others. It may be important to meet at certain moments than others. Flexible mentoring lets your contract accommodate your needs and helps you align incentives with your mentor.
 
@@ -553,7 +548,7 @@ Promote your experience, especially if it's outside the MPC space. Make a poster
 ####Milestone Experience
 The Milestone is a special type of experience. While MPCers design two experiences for other students, the Milestone is designed for the student herself. Each term MPCers are responsible for one Milestone.
 
-Your Milestone should stretch you beyond your comfort zone. If you're afraid of public speaking, you should give a public lecture. If you've never gone rock climbing, you should go. If you've never been able to continue a habit for more than a week, you could publicly track your habit for three weeks. You could interview someone in a high-pressure situation, or publish something to a wider audience than ever before.
+Your Milestone should stretch you beyond your comfort zone. If you're afraid of public speaking, you should give a public lecture. If you've never gone rock climbing, you should go. If you've never been able to continue a habit for more than a week, you could publicly track your habit for five weeks. You could interview someone in a high-pressure situation, or publish something to a wider audience than ever before.
 
 The Milestone is your chance to grow the emotional and psychological skills that you need to be a creator.
 
@@ -594,7 +589,7 @@ Residents are also there if you need to talk about something. They'll check in o
 ####Tutors
 During the first year, we hire experts in individual subjects to lead month-long Bootcamps in 10 different fields. These are professionals from UFM and elsewhere. You will work closely with these experts in a group of about 12-18. But there will be plenty of opportunity for one-on-one attention during the courses as well.
 
-[Here's a link to our Subject Tutor Handbook]()
+[Here's a link to our Subject Tutor Handbook](https://drive.google.com/file/d/0BwTbZzlJYPL2aWc5bS12X0M0T1k/view?usp=sharing)
 
 We bring in a tutor for each subject to lead discussions on core ideas and to help you with your independent reading. These experts take you through the main ideas and are available to answer questions during unstructured time at the MPC. It's your responsibility to talk to them if you're confused.
 
@@ -607,7 +602,7 @@ Remember, mentors are often busy people. You don't want to bother them too often
 
 You shouldn't just view mentors as people who give feedback and grades. A good mentorship is often the first step to a job or other professional and life opportunities. Treat your mentors well because they can become lifelong friends and contacts.
 
-[Here's a link to our Mentor Guide](https://drive.google.com/a/ufm.edu/file/d/0BwTbZzlJYPL2M2x2cTNaSW0zVjA/view?usp=sharing)
+[Here's a link to a folder with important documents for your Learning Contract](https://drive.google.com/a/ufm.edu/folderview?id=0BzxEk7u4UzLBfkhxMGhGMEtYYTBKSnVNZmNzSDRqd2NoQlJEMFEzajZpZlV5cmlOYkJ5S2s&usp=sharing)
 
 ####Visiting Professors
 We bring in speakers and other professors for discussions, debates, and other activities. Visitors typically dialogue with students about a topic.
@@ -633,14 +628,14 @@ Internships also are ways to build your network. Working first as an intern ofte
 ####Finding an Internship
 As you work with mentors during Bootcamp and in your Learning Contracts, watch for opportunities to intern. Many people want an intern. It's nice to have someone who wants to help you (usually for free), and who is interested in your work. Many people don't know they want an intern until you suggest it... so ask!
 
-The MPC has a rich network of possible internships. Talk to residents, classmates, mentors, and anyone else around the MPC. Someone will know somebody who can help. On-sight internships are preferred but, if necessary, an internship could even be conducted digitally, with tools like Skype and Googledocs.
+The MPC has a rich network of possible internships. Talk to residents, classmates, mentors, and anyone else around the MPC. Someone will know somebody who can help. On-site internships are preferred but, if necessary, an internship could even be conducted digitally, with tools like Skype and Googledocs.
 
-If existing internships look boring, pitch your own. Many times a business or other organization can be convinced to offer a new internship based around what you want to learn, as long as it makes value for their organization.
+<b>If existing internships look boring, pitch your own.</b> Many times a business or other organization can be convinced to offer a new internship based around what you want to learn, as long as it makes value for their organization.
 
 If you need help with how to approach an internship opportunity, talk to someone with more experience. The MPC can help you make a connection, but <b>you are responsible for approaching the mentor and convincing them to employ you as an intern.</b> This is a valuable and important life skill and it's part of your education. Make sure you check out visa requirements if you're traveling abroad!
 
 ###Confirming your Internship with the MPC
-The MPC needs your internship to send an acceptance letter to mpc@ufm.edu. This is so we know you have secured your internship. To incorporate your internship into your learning contract, you'll also need to submit a mentor agreement form (usually it's your boss who signs it!).
+The MPC needs your internship to send an acceptance letter to mpc@ufm.edu. This is so we know you have secured your internship. To incorporate your internship into your learning contract, you'll also need to submit a mentor agreement form (usually it's your boss who signs it).
 
 ##Graduation and Life Beyond the MPC
 We want the MPC to prepare you for life beyond school. As a community for creative leaders, graduation requirements reflect our commitment to your long term work as a creator.
@@ -654,7 +649,7 @@ All new students admitted to the MPC are asked to make a portfolio. We base a po
 
 Not everything goes in a portfolio. Put stuff that you're proud of and that's relevant to your future customers/bosses/clients. Think of yourself as a brand – how do you want people to perceive you when they browse your portfolio? Portfolios may be on paper or online. Ideally, you should have a version of both.
 
-Portfolios help you get into graduate school and they can land you a good job. If you plan to start your own business or work as a freelancer, your portfolio is like an elaborate business card. Building a portfolio can be fun and it's worth it. Coaches are available if you need help. And don't forget that your peers are there for feedback too.
+Portfolios help you get into graduate school and they can land you a good job. If you plan to start your own business or work as a freelancer, your portfolio is like an elaborate business card. Building a portfolio can be fun and it's worth it. The MPC can help. And don't forget that your peers are there for feedback too.
 
 ####Great Work
 When you begin your Great Work in the 3rd year, we expect you to take a lighter load of extra classes. <b>Your Great Work should be clearly incorporated into your contract as a course.</b> Your Great Work course should be the heaviest of all your courses (6-8 UMAs). Developing your Great Work could be a 8 UMA course, which would leave 12 UMAs left to design additional courses (two five UMA courses and a 2 UMA course). You're still responsible for your Milestone Challenge and experiences in the MPC.
@@ -695,7 +690,7 @@ If a student fails the Great Work Panel, the panel will talk with the student ab
 ####Centro Henry Hazlitt Requirements for MPC
 UFM requires all students to pass basic economic proficiency exams to graduate. This is taught and tested through Centro Henry Hazlitt (CHH).
 
-MPC students must pass an exam that tests Basic Economics (called Proceso 1 and 2 at UFM) and Ética (basically the philosophy of individual liberty class).
+MPC students must pass an exam that tests Basic Economics (called Proceso 1 and 2 at UFM) and Ética (a philosophy class).
 
 The MPC has a list of all the concepts and ideas from these courses. We give you the list and we curate some materials to give you direction, if you need it. You can learn these ideas in any way you want. You can find a tutor, you can work together, you can ask us to help, you can go online etc. When you're ready, you take the test. If you pass, you'll have fulfilled the graduation requirement.
 
@@ -707,12 +702,12 @@ The MPC awards B.A. degrees in Liberal Studies with a focus that you define. A s
 ##Graduation Checklist
 1. Six terms passed in the MPC (250 UMAs)
 2. One successful internship (with a 'passed' letter of recommendation)
-3. Great Work Panel passedme
+3. Great Work Panel passed
 
 ###Policy for Changes to the MPC
 Occasionally, the MPC program changes. New opportunities emerge, or we discover that something doesn't work well. We are always interested in improving the program, so bring us your ideas!
 
-However if we change the program based on the demands of small groups or single students, we create unhealthy power dynamics. Students then form small coalitions and try to lobby the administration to change policies. This is a bad way to run a program.
+However if we change the program based on the demands of small groups or single students, we create unhealthy power dynamics. Students then form small coalitions and try to lobby the administration to change policies. This is a bad way to create a healthy community.
 
 So the rule is simple:
 
@@ -734,12 +729,14 @@ Students are asked to look deep within themselves to find their a creative calli
 ###MPC Pre-Semester
 The Pre-MPC Term is a chance for students to practice the self-directed study format of Year 2 and 3 through a funded MPC Learning Contract.  Students will become familiar with the MPC methodology, explore their interests and build skills of self-discipline which will provide them an advantage before entering the MPC three-year program. This will also provide the student the opportunity to enhance their MPC curriculum with an extra semester of courses.
 
-Cost: 
+Pre-MPC Cost
+Costs are the same as any other term in the MPC.
+
 Cost Per Term: $4,000
 UFM Service Monthly Fee: $40
 * detailed information in in the “MPC Payment Fees” document
 
-Credits: UMAs will be awarded and will appear on your transcripts along with each course. This UMAs will constitute extra credits to enhance your pensum, they are not considered substitute credits for the official program. You are still required to follow up with the complete three year Program and accomplish the full 150 UMAs.
+Credits: UMAs will be awarded and will appear on your transcripts along with each course. This UMAs will constitute extra credits to enhance your degree, they are not considered substitute credits for the official program. You are still required to follow up with the complete three year Program and accomplish the full 150 UMAs.
 
 <b>Pre-Semester Courses</b>
 The Pre-Semester comes with a standard set of courses. Some are fixed and others can be designed by the student. Each is worth 5 UMAs and is evaluated by letter-grade (nota literal).
