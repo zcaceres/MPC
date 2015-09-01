@@ -580,7 +580,8 @@ Here's a good way to approach a mentor:
 ##The People You'll Meet
 Because of the MPC's unique model, we do not have permanent faculty. Here are the people you'll encounter during your time in the MPC.
 
-####Residents: We keep residents on hand to help students create courses, and structure their goals and Learning Contracts. Residents give seminars about areas that they're interested in. They hang out in the MPC space. Most are professionals with businesses or other work outside the MPC. We did this deliberately. Keeping active professionals in the space allows students to network for opportunities and to learn from the real experience of others.
+####Residents 
+We keep residents on hand to help students create courses, and structure their goals and Learning Contracts. Residents give seminars about areas that they're interested in. They hang out in the MPC space. Most are professionals with businesses or other work outside the MPC. We did this deliberately. Keeping active professionals in the space allows students to network for opportunities and to learn from the real experience of others.
 
 Residents are also there if you need to talk about something. They'll check in occasionally to see how you're doing toward your goals.
 
@@ -690,7 +691,7 @@ If a student fails the Great Work Panel, the panel will talk with the student ab
 ####Centro Henry Hazlitt Requirements for MPC
 UFM requires all students to pass basic economic proficiency exams to graduate. This is taught and tested through Centro Henry Hazlitt (CHH).
 
-MPC students must pass an exam that tests Basic Economics (called Proceso 1 and 2 at UFM) and Ética (a philosophy class).
+MPC students must pass an exam that tests Basic Economics (called Proceso 1 and 2 at UFM), Filisofía de Hayek, and Ética (a philosophy class).
 
 The MPC has a list of all the concepts and ideas from these courses. We give you the list and we curate some materials to give you direction, if you need it. You can learn these ideas in any way you want. You can find a tutor, you can work together, you can ask us to help, you can go online etc. When you're ready, you take the test. If you pass, you'll have fulfilled the graduation requirement.
 
@@ -703,6 +704,7 @@ The MPC awards B.A. degrees in Liberal Studies with a focus that you define. A s
 1. Six terms passed in the MPC (250 UMAs)
 2. One successful internship (with a 'passed' letter of recommendation)
 3. Great Work Panel passed
+4. Passed all Centro Henry Hazlitt requirements
 
 ###Policy for Changes to the MPC
 Occasionally, the MPC program changes. New opportunities emerge, or we discover that something doesn't work well. We are always interested in improving the program, so bring us your ideas!
@@ -718,13 +720,6 @@ Why do we do this?
 2. To make sure no one has major changes randomly imposed on them, without any idea of what's coming
 3. To encourage group coherence and cooperation
 4. Because if everybody agrees with a change, it's probably an important one to make.
-
-###Creative Development Seminars
-Growing as a creative leader is difficult. During the Bootcamp, we also have activities and discussions specifically about creative development. These discussions have a philosophical and a practical side. Sometimes we'll focus on themes like integrity, authenticity, grit, or creative courage. Other times we'll learn about project management, how to deal with difficult people, or organizational skills.
-
-Starting at Orientation Day, students are asked to examine questions of their own personal philosophy. Students read, participate in discussions, attend workshops, and have experiences meant to encourage them to become more authentic, to give and receive honest feedback, and to become courageous and creative non-conformists.
-
-Students are asked to look deep within themselves to find their a creative calling. As students learn more about the world and understand themselves better, they prepare to enter their second year of apprenticeship and to explore their creative medium in the third year.
 
 ###MPC Pre-Semester
 The Pre-MPC Term is a chance for students to practice the self-directed study format of Year 2 and 3 through a funded MPC Learning Contract.  Students will become familiar with the MPC methodology, explore their interests and build skills of self-discipline which will provide them an advantage before entering the MPC three-year program. This will also provide the student the opportunity to enhance their MPC curriculum with an extra semester of courses.
