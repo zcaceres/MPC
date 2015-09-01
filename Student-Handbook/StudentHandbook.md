@@ -344,6 +344,22 @@ Students can make from three to six courses per term. This is to prevent your tr
 
 Everything that you want to accomplish should be prepared as part of these three to six courses. Remember that a course could have multiple components that you can fill with a variety of projects or activities.
 
+##Everything you need to submit forms and manage your Learning Contract!
+The MPC hosts a folder called [Students Files Per Term](https://drive.google.com/a/ufm.edu/folderview?id=0BzxEk7u4UzLBflM1VG9NS0dUdUNLNXZnMUhvMk5ZMlBERG5nem1FbFBubnA0UGZhYzA2NG8&usp=sharing) with all the important documents that you need to manage your Learning Contract.
+
+Inside is a folder called <b>Important Documents</b> where you can find:
+Mentor Agreement Forms – the agreement you need for each mentor (one per course)
+Grading Rubrics – the form you'll use to decide how you'll be evaluated by your mentor (one per course)
+Grading Forms - the form that the mentor uses to submit your final evaluation grade (one per course)
+Experience Submission Forms - use these to submit your experiences for approval each semester (more on this below!)
+Great Work Submission Form - submitted to begin your Great Work Panel in the final year
+
+Print these forms when you start the semester and design your Learning Contract.
+
+You'll also find a personal folder to submit your files. <b>Choose your year, for example "Ingreso 2012" if you joined the MPC in 2012. In that folder you'll find your name. Inside your named folder are subfolders where you can submit all of your documents for your Learning Contract. You will also find information on your Fellows Fund. 
+
+<b>Don't send your documents to the MPC email, just upload them to the proper folder.</b>
+
 ###General Rules of UFM
 Please familiarize yourself with the [general rules](https://www.ufm.edu/index.php/Reglamento_General) of Universidad Francisco Marroquín.
 
@@ -470,7 +486,7 @@ Sometimes when you start a course, you think a particular final project will be 
 
 Just as the MPC allows for a dynamic process for you to learn, you can also upgrade your final evaluations. How does this work? Write up the proposed change to your final evaluation. Then it must be approved by the mentor who will grade and the MPC. That's it!
 
-<b>What will be approved:</b>
+<b>What will be approved</b>
 A different project of equal difficulty: I was going to write a 20 page paper, instead I'm going to organize a symposium at UFM.
 
 A harder or more ambitious project: I was going to paint 5 works, now I'm going to paint 10.
