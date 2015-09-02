@@ -356,7 +356,7 @@ Great Work Submission Form - submitted to begin your Great Work Panel in the fin
 
 Print these forms when you start the semester and design your Learning Contract.
 
-You'll also find a personal folder to submit your files. <b>Choose your year, for example "Ingreso 2012" if you joined the MPC in 2012. In that folder you'll find your name. Inside your named folder are subfolders where you can submit all of your documents for your Learning Contract. You will also find information on your Fellows Fund. 
+You'll also find a personal folder to submit your files. Choose your year, for example "Ingreso 2012" if you joined the MPC in 2012. In that folder you'll find your name. Inside your named folder are subfolders where you can submit all of your documents for your Learning Contract. You will also find information on your Fellows Fund. 
 
 <b>Don't send your documents to the MPC email, just upload them to the proper folder.</b>
 
