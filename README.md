@@ -1,8 +1,8 @@
 #MPC Policies and Handbooks
 ============
-Policies, protocols, and organization for the Michael Polanyi College at Universidad Francisco Marroquín.
+Policies, protocols, and organization for the Michael Polanyi College at Universidad Francisco Marroquín. We know this is an 'ugly' place to put documents, but it's the best version-control software out there.
 
-The purpose of this repo is to collect all major components of the MPC model. First we will migrate our existing documents. Then we will open these documents to collaboration by students and staff using Github.
+The purpose of this repo is to collect all major internal components of the MPC model.
 
 Github allows all collaborators to change rules and policies for the MPC. It allows for an on-going conversation and evolution of the model. 
 
