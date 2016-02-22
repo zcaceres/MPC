@@ -1,0 +1,295 @@
+/* Reset*/
+html, body, div, span, object, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym,
+address, cite, code, em, img, strong, sup, var, b, u, i, center, ol, ul, li, fieldset, form, label,
+article, aside, figure, figcaption, footer, header, hgroup,  menu, nav, section, summary, time, mark, audio, video
+{
+  vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after {
+  content: ''; content: none;
+}
+strong {
+  font-weight: bold;
+}
+
+
+
+
+/* Base */
+
+html {
+  font-size: 18px; /* Base text size */
+  background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: "Helvetica neue", helvetica, Arial, sans-serif;
+  line-height: 1.5; /* best-practice 150% spacing */
+  font-size: 100%; /* 18/18 */
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/*Typography*/
+
+.sidebar {
+  font-family: Biko, helvetica, sans-serif;
+}
+
+.sidebar h2 {
+  font-size: 100%; /* 18/18 */
+}
+
+.sidebar-content {
+  color: #FFF;
+  font-size: 88.88888889%;
+}
+
+#content-image {
+  text-align: center;
+}
+
+#title {
+  font-size: 500%; /* 90/18 */
+  font-weight: normal;
+  font-family: "Big John", helvetica, sans-serif;
+  text-align: center;
+  line-height: 1.0;
+}
+
+#subtitle {
+  font-family: Biko, helvetica, sans-serif;
+  text-align: center;
+  font-size: 177.77777778%; /* 32/18 */
+  font-weight: bold;
+  color: #000;
+}
+
+.logo {
+  font-size: 500%; /* 90/18 */
+  font-family: "Big John";
+  text-align: center;
+}
+
+main h2 {
+  font-family: "Big John", helvetica, sans-serif;
+  font-size: 277.77777778%; /* 50/18 */
+  text-align: center;
+  color: hsla(8, 90%, 55%, 1),
+}
+
+main h3 {
+  font-family: Biko, helvetica, sans-serif;
+  font-size: 177.77777778%; /* 32/18 */
+  margin-bottom: auto;
+}
+
+main h4 {
+  font-size: 133.33333333%; /* 24/18 */
+  margin: auto auto;
+}
+
+a {
+  text-decoration: underline;
+  color: #000;
+}
+
+a:hover {
+  color: hsla(8, 90%, 55%, 1);
+}
+
+.navlink {
+  color: #FFF;
+}
+
+.navlink :hover{
+  color: #000;
+}
+
+figcaption {
+  text-align: center;
+}
+
+blockquote.decor {
+  font-family: Biko;
+  text-align: center;
+  font-size: 150%; /* 27/18 */
+}
+
+footer p {
+  text-align: center;
+  font-size: 66.66666667%; /* 10/18 */
+}
+
+.generalities {
+  text-align: center;
+}
+
+.warning {
+  color: hsla(8, 90%, 55%, 1);
+  font-size: 200%; /* 36/2 */
+  text-align: center;
+}
+
+.faq {
+  color: hsla(8, 90%, 55%, 1);
+  font-size: 150%; /* 27/2 */
+  text-align: center;
+}
+
+
+
+/* Utilities */
+
+.group:after {
+  clear: both;
+  content: " ";
+  display: block;
+  font-size: 0;
+  height: 0;
+  visibility: hidden;
+}
+
+
+
+/* Layout */
+
+html {
+  margin: 36px auto;
+  width: 95%; /* 1012 total px container */
+}
+
+main {
+  float: right;
+  width: 75.15810277%; /* 710/1012 */
+}
+
+header {
+  background-image: url(images/shapes.gif);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position: center center;
+}
+
+header h1 {
+  padding: 4%;
+}
+
+section.sidebar {
+  width: 15.01976285%; /* 152/1012 */
+}
+
+h1.logo {
+  margin-bottom: 0;
+  margin-top: 18%;
+}
+
+.sidebar-content {
+  float: left;
+  width: inherit;
+  bottom: 0%;
+  background-color: hsla(8, 90%, 55%, 0.7);
+  left: 3%;
+  padding: 1%;
+  position:fixed;
+  }
+
+  .sidebar-content ul {
+    display:inline;
+  }
+
+.toc a {
+  display:block;
+}
+
+figure {
+  float: right;
+  padding: 2%;
+}
+
+#content-image {
+  display: block;
+  float: none;
+}
+
+figure img {
+  width: inherit;
+  margin: 0 auto;
+}
+
+footer {
+  bottom: 0;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 1215px) {
+  .logo {
+    font-size: 350%;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 852px) {
+  main {
+    width: 100%;
+  }
+
+  #title {
+    font-size: 300%;
+  }
+
+  main h2 {
+    font-size: 200%;
+  }
+
+  section.sidebar {
+    padding: 0%;
+    margin: 0%;
+    height: 0%;
+  }
+
+  div.sidebar-content {
+    float: none;
+    margin: 0%;
+    padding: 0%;
+    width: auto;
+    left: 0%;
+    right: 0%;
+    position: fixed;
+    font-size: 100%;
+  }
+
+  nav h1, nav h2, section div nav ul li a {
+    display: inline;
+    padding: 0% 0% 0% 2%;
+    margin: 0%;
+    text-align: center;
+  }
+
+  h1.logo {
+    display:inline;
+    margin: 0%;
+    padding: 0% 0% 0% 2%;
+  }
+
+  .logo {
+    font-size: 200%;
+  }
+}
